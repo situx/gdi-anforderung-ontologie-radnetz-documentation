@@ -20,7 +20,7 @@ jobs:
     uses: sparqlunicorn/sparqlunicornGoesGIS-ontdoc/.github/workflows/udoc.yml@main
     with: 
         version: v018
-        rdffilepath: reports/Radwege_wuppertal_abox.ttl
+        rdffilepath: reports/wuppertal/Radwege_wuppertal_abox.ttl
         docpath: docs
         prefixns: https://registry.gdi-de.org/de.nw/radnetz/instances/
         prefixnsshort: exnw
