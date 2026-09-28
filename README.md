@@ -1,7 +1,7 @@
 # Radnetz Ontologie Dokumentation (GDI-DE)
 
 Dieses Repository enthält die OWL/RDF-Spezifikation und die automatisierte HTML-Dokumentationspipeline für die **Radnetz-Ontologie** der Geodateninfrastruktur Deutschland (GDI-DE) und des Bundesamtes für Logistik und Mobilität (BALM).
-
+ 
 * **Autorin:** Dr. Claire Ponciano
 * **Ontologie-Datei:** [`radnetz_ontology.ttl`](radnetz_ontology.ttl)
 * **Live-Dokumentation (GitHub Pages):** [https://cprudhomme.github.io/gdi-anforderung-ontologie-radnetz-documentation/](https://cprudhomme.github.io/gdi-anforderung-ontologie-radnetz-documentation/)
