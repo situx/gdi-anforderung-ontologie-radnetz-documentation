@@ -22,8 +22,8 @@ jobs:
         version: v018
         rdffilepath: reports/Radwege_wuppertal_abox.ttl
         docpath: docs
-        prefixns: https://registry.gdi-de.org/up3/ontology/
-        prefixnsshort: gdi
+        prefixns: https://registry.gdi-de.org/de.nw/radnetz/instances/
+        prefixnsshort: exnw
         indexpages: true
         createcollections: true
         createnonNSPages: true
