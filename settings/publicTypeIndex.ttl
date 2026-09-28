@@ -18597,19 +18597,19 @@ skos:Collection a owl:Class .
 <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//settings/publicTypeIndex.ttl#SpatialObjectCollection> ns1:forClass <#> ;
     ns1:instance <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//SpatialObjectCollection> .
 
-<https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//settings/publicTypeIndex.ttl#Streckenabschnitt_optional> ns1:forClass <#> ;
+<https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//settings/publicTypeIndex.ttl#Streckenabschnitt_optional> ns1:forClass geo:Feature ;
     ns1:instance <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//Streckenabschnitt_optional> .
 
 <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//settings/publicTypeIndex.ttl#Streckenabschnitt_optional_collection> ns1:forClass geo:FeatureCollection ;
     ns1:instance <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//Streckenabschnitt_optional_collection> .
-
-geo:Feature a owl:Class .
 
 geo:FeatureCollection a owl:Class ;
     rdfs:subClassOf geo:SpatialObjectCollection .
 
 geo:GeometryCollection a owl:Class ;
     rdfs:subClassOf geo:SpatialObjectCollection .
+
+geo:Feature a owl:Class .
 
 geo:Geometry a owl:Class .
 
@@ -18621,7 +18621,8 @@ owl:Class a owl:Class .
 <http://www.opengis.net/ont/sf#LineString> a owl:Class ;
     rdfs:subClassOf geo:Geometry .
 
-<https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional> a owl:Class .
+<https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional> a owl:Class ;
+    rdfs:subClassOf geo:Feature .
 
 <http://www.opengis.net/ont/sf#Point> a owl:Class ;
     rdfs:subClassOf geo:Geometry .

@@ -11863,10 +11863,10 @@ var tree={
       "http://www.w3.org/2000/01/rdf-schema#member":{
        "http://www.opengis.net/ont/geosparql#FeatureCollection":1181
       },
-      "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten":{
+      "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten":{
        "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
       },
-      "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten":{
+      "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten":{
        "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
       }
      },
@@ -11883,7 +11883,7 @@ var tree={
       "http://www.w3.org/1999/02/22-rdf-syntax-ns#type":{
        "instancecount":1181
       },
-      "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt":{
+      "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt":{
        "instancecount":1134,
        "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
       },
@@ -11897,7 +11897,7 @@ var tree={
       "https://registry.gdi-de.org/up3/ontology/knoten-ID":{
        "instancecount":1181
       },
-      "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt":{
+      "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt":{
        "instancecount":1134,
        "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
       }
@@ -35110,10 +35110,10 @@ var tree={
    },
    {
     "id":"https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional",
-    "parent":"#",
-    "type":"geoclass",
+    "parent":"http://www.opengis.net/ont/geosparql#Feature",
     "instancecount":1134,
-    "text":"Streckenabschnitt_optional (gdi:Streckenabschnitt_optional) [1134]",
+    "type":"geoclass",
+    "text":" (gdi:Streckenabschnitt_optional) [1134]",
     "data":{
      "from":{
       "http://www.w3.org/2000/01/rdf-schema#member":{
@@ -35147,9 +35147,6 @@ var tree={
        "instancecount":1134,
        "https://registry.gdi-de.org/up3/ontology/Knoten":1134
       },
-      "https://registry.gdi-de.org/up3/ontology/fuehrung":{
-       "instancecount":459
-      },
       "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt":{
        "instancecount":1134,
        "http://www.opengis.net/ont/sf#LineString":1134
@@ -35168,6 +35165,9 @@ var tree={
       },
       "https://registry.gdi-de.org/up3/ontology/strecken-ID":{
        "instancecount":1134
+      },
+      "https://registry.gdi-de.org/up3/ontology/fuehrung":{
+       "instancecount":459
       }
      }
     }
@@ -46588,8 +46588,8 @@ var tree={
       },
       "http://www.w3.org/2000/01/rdf-schema#member":{
        "instancecount":2315,
-       "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134,
-       "https://registry.gdi-de.org/up3/ontology/Knoten":1181
+       "https://registry.gdi-de.org/up3/ontology/Knoten":1181,
+       "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
       }
      }
     }
@@ -46646,8 +46646,8 @@ var tree={
       },
       "http://www.w3.org/2000/01/rdf-schema#member":{
        "instancecount":2315,
-       "http://www.opengis.net/ont/sf#Point":1181,
-       "http://www.opengis.net/ont/sf#LineString":1134
+       "http://www.opengis.net/ont/sf#LineString":1134,
+       "http://www.opengis.net/ont/sf#Point":1181
       }
      }
     }

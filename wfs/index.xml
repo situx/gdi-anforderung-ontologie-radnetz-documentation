@@ -38,15 +38,9 @@
         </ows:OperationsMetadata>
         <wfs:FeatureTypeList>
                 <wfs:FeatureType>
-                    <wfs:Name>Streckenabschnitt_optional_collection</wfs:Name>
-                    <wfs:Title>Streckenabschnitt_optional_collection</wfs:Title>
-                    <wfs:Abstract>FeatureCollection Streckenabschnitt_optional_collection</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>Point_collection</wfs:Name>
-                    <wfs:Title>Point_collection</wfs:Title>
-                    <wfs:Abstract>FeatureCollection Point_collection</wfs:Abstract>
+                    <wfs:Name>LineString_collection</wfs:Name>
+                    <wfs:Title>LineString_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection LineString_collection</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -56,15 +50,15 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>LineString_collection</wfs:Name>
-                    <wfs:Title>LineString_collection</wfs:Title>
-                    <wfs:Abstract>FeatureCollection LineString_collection</wfs:Abstract>
+                    <wfs:Name>Point_collection</wfs:Name>
+                    <wfs:Title>Point_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Point_collection</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_405</wfs:Name>
-                    <wfs:Title>nonns_405</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_405</wfs:Abstract>
+                    <wfs:Name>Streckenabschnitt_optional_collection</wfs:Name>
+                    <wfs:Title>Streckenabschnitt_optional_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Streckenabschnitt_optional_collection</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -74,21 +68,9 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
-                    <wfs:Name>nonns_2</wfs:Name>
-                    <wfs:Title>nonns_2</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_2</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
                     <wfs:Name>nonns_3</wfs:Name>
                     <wfs:Title>nonns_3</wfs:Title>
                     <wfs:Abstract>FeatureCollection nonns_3</wfs:Abstract>
-                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
-
-                <wfs:FeatureType>
-                    <wfs:Name>nonns_401</wfs:Name>
-                    <wfs:Title>nonns_401</wfs:Title>
-                    <wfs:Abstract>FeatureCollection nonns_401</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
@@ -98,9 +80,27 @@
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 
                 <wfs:FeatureType>
+                    <wfs:Name>nonns_401</wfs:Name>
+                    <wfs:Title>nonns_401</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_401</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_2</wfs:Name>
+                    <wfs:Title>nonns_2</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_2</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
                     <wfs:Name>nonns_200</wfs:Name>
                     <wfs:Title>nonns_200</wfs:Title>
                     <wfs:Abstract>FeatureCollection nonns_200</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_405</wfs:Name>
+                    <wfs:Title>nonns_405</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_405</wfs:Abstract>
                     <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
 </wfs:FeatureTypeList>
             <ogc:Filter_Capabilities></ogc:Filter_Capabilities>

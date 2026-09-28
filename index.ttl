@@ -4898,7 +4898,7 @@
         <http://www.w3.org/ns/ldp#Resource> ;
     rdfs:label "Property Partition: subClassOf"@en ;
     void:property rdfs:subClassOf ;
-    void:triples 6 .
+    void:triples 7 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> a void:Dataset,
         <http://www.w3.org/ns/ldp#BasicContainer>,
@@ -52095,13 +52095,13 @@
     ns2:averageSubjectIRILength 83 ;
     ns2:datatypes 0 ;
     ns2:distinctBlankNodes 0 ;
-    ns2:distinctIRIReferences 17254 ;
+    ns2:distinctIRIReferences 17255 ;
     ns2:distinctLiterals 0 ;
-    ns2:distinctRDFNodes 17254 ;
+    ns2:distinctRDFNodes 17255 ;
     ns2:languages 0 ;
     ns2:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-09-28T19:12:32"^^xsd:dateTime ;
+    dcterms:modified "2026-09-28T19:19:36"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -52122,7 +52122,7 @@
     void:classes 9 ;
     void:dataDump "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.ttl"^^xsd:anyURI ;
     void:distinctObjects 12578 ;
-    void:distinctSubjects 4656 ;
+    void:distinctSubjects 4657 ;
     void:entities 4635 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
@@ -52147,7 +52147,7 @@
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_strecken-ID>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_subClassOf>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> ;
-    void:triples 33321 ;
+    void:triples 33322 ;
     void:uriSpace "https://registry.gdi-de.org/de.nw/radnetz/instances/"^^xsd:string ;
     void:vocabulary ns2:,
         dcam:,

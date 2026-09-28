@@ -54,28 +54,28 @@ var minivowlresult={
  "links": [
   {
    "source": 5,
-   "target": 3,
-   "valueTo": "beginntBeiKnoten",
+   "target": 6,
+   "valueTo": "geometrieAbschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt"
   },
   {
-   "source": 7,
-   "target": 3,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 7,
+   "source": 3,
    "target": 5,
-   "valueTo": "member",
+   "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   },
   {
    "source": 7,
    "target": 6,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 7,
+   "target": 3,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
@@ -88,14 +88,7 @@ var minivowlresult={
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
-   "source": 8,
-   "target": 3,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 8,
+   "source": 7,
    "target": 5,
    "valueTo": "member",
    "propertyTo": "class",
@@ -110,38 +103,24 @@ var minivowlresult={
   },
   {
    "source": 8,
+   "target": 3,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 8,
    "target": 4,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
-   "source": 3,
-   "target": 6,
-   "valueTo": "hasGeometry",
+   "source": 8,
+   "target": 5,
+   "valueTo": "member",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 3,
-   "target": 4,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 5,
-   "target": 6,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 5,
-   "target": 4,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
    "source": 3,
@@ -152,6 +131,41 @@ var minivowlresult={
   },
   {
    "source": 3,
+   "target": 6,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 3,
+   "target": 4,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 5,
+   "target": 6,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 5,
+   "target": 4,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 5,
+   "target": 3,
+   "valueTo": "beginntBeiKnoten",
+   "propertyTo": "class",
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+  },
+  {
+   "source": 3,
    "target": 4,
    "valueTo": "geometrieKnoten",
    "propertyTo": "class",
@@ -159,24 +173,10 @@ var minivowlresult={
   },
   {
    "source": 5,
-   "target": 6,
-   "valueTo": "geometrieAbschnitt",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt"
-  },
-  {
-   "source": 5,
    "target": 3,
    "valueTo": "endetBeiKnoten",
    "propertyTo": "class",
    "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
-  },
-  {
-   "source": 3,
-   "target": 5,
-   "valueTo": "abgehenderStreckenabschnitt",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   }
  ]
 }
