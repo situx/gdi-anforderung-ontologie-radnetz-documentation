@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#inDataset": ["https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset"], "http://www.opengis.net/ont/geosparql#asWKT": ["POINT (7.2404693529 51.2850822656 196.61)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/geosparql#Geometry"]}

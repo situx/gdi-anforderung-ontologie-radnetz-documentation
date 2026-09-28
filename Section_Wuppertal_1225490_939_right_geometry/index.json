@@ -1,0 +1,1 @@
+{"http://rdfs.org/ns/void#inDataset": ["https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset"], "http://www.opengis.net/ont/geosparql#asWKT": ["LINESTRING Z (7.25016363 51.2997137276 253.86, 7.2502379342 51.2997644576 0, 7.250858522 51.300240011 256.06)"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": ["http://www.opengis.net/ont/geosparql#Geometry"]}

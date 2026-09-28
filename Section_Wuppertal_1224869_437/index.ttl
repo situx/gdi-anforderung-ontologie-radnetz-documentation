@@ -1,0 +1,19 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://registry.gdi-de.org/up3/ontology/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_1224869_437> a geo:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Streckenabschnitt_optional,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
+    geo:hasGeometry <https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_1224869_437_geometry> ;
+    ns1:beginntBeiKnoten <https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_4723> ;
+    ns1:endetBeiKnoten <https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_110720102> ;
+    ns1:geometrieAbschnitt <https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_1224869_437_geometry> ;
+    ns1:licht <https://registry.gdi-de.org/codelist/de.bund.balm.radnetz/Licht/1> ;
+    ns1:quell-ID "1224869"^^xsd:string ;
+    ns1:steigung 1.733119e+00 ;
+    ns1:strecken-ID "Section_Wuppertal_1224869_437"^^xsd:string .
+

@@ -1,0 +1,10 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_99999913_geometry> a geo:Geometry,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
+    geo:asWKT "POINT (7.2265052814 51.2767976813 188.9)"^^geo:wktLiteral,
+        "POINT (7.2265222504 51.276794522 188.9)"^^geo:wktLiteral .
+

@@ -1,0 +1,17 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <https://registry.gdi-de.org/up3/ontology/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_1189691221> a geo:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        ns1:Knoten,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
+    geo:hasGeometry <https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_1189691221_geometry> ;
+    ns1:ankommenderStreckenabschnitt <https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_1229746_759>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_1229748_760> ;
+    ns1:geometrieKnoten <https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_1189691221_geometry> ;
+    ns1:hoehe 3.3787e+02 ;
+    ns1:knoten-ID "1189691221"^^xsd:string .
+

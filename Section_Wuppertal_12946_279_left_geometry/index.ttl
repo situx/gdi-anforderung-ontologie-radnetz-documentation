@@ -1,0 +1,9 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/Section_Wuppertal_12946_279_left_geometry> a geo:Geometry,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    void:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
+    geo:asWKT "LINESTRING Z (7.1708832292 51.2430794921 283.59, 7.1718443172 51.2431417796 0, 7.1737596227 51.2437104544 0, 7.1740357838 51.243746515 0, 7.1744216989 51.2437728435 0, 7.1747245956 51.2437784318 0, 7.1750401044 51.2437450592 0, 7.1753824748 51.2436812042 0, 7.1756902595 51.243608986 0, 7.1759702228 51.2435240937 0, 7.1767198078 51.2432445391 0, 7.1769519584 51.2431773929 0, 7.1772462003 51.2431140174 0, 7.1774861852 51.2430856149 314.99)"^^geo:wktLiteral .
+
