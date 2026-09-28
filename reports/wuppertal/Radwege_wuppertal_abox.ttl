@@ -40,6 +40,8 @@ gdi:strecken-ID a owl:DatatypeProperty .
 
 gdi:Knoten rdfs:subClassOf geosparql:Feature .
 
+gdi:Streckenabschnitt_optional rdfs:subClassOf geosparql:Feature .
+
 sf:LineString a owl:Class ; rdfs:subClassOf geosparql:Geometry .
 
 sf:Point a owl:Class ; rdfs:subClassOf geosparql:Geometry .
