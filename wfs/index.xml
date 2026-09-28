@@ -1,0 +1,107 @@
+<wfs:WFS_Capabilities xmlns:ows="http://www.opengis.net/ows" xmlns:ogc="http://www.opengis.net/ogc" xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.3/wfs.xsd" version="1.1.3" updateSequence="0">
+        <ows:ServiceIdentification>
+            <ows:Title>Static WFS 1.1.0</ows:Title>
+            <ows:Abstract>This Static WFS exposes geodata included in the knowledge grap for the inclusion into GIS applications.</ows:Abstract>
+            <ows:Keywords>
+            <ows:Keyword>https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation/</ows:Keyword>
+            <ows:Type>String</ows:Type>
+            </ows:Keywords>
+            <ows:ServiceType>WFS</ows:ServiceType>
+            <ows:ServiceTypeVersion>1.1.0</ows:ServiceTypeVersion>
+            <ows:Fees>None</ows:Fees>
+            <ows:AccessConstraints>None</ows:AccessConstraints>
+        </ows:ServiceIdentification>
+        <ows:OperationsMetadata>
+            <ows:Operation name="GetCapabilities">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//wfs/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="AcceptVersions">
+                    <ows:Value>1.1.0</ows:Value>
+                </ows:Parameter>
+                <ows:Parameter name="AcceptFormats">
+                    <ows:Value>text/xml</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+            <ows:Operation name="DescribeFeatureType">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//wfs/DescribeFeatureType/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="resultType">
+                    <ows:Value>results</ows:Value>
+                    <ows:Value>hits</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+            <ows:Operation name="GetFeature">
+                <ows:DCP><ows:HTTP><ows:Get xlink:href="https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//wfs/GetFeature/"/></ows:HTTP></ows:DCP>
+                <ows:Parameter name="resultType">
+                    <ows:Value>results</ows:Value>
+                    <ows:Value>hits</ows:Value>
+                </ows:Parameter>
+            </ows:Operation>
+        </ows:OperationsMetadata>
+        <wfs:FeatureTypeList>
+                <wfs:FeatureType>
+                    <wfs:Name>Point_collection</wfs:Name>
+                    <wfs:Title>Point_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Point_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Knoten_collection</wfs:Name>
+                    <wfs:Title>Knoten_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Knoten_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>LineString_collection</wfs:Name>
+                    <wfs:Title>LineString_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection LineString_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>Streckenabschnitt_optional_collection</wfs:Name>
+                    <wfs:Title>Streckenabschnitt_optional_collection</wfs:Title>
+                    <wfs:Abstract>FeatureCollection Streckenabschnitt_optional_collection</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_401</wfs:Name>
+                    <wfs:Title>nonns_401</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_401</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_1</wfs:Name>
+                    <wfs:Title>nonns_1</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_1</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_405</wfs:Name>
+                    <wfs:Title>nonns_405</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_405</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_2</wfs:Name>
+                    <wfs:Title>nonns_2</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_2</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_3</wfs:Name>
+                    <wfs:Title>nonns_3</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_3</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_200</wfs:Name>
+                    <wfs:Title>nonns_200</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_200</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+
+                <wfs:FeatureType>
+                    <wfs:Name>nonns_0</wfs:Name>
+                    <wfs:Title>nonns_0</wfs:Title>
+                    <wfs:Abstract>FeatureCollection nonns_0</wfs:Abstract>
+                    <wfs:DefaultSRS>http://www.opengis.net/def/crs/EPSG/0/4326</wfs:DefaultSRS></wfs:FeatureType>
+</wfs:FeatureTypeList>
+            <ogc:Filter_Capabilities></ogc:Filter_Capabilities>
+        </wfs:WFS_Capabilities>

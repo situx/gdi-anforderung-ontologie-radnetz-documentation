@@ -7,5 +7,5 @@
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in exnw_dataset" ;
     ns1:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
-    ns1:occurrences 9268 .
+    ns1:occurrences 8 .
 

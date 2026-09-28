@@ -105,7 +105,14 @@
     void:linkPredicate rdf:type ;
     void:objectsTarget geo: ;
     void:subjectsTarget <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
-    void:triples 4634 .
+    void:triples 4 .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_www.opengis.net_ont_sf_> a void:Linkset ;
+    rdfs:label "Linkset: exnw_dataset - Simple Features Vocabulary (sf:)"@en ;
+    void:linkPredicate rdf:type ;
+    void:objectsTarget <http://www.opengis.net/ont/sf#> ;
+    void:subjectsTarget <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
+    void:triples 2315 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/foaf_exnw_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://xmlns.com/foaf/0.1/ in exnw_dataset" ;
@@ -114,7 +121,7 @@
 <https://registry.gdi-de.org/de.nw/radnetz/instances/geo_exnw_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.opengis.net/ont/geosparql# in exnw_dataset" ;
     voaf:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
-    voaf:occurrences 9268 .
+    voaf:occurrences 8 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/odrl_exnw_dataset_occ> a voaf:DatasetOccurrence ;
     rdfs:label "Occurrences of vocabulary http://www.w3.org/ns/odrl/2/ in exnw_dataset" ;
@@ -386,27 +393,35 @@ brick: a voaf:Vocabulary ;
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Feature> a void:Dataset ;
     rdfs:label "Class Partition: Feature"@en ;
-    void:class geo:Feature ;
-    void:entities 2315 .
+    void:class geo:Feature .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_FeatureCollection> a void:Dataset ;
     rdfs:label "Class Partition: FeatureCollection"@en ;
     void:class geo:FeatureCollection ;
-    void:entities 3 .
+    void:entities 2 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Geometry> a void:Dataset ;
     rdfs:label "Class Partition: Geometry"@en ;
-    void:class geo:Geometry ;
-    void:entities 2315 .
+    void:class geo:Geometry .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_GeometryCollection> a void:Dataset ;
     rdfs:label "Class Partition: GeometryCollection"@en ;
     void:class geo:GeometryCollection ;
-    void:entities 1 .
+    void:entities 2 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Knoten> a void:Dataset ;
     rdfs:label "Class Partition: Knoten"@en ;
     void:class <https://registry.gdi-de.org/up3/ontology/Knoten> ;
+    void:entities 1181 .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_LineString> a void:Dataset ;
+    rdfs:label "Class Partition: LineString"@en ;
+    void:class <http://www.opengis.net/ont/sf#LineString> ;
+    void:entities 1134 .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Point> a void:Dataset ;
+    rdfs:label "Class Partition: Point"@en ;
+    void:class <http://www.opengis.net/ont/sf#Point> ;
     void:entities 1181 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_SpatialObjectCollection> a void:Dataset ;
@@ -491,7 +506,7 @@ brick: a voaf:Vocabulary ;
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_member> a void:Dataset ;
     rdfs:label "Property Partition: member"@en ;
     void:property rdfs:member ;
-    void:triples 6945 .
+    void:triples 4630 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_quell-ID> a void:Dataset ;
     rdfs:label "Property Partition: quell-ID"@en ;
@@ -516,12 +531,12 @@ brick: a voaf:Vocabulary ;
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_subClassOf> a void:Dataset ;
     rdfs:label "Property Partition: subClassOf"@en ;
     void:property rdfs:subClassOf ;
-    void:triples 3 .
+    void:triples 6 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
-    void:triples 6965 .
+    void:triples 4652 .
 
 schema: a voaf:Vocabulary ;
     rdfs:label "schema Vocabulary"@en ;
@@ -545,18 +560,18 @@ geo: a voaf:Vocabulary ;
         adms:Asset ;
     rdfs:label "exnw_dataset"@en ;
     vext:averageLiteralLength 0 ;
-    vext:averageObjectIRILength 63 ;
+    vext:averageObjectIRILength 62 ;
     vext:averagePropertyIRILength 51 ;
     vext:averageSubjectIRILength 83 ;
     vext:datatypes 0 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 17248 ;
+    vext:distinctIRIReferences 17254 ;
     vext:distinctLiterals 0 ;
-    vext:distinctRDFNodes 17248 ;
+    vext:distinctRDFNodes 17254 ;
     vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-09-28T17:41:50"^^xsd:dateTime ;
+    dcterms:modified "2026-09-28T19:11:20"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -570,12 +585,14 @@ geo: a voaf:Vocabulary ;
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Geometry>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_GeometryCollection>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Knoten>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_LineString>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Point>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_SpatialObjectCollection>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Streckenabschnitt_optional> ;
-    void:classes 7 ;
+    void:classes 9 ;
     void:dataDump "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.ttl"^^xsd:anyURI ;
-    void:distinctObjects 12575 ;
-    void:distinctSubjects 4653 ;
+    void:distinctObjects 12578 ;
+    void:distinctSubjects 4656 ;
     void:entities 4635 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
@@ -600,7 +617,7 @@ geo: a voaf:Vocabulary ;
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_strecken-ID>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_subClassOf>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> ;
-    void:triples 37946 ;
+    void:triples 33321 ;
     void:uriSpace "https://registry.gdi-de.org/de.nw/radnetz/instances/"^^xsd:string ;
     void:vocabulary vext:,
         dcam:,
