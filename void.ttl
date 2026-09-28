@@ -478,10 +478,20 @@ brick: a voaf:Vocabulary ;
     void:property <https://registry.gdi-de.org/up3/ontology/knoten-ID> ;
     void:triples 1181 .
 
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_label> a void:Dataset ;
+    rdfs:label "Property Partition: label"@en ;
+    void:property rdfs:label ;
+    void:triples 4 .
+
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_licht> a void:Dataset ;
     rdfs:label "Property Partition: licht"@en ;
     void:property <https://registry.gdi-de.org/up3/ontology/licht> ;
     void:triples 1133 .
+
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_member> a void:Dataset ;
+    rdfs:label "Property Partition: member"@en ;
+    void:property rdfs:member ;
+    void:triples 6945 .
 
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_quell-ID> a void:Dataset ;
     rdfs:label "Property Partition: quell-ID"@en ;
@@ -503,10 +513,15 @@ brick: a voaf:Vocabulary ;
     void:property <https://registry.gdi-de.org/up3/ontology/strecken-ID> ;
     void:triples 1134 .
 
+<https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_subClassOf> a void:Dataset ;
+    rdfs:label "Property Partition: subClassOf"@en ;
+    void:property rdfs:subClassOf ;
+    void:triples 3 .
+
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> a void:Dataset ;
     rdfs:label "Property Partition: type"@en ;
     void:property rdf:type ;
-    void:triples 6961 .
+    void:triples 6965 .
 
 schema: a voaf:Vocabulary ;
     rdfs:label "schema Vocabulary"@en ;
@@ -529,19 +544,19 @@ geo: a voaf:Vocabulary ;
 <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> a void:Dataset,
         adms:Asset ;
     rdfs:label "exnw_dataset"@en ;
-    vext:averageLiteralLength 35 ;
-    vext:averageObjectIRILength 70 ;
-    vext:averagePropertyIRILength 52 ;
+    vext:averageLiteralLength 0 ;
+    vext:averageObjectIRILength 63 ;
+    vext:averagePropertyIRILength 51 ;
     vext:averageSubjectIRILength 83 ;
-    vext:datatypes 3 ;
+    vext:datatypes 0 ;
     vext:distinctBlankNodes 0 ;
-    vext:distinctIRIReferences 17237 ;
-    vext:distinctLiterals 7928 ;
-    vext:distinctRDFNodes 25165 ;
-    vext:languages 1 ;
+    vext:distinctIRIReferences 17248 ;
+    vext:distinctLiterals 0 ;
+    vext:distinctRDFNodes 17248 ;
+    vext:languages 0 ;
     vext:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-09-28T16:34:29"^^xsd:dateTime ;
+    dcterms:modified "2026-09-28T16:49:42"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,
@@ -558,13 +573,13 @@ geo: a voaf:Vocabulary ;
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_SpatialObjectCollection>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_Streckenabschnitt_optional> ;
     void:classes 7 ;
-    void:dataDump <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.ttl> ;
-    void:distinctObjects 12567 ;
+    void:dataDump "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.ttl"^^xsd:anyURI ;
+    void:distinctObjects 12575 ;
     void:distinctSubjects 4653 ;
     void:entities 4635 ;
     void:feature <http://www.w3.org/ns/formats/RDFa>,
         <http://www.w3.org/ns/formats/Turtle> ;
-    void:properties 17 ;
+    void:properties 20 ;
     void:propertyPartition <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_abgehenderStreckenabschnitt>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_ankommenderStreckenabschnitt>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_asWKT>,
@@ -576,11 +591,14 @@ geo: a voaf:Vocabulary ;
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_hasGeometry>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_hoehe>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_knoten-ID>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_label>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_licht>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_member>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_quell-ID>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_richtung>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_steigung>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_strecken-ID>,
+        <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_subClassOf>,
         <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset_type> ;
     void:triples 37946 ;
     void:uriSpace "https://registry.gdi-de.org/de.nw/radnetz/instances/"^^xsd:string ;
@@ -622,7 +640,7 @@ geo: a voaf:Vocabulary ;
         "Person"@en,
         "Q121810372"@en,
         "Time"@en ;
-    dcat:landingPage <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation/> ;
-    foaf:homepage <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation/> ;
-    foaf:page <https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.html> .
+    dcat:landingPage "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation/"^^xsd:anyURI ;
+    foaf:homepage "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation/"^^xsd:anyURI ;
+    foaf:page "https://situx.github.io/gdi-anforderung-ontologie-radnetz-documentation//index.html"^^xsd:anyURI .
 
