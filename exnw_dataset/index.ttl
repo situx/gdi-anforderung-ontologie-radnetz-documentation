@@ -34,7 +34,7 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     rdfs:label "exnw_dataset"@en ;
-    ns1:averageLiteralLength 34 ;
+    ns1:averageLiteralLength 35 ;
     ns1:averageObjectIRILength 70 ;
     ns1:averagePropertyIRILength 52 ;
     ns1:averageSubjectIRILength 83 ;
@@ -46,7 +46,7 @@
     ns1:languages 1 ;
     ns1:propertyClasses 0 ;
     dc:language <http://www.lexvo.org/page/iso639-1/en> ;
-    dcterms:modified "2026-09-28T16:26:21"^^xsd:dateTime ;
+    dcterms:modified "2026-09-28T16:34:29"^^xsd:dateTime ;
     dcterms:subject <http://dbpedia.org/resource/Location>,
         <http://dbpedia.org/resource/OGC_GeoSPARQL>,
         <http://dbpedia.org/resource/Time>,

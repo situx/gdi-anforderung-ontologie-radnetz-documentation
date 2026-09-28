@@ -5,5 +5,5 @@
         <http://www.w3.org/ns/ldp#Resource>,
         <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
     void:inDataset <https://registry.gdi-de.org/de.nw/radnetz/instances/exnw_dataset> ;
-    geo:asWKT "POINT (7.1138414382 51.200275464 224.72)"^^geo:wktLiteral .
+    geo:asWKT "POINT Z (7.1138414382 51.200275464 224.72)"^^geo:wktLiteral .
 

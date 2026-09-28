@@ -24541,9 +24541,9 @@ var tree={
               "instancecount": 2
             },
             "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt": {
-              "instancecount": 1,
-              "http://www.opengis.net/ont/geosparql#Feature": 1,
-              "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional": 1
+              "instancecount": 3,
+              "http://www.opengis.net/ont/geosparql#Feature": 3,
+              "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional": 3
             },
             "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt": {
               "instancecount": 1,
@@ -24568,8 +24568,8 @@ var tree={
             },
             "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten": {
               "instancecount": 0,
-              "http://www.opengis.net/ont/geosparql#Feature": 1,
-              "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional": 1
+              "http://www.opengis.net/ont/geosparql#Feature": 3,
+              "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional": 3
             },
             "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten": {
               "instancecount": 0,
@@ -24578,7 +24578,7 @@ var tree={
             }
           }
         },
-        "instancecount": 9
+        "instancecount": 11
       },
       {
         "id": "https://registry.gdi-de.org/de.nw/radnetz/instances/Knoten_Wuppertal_10011_geometry",
@@ -48790,6 +48790,9 @@ var tree={
               "http://www.opengis.net/ont/geosparql#Feature": 1,
               "https://registry.gdi-de.org/up3/ontology/Knoten": 1
             },
+            "https://registry.gdi-de.org/up3/ontology/fuehrung": {
+              "instancecount": 1
+            },
             "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt": {
               "instancecount": 1,
               "http://www.opengis.net/ont/geosparql#Geometry": 1
@@ -48798,9 +48801,6 @@ var tree={
               "instancecount": 1
             },
             "https://registry.gdi-de.org/up3/ontology/quell-ID": {
-              "instancecount": 1
-            },
-            "https://registry.gdi-de.org/up3/ontology/richtung": {
               "instancecount": 1
             },
             "https://registry.gdi-de.org/up3/ontology/steigung": {
@@ -48869,14 +48869,15 @@ var tree={
               "instancecount": 1
             },
             "http://www.w3.org/2000/01/rdf-schema#member": {
-              "instancecount": 1134,
-              "http://www.opengis.net/ont/geosparql#Feature": 1134,
+              "instancecount": 2315,
+              "http://www.opengis.net/ont/geosparql#Feature": 2315,
+              "https://registry.gdi-de.org/up3/ontology/Knoten": 1181,
               "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional": 1134
             }
           },
           "from": {}
         },
-        "instancecount": 1138
+        "instancecount": 2319
       },
       {
         "id": "http://www.opengis.net/ont/geosparql#SpatialObjectCollection",

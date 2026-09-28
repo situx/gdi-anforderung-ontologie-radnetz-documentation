@@ -131707,7 +131707,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2955335944 51.2491184875 197.87)",
+      "value": "POINT Z (7.2955335944 51.2491184875 197.87)",
       "type": "label"
      }
     ]
@@ -131730,7 +131730,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.295905197 51.2488776922 199.05)",
+      "value": "POINT Z (7.295905197 51.2488776922 199.05)",
       "type": "label"
      }
     ]
@@ -131753,7 +131753,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2964255167 51.2484902522 200.58)",
+      "value": "POINT Z (7.2964255167 51.2484902522 200.58)",
       "type": "label"
      }
     ]
@@ -131776,7 +131776,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0966808066 51.2963251004 195.48)",
+      "value": "POINT Z (7.0966808066 51.2963251004 195.48)",
       "type": "label"
      }
     ]
@@ -131799,7 +131799,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2972533057 51.2478807302 202.73)",
+      "value": "POINT Z (7.2972533057 51.2478807302 202.73)",
       "type": "label"
      }
     ]
@@ -131822,7 +131822,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.3057530631 51.2413721378 198.55)",
+      "value": "POINT Z (7.3057530631 51.2413721378 198.55)",
       "type": "label"
      }
     ]
@@ -131845,7 +131845,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.3063529929 51.2414726088 202.04)",
+      "value": "POINT Z (7.3063529929 51.2414726088 202.04)",
       "type": "label"
      }
     ]
@@ -131868,7 +131868,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0685599588 51.2352610521 177.16)",
+      "value": "POINT Z (7.0685599588 51.2352610521 177.16)",
       "type": "label"
      }
     ]
@@ -131891,7 +131891,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0729487148 51.2292231397 186.05)",
+      "value": "POINT Z (7.0729487148 51.2292231397 186.05)",
       "type": "label"
      }
     ]
@@ -131914,7 +131914,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1477375269 51.2626244752 149.57)",
+      "value": "POINT Z (7.1477375269 51.2626244752 149.57)",
       "type": "label"
      }
     ]
@@ -131937,7 +131937,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1976765321 51.2741425865 183.05)",
+      "value": "POINT Z (7.1976765321 51.2741425865 183.05)",
       "type": "label"
      }
     ]
@@ -131960,7 +131960,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1476521332 51.2554794159 145.74)",
+      "value": "POINT Z (7.1476521332 51.2554794159 145.74)",
       "type": "label"
      }
     ]
@@ -131983,7 +131983,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.150257434 51.2560344726 147)",
+      "value": "POINT Z (7.150257434 51.2560344726 147)",
       "type": "label"
      }
     ]
@@ -132006,7 +132006,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1530043234 51.2562388761 146.39)",
+      "value": "POINT Z (7.1530043234 51.2562388761 146.39)",
       "type": "label"
      }
     ]
@@ -132029,7 +132029,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2286437157 51.2733200847 173.11)",
+      "value": "POINT Z (7.2286437157 51.2733200847 173.11)",
       "type": "label"
      }
     ]
@@ -132052,7 +132052,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1463233689 51.2608535653 151.55)",
+      "value": "POINT Z (7.1463233689 51.2608535653 151.55)",
       "type": "label"
      }
     ]
@@ -132075,7 +132075,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1905706165 51.2249600269 315.07)",
+      "value": "POINT Z (7.1905706165 51.2249600269 315.07)",
       "type": "label"
      }
     ]
@@ -132098,7 +132098,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1905001872 51.2240990861 319.08)",
+      "value": "POINT Z (7.1905001872 51.2240990861 319.08)",
       "type": "label"
      }
     ]
@@ -132121,7 +132121,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1905694435 51.2251998192 314.33)",
+      "value": "POINT Z (7.1905694435 51.2251998192 314.33)",
       "type": "label"
      }
     ]
@@ -132144,7 +132144,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0732859113 51.2657761197 185.63)",
+      "value": "POINT Z (7.0732859113 51.2657761197 185.63)",
       "type": "label"
      }
     ]
@@ -132167,7 +132167,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0733676506 51.2653105308 188.38)",
+      "value": "POINT Z (7.0733676506 51.2653105308 188.38)",
       "type": "label"
      }
     ]
@@ -132190,7 +132190,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1064119576 51.2559190674 163.83)",
+      "value": "POINT Z (7.1064119576 51.2559190674 163.83)",
       "type": "label"
      }
     ]
@@ -132213,7 +132213,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1065936612 51.2560914727 164.39)",
+      "value": "POINT Z (7.1065936612 51.2560914727 164.39)",
       "type": "label"
      }
     ]
@@ -132236,7 +132236,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1042320948 51.252708726 155.82)",
+      "value": "POINT Z (7.1042320948 51.252708726 155.82)",
       "type": "label"
      }
     ]
@@ -132259,7 +132259,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1036208299 51.253789495 158.86)",
+      "value": "POINT Z (7.1036208299 51.253789495 158.86)",
       "type": "label"
      }
     ]
@@ -132282,7 +132282,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1033714647 51.2538622249 159.35)",
+      "value": "POINT Z (7.1033714647 51.2538622249 159.35)",
       "type": "label"
      }
     ]
@@ -132305,7 +132305,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1961690765 51.2705443547 154.43)",
+      "value": "POINT Z (7.1961690765 51.2705443547 154.43)",
       "type": "label"
      }
     ]
@@ -132328,7 +132328,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1408422186 51.2546075432 144.12)",
+      "value": "POINT Z (7.1408422186 51.2546075432 144.12)",
       "type": "label"
      }
     ]
@@ -132351,7 +132351,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1404053458 51.2545667887 143.77)",
+      "value": "POINT Z (7.1404053458 51.2545667887 143.77)",
       "type": "label"
      }
     ]
@@ -132374,7 +132374,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2334602738 51.2729182019 193.13)",
+      "value": "POINT Z (7.2334602738 51.2729182019 193.13)",
       "type": "label"
      }
     ]
@@ -132397,7 +132397,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2325174974 51.2728025157 189.09)",
+      "value": "POINT Z (7.2325174974 51.2728025157 189.09)",
       "type": "label"
      }
     ]
@@ -132420,7 +132420,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2033239082 51.274922388 160.26)",
+      "value": "POINT Z (7.2033239082 51.274922388 160.26)",
       "type": "label"
      }
     ]
@@ -132443,7 +132443,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.203507083 51.2781587748 172.76)",
+      "value": "POINT Z (7.203507083 51.2781587748 172.76)",
       "type": "label"
      }
     ]
@@ -132466,7 +132466,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.203092958 51.2773976351 170.45)",
+      "value": "POINT Z (7.203092958 51.2773976351 170.45)",
       "type": "label"
      }
     ]
@@ -132489,7 +132489,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2060106223 51.2801442532 185.43)",
+      "value": "POINT Z (7.2060106223 51.2801442532 185.43)",
       "type": "label"
      }
     ]
@@ -132512,7 +132512,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1853147656 51.2789358884 196.14)",
+      "value": "POINT Z (7.1853147656 51.2789358884 196.14)",
       "type": "label"
      }
     ]
@@ -132535,7 +132535,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1858314786 51.2791313481 195.71)",
+      "value": "POINT Z (7.1858314786 51.2791313481 195.71)",
       "type": "label"
      }
     ]
@@ -132558,7 +132558,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1818978454 51.2901022987 280.16)",
+      "value": "POINT Z (7.1818978454 51.2901022987 280.16)",
       "type": "label"
      }
     ]
@@ -132581,7 +132581,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1816463133 51.2900215616 279.8)",
+      "value": "POINT Z (7.1816463133 51.2900215616 279.8)",
       "type": "label"
      }
     ]
@@ -132604,7 +132604,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2065532339 51.2731443474 156.34)",
+      "value": "POINT Z (7.2065532339 51.2731443474 156.34)",
       "type": "label"
      }
     ]
@@ -132627,7 +132627,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2060812439 51.2720406965 156.42)",
+      "value": "POINT Z (7.2060812439 51.2720406965 156.42)",
       "type": "label"
      }
     ]
@@ -132650,7 +132650,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2064370343 51.2725257258 156.91)",
+      "value": "POINT Z (7.2064370343 51.2725257258 156.91)",
       "type": "label"
      }
     ]
@@ -132673,7 +132673,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1487965974 51.271839714 169.69)",
+      "value": "POINT Z (7.1487965974 51.271839714 169.69)",
       "type": "label"
      }
     ]
@@ -132696,7 +132696,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1487131313 51.2716486683 169.2)",
+      "value": "POINT Z (7.1487131313 51.2716486683 169.2)",
       "type": "label"
      }
     ]
@@ -132719,7 +132719,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1685022625 51.2803173631 203.79)",
+      "value": "POINT Z (7.1685022625 51.2803173631 203.79)",
       "type": "label"
      }
     ]
@@ -132742,7 +132742,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1721055695 51.2820089161 211.33)",
+      "value": "POINT Z (7.1721055695 51.2820089161 211.33)",
       "type": "label"
      }
     ]
@@ -132765,7 +132765,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1723047711 51.2822399214 212.19)",
+      "value": "POINT Z (7.1723047711 51.2822399214 212.19)",
       "type": "label"
      }
     ]
@@ -132788,7 +132788,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1730099453 51.2835102606 215.72)",
+      "value": "POINT Z (7.1730099453 51.2835102606 215.72)",
       "type": "label"
      }
     ]
@@ -132811,7 +132811,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1731791776 51.2838150234 216.71)",
+      "value": "POINT Z (7.1731791776 51.2838150234 216.71)",
       "type": "label"
      }
     ]
@@ -132834,7 +132834,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.162572337 51.278130267 197.57)",
+      "value": "POINT Z (7.162572337 51.278130267 197.57)",
       "type": "label"
      }
     ]
@@ -132857,7 +132857,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.162573435 51.2768335469 199.5)",
+      "value": "POINT Z (7.162573435 51.2768335469 199.5)",
       "type": "label"
      }
     ]
@@ -132880,7 +132880,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461643868 51.2575443799 143.57)",
+      "value": "POINT Z (7.1461643868 51.2575443799 143.57)",
       "type": "label"
      }
     ]
@@ -132903,7 +132903,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461569999 51.2571641031 143.39)",
+      "value": "POINT Z (7.1461569999 51.2571641031 143.39)",
       "type": "label"
      }
     ]
@@ -132926,7 +132926,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461840058 51.256925322 143.13)",
+      "value": "POINT Z (7.1461840058 51.256925322 143.13)",
       "type": "label"
      }
     ]
@@ -132949,7 +132949,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1534083567 51.2592882561 146.6)",
+      "value": "POINT Z (7.1534083567 51.2592882561 146.6)",
       "type": "label"
      }
     ]
@@ -132972,7 +132972,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1533501546 51.2591942267 146.34)",
+      "value": "POINT Z (7.1533501546 51.2591942267 146.34)",
       "type": "label"
      }
     ]
@@ -132995,7 +132995,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1544472973 51.2580770375 145.65)",
+      "value": "POINT Z (7.1544472973 51.2580770375 145.65)",
       "type": "label"
      }
     ]
@@ -133018,7 +133018,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1521940477 51.2588486242 146.35)",
+      "value": "POINT Z (7.1521940477 51.2588486242 146.35)",
       "type": "label"
      }
     ]
@@ -133041,7 +133041,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1350535379 51.2533006579 141.84)",
+      "value": "POINT Z (7.1350535379 51.2533006579 141.84)",
       "type": "label"
      }
     ]
@@ -133064,7 +133064,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1349324998 51.2532671937 141.88)",
+      "value": "POINT Z (7.1349324998 51.2532671937 141.88)",
       "type": "label"
      }
     ]
@@ -133087,7 +133087,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1540665094 51.2509422291 176.94)",
+      "value": "POINT Z (7.1540665094 51.2509422291 176.94)",
       "type": "label"
      }
     ]
@@ -133110,7 +133110,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1571093655 51.2516611238 186.89)",
+      "value": "POINT Z (7.1571093655 51.2516611238 186.89)",
       "type": "label"
      }
     ]
@@ -133133,7 +133133,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1589806566 51.2524466274 195.21)",
+      "value": "POINT Z (7.1589806566 51.2524466274 195.21)",
       "type": "label"
      }
     ]
@@ -133156,7 +133156,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1592487548 51.2525584671 196.46)",
+      "value": "POINT Z (7.1592487548 51.2525584671 196.46)",
       "type": "label"
      }
     ]
@@ -133179,7 +133179,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1604496904 51.2515936764 210.74)",
+      "value": "POINT Z (7.1604496904 51.2515936764 210.74)",
       "type": "label"
      }
     ]
@@ -133202,7 +133202,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1604679841 51.2514919038 211.49)",
+      "value": "POINT Z (7.1604679841 51.2514919038 211.49)",
       "type": "label"
      }
     ]
@@ -133225,7 +133225,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1641113959 51.2452228587 248.57)",
+      "value": "POINT Z (7.1641113959 51.2452228587 248.57)",
       "type": "label"
      }
     ]
@@ -133248,7 +133248,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1640497747 51.2452799983 248.5)",
+      "value": "POINT Z (7.1640497747 51.2452799983 248.5)",
       "type": "label"
      }
     ]
@@ -133271,7 +133271,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1699328832 51.2432675971 279.07)",
+      "value": "POINT Z (7.1699328832 51.2432675971 279.07)",
       "type": "label"
      }
     ]
@@ -133294,7 +133294,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1697232928 51.2433440097 278.02)",
+      "value": "POINT Z (7.1697232928 51.2433440097 278.02)",
       "type": "label"
      }
     ]
@@ -133317,7 +133317,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1676382404 51.2399131247 323.2)",
+      "value": "POINT Z (7.1676382404 51.2399131247 323.2)",
       "type": "label"
      }
     ]
@@ -133340,7 +133340,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1538278344 51.2348710737 326.24)",
+      "value": "POINT Z (7.1538278344 51.2348710737 326.24)",
       "type": "label"
      }
     ]
@@ -133363,7 +133363,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1532947948 51.2346303118 326.63)",
+      "value": "POINT Z (7.1532947948 51.2346303118 326.63)",
       "type": "label"
      }
     ]
@@ -133386,7 +133386,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1507070237 51.2317084421 330.34)",
+      "value": "POINT Z (7.1507070237 51.2317084421 330.34)",
       "type": "label"
      }
     ]
@@ -133409,7 +133409,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1505748078 51.2315055146 330.42)",
+      "value": "POINT Z (7.1505748078 51.2315055146 330.42)",
       "type": "label"
      }
     ]
@@ -133432,7 +133432,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1235045212 51.2780208144 250.97)",
+      "value": "POINT Z (7.1235045212 51.2780208144 250.97)",
       "type": "label"
      }
     ]
@@ -133455,7 +133455,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1232247589 51.2777873723 249.17)",
+      "value": "POINT Z (7.1232247589 51.2777873723 249.17)",
       "type": "label"
      }
     ]
@@ -133478,7 +133478,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.124382851 51.2805602896 269.24)",
+      "value": "POINT Z (7.124382851 51.2805602896 269.24)",
       "type": "label"
      }
     ]
@@ -133501,7 +133501,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1190283965 51.28171485 282.09)",
+      "value": "POINT Z (7.1190283965 51.28171485 282.09)",
       "type": "label"
      }
     ]
@@ -133524,7 +133524,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1408113093 51.2656663623 169.01)",
+      "value": "POINT Z (7.1408113093 51.2656663623 169.01)",
       "type": "label"
      }
     ]
@@ -133547,7 +133547,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.130253554 51.27046593 243.35)",
+      "value": "POINT Z (7.130253554 51.27046593 243.35)",
       "type": "label"
      }
     ]
@@ -133570,7 +133570,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.130304144 51.2700220977 240.34)",
+      "value": "POINT Z (7.130304144 51.2700220977 240.34)",
       "type": "label"
      }
     ]
@@ -133593,7 +133593,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1301921386 51.2716901964 245.43)",
+      "value": "POINT Z (7.1301921386 51.2716901964 245.43)",
       "type": "label"
      }
     ]
@@ -133616,7 +133616,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1301917105 51.271769847 245.6)",
+      "value": "POINT Z (7.1301917105 51.271769847 245.6)",
       "type": "label"
      }
     ]
@@ -133639,7 +133639,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1309731828 51.2736955526 257.89)",
+      "value": "POINT Z (7.1309731828 51.2736955526 257.89)",
       "type": "label"
      }
     ]
@@ -133662,7 +133662,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1309148567 51.2738014639 258.92)",
+      "value": "POINT Z (7.1309148567 51.2738014639 258.92)",
       "type": "label"
      }
     ]
@@ -133685,7 +133685,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1295925875 51.2762607694 284.06)",
+      "value": "POINT Z (7.1295925875 51.2762607694 284.06)",
       "type": "label"
      }
     ]
@@ -133708,7 +133708,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1292126713 51.2767932672 285.43)",
+      "value": "POINT Z (7.1292126713 51.2767932672 285.43)",
       "type": "label"
      }
     ]
@@ -133731,7 +133731,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1280039254 51.2788973974 291.26)",
+      "value": "POINT Z (7.1280039254 51.2788973974 291.26)",
       "type": "label"
      }
     ]
@@ -133754,7 +133754,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1281751057 51.2781456761 294.94)",
+      "value": "POINT Z (7.1281751057 51.2781456761 294.94)",
       "type": "label"
      }
     ]
@@ -133777,7 +133777,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1326781697 51.2797815905 295.97)",
+      "value": "POINT Z (7.1326781697 51.2797815905 295.97)",
       "type": "label"
      }
     ]
@@ -133800,7 +133800,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1323847925 51.2797978701 295.49)",
+      "value": "POINT Z (7.1323847925 51.2797978701 295.49)",
       "type": "label"
      }
     ]
@@ -133823,7 +133823,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1449270813 51.2831406909 291)",
+      "value": "POINT Z (7.1449270813 51.2831406909 291)",
       "type": "label"
      }
     ]
@@ -133846,7 +133846,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1469163109 51.2830384362 290.38)",
+      "value": "POINT Z (7.1469163109 51.2830384362 290.38)",
       "type": "label"
      }
     ]
@@ -133869,7 +133869,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0876053572 51.2361008896 137.39)",
+      "value": "POINT Z (7.0876053572 51.2361008896 137.39)",
       "type": "label"
      }
     ]
@@ -133892,7 +133892,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1026754567 51.2379447423 137.42)",
+      "value": "POINT Z (7.1026754567 51.2379447423 137.42)",
       "type": "label"
      }
     ]
@@ -133915,7 +133915,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.102931446 51.2403951265 138.1)",
+      "value": "POINT Z (7.102931446 51.2403951265 138.1)",
       "type": "label"
      }
     ]
@@ -133938,7 +133938,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1029402311 51.2410690648 137.86)",
+      "value": "POINT Z (7.1029402311 51.2410690648 137.86)",
       "type": "label"
      }
     ]
@@ -133961,7 +133961,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0693865977 51.2350493744 178.39)",
+      "value": "POINT Z (7.0693865977 51.2350493744 178.39)",
       "type": "label"
      }
     ]
@@ -133984,7 +133984,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0708475303 51.2457898128 198.97)",
+      "value": "POINT Z (7.0708475303 51.2457898128 198.97)",
       "type": "label"
      }
     ]
@@ -134007,7 +134007,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0709059192 51.2455346521 199.58)",
+      "value": "POINT Z (7.0709059192 51.2455346521 199.58)",
       "type": "label"
      }
     ]
@@ -134030,7 +134030,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0811043027 51.2546264782 207.88)",
+      "value": "POINT Z (7.0811043027 51.2546264782 207.88)",
       "type": "label"
      }
     ]
@@ -134053,7 +134053,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.081323381 51.2547049261 207.81)",
+      "value": "POINT Z (7.081323381 51.2547049261 207.81)",
       "type": "label"
      }
     ]
@@ -134076,7 +134076,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0844584805 51.2562373558 198.57)",
+      "value": "POINT Z (7.0844584805 51.2562373558 198.57)",
       "type": "label"
      }
     ]
@@ -134099,7 +134099,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0837532754 51.2559330346 199.72)",
+      "value": "POINT Z (7.0837532754 51.2559330346 199.72)",
       "type": "label"
      }
     ]
@@ -134122,7 +134122,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0598345543 51.2345105118 210.3)",
+      "value": "POINT Z (7.0598345543 51.2345105118 210.3)",
       "type": "label"
      }
     ]
@@ -134145,7 +134145,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0599112306 51.2343268425 210.06)",
+      "value": "POINT Z (7.0599112306 51.2343268425 210.06)",
       "type": "label"
      }
     ]
@@ -134168,7 +134168,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0618400044 51.2319304938 194.61)",
+      "value": "POINT Z (7.0618400044 51.2319304938 194.61)",
       "type": "label"
      }
     ]
@@ -134191,7 +134191,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0630023523 51.2312693878 186.27)",
+      "value": "POINT Z (7.0630023523 51.2312693878 186.27)",
       "type": "label"
      }
     ]
@@ -134214,7 +134214,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0836517764 51.2331201428 154.36)",
+      "value": "POINT Z (7.0836517764 51.2331201428 154.36)",
       "type": "label"
      }
     ]
@@ -134237,7 +134237,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0853242583 51.2339786729 149.94)",
+      "value": "POINT Z (7.0853242583 51.2339786729 149.94)",
       "type": "label"
      }
     ]
@@ -134260,7 +134260,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0601661962 51.2199502416 220.82)",
+      "value": "POINT Z (7.0601661962 51.2199502416 220.82)",
       "type": "label"
      }
     ]
@@ -134283,7 +134283,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0601602853 51.2203595719 218.84)",
+      "value": "POINT Z (7.0601602853 51.2203595719 218.84)",
       "type": "label"
      }
     ]
@@ -134306,7 +134306,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0624342509 51.224667926 202.02)",
+      "value": "POINT Z (7.0624342509 51.224667926 202.02)",
       "type": "label"
      }
     ]
@@ -134329,7 +134329,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0624243249 51.2246643604 202.06)",
+      "value": "POINT Z (7.0624243249 51.2246643604 202.06)",
       "type": "label"
      }
     ]
@@ -134352,7 +134352,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.053933539 51.2223081929 176.41)",
+      "value": "POINT Z (7.053933539 51.2223081929 176.41)",
       "type": "label"
      }
     ]
@@ -134375,7 +134375,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1090491463 51.2627262767 198.52)",
+      "value": "POINT Z (7.1090491463 51.2627262767 198.52)",
       "type": "label"
      }
     ]
@@ -134398,7 +134398,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1091510769 51.2626729745 198.98)",
+      "value": "POINT Z (7.1091510769 51.2626729745 198.98)",
       "type": "label"
      }
     ]
@@ -134421,7 +134421,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1125087145 51.2599916705 188.03)",
+      "value": "POINT Z (7.1125087145 51.2599916705 188.03)",
       "type": "label"
      }
     ]
@@ -134444,7 +134444,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1127799008 51.2601544942 189.55)",
+      "value": "POINT Z (7.1127799008 51.2601544942 189.55)",
       "type": "label"
      }
     ]
@@ -134467,7 +134467,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1292259324 51.2515738622 140.41)",
+      "value": "POINT Z (7.1292259324 51.2515738622 140.41)",
       "type": "label"
      }
     ]
@@ -134490,7 +134490,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1293353291 51.2516235175 140.45)",
+      "value": "POINT Z (7.1293353291 51.2516235175 140.45)",
       "type": "label"
      }
     ]
@@ -134513,7 +134513,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1245330607 51.2493743998 139.89)",
+      "value": "POINT Z (7.1245330607 51.2493743998 139.89)",
       "type": "label"
      }
     ]
@@ -134536,7 +134536,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1248263519 51.2495157284 139.94)",
+      "value": "POINT Z (7.1248263519 51.2495157284 139.94)",
       "type": "label"
      }
     ]
@@ -134559,7 +134559,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.118280526 51.2492182565 138.68)",
+      "value": "POINT Z (7.118280526 51.2492182565 138.68)",
       "type": "label"
      }
     ]
@@ -134582,7 +134582,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1181436111 51.24922938 138.67)",
+      "value": "POINT Z (7.1181436111 51.24922938 138.67)",
       "type": "label"
      }
     ]
@@ -134605,7 +134605,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1130976909 51.2495041388 137.9)",
+      "value": "POINT Z (7.1130976909 51.2495041388 137.9)",
       "type": "label"
      }
     ]
@@ -134628,7 +134628,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1120738816 51.2493631678 137.7)",
+      "value": "POINT Z (7.1120738816 51.2493631678 137.7)",
       "type": "label"
      }
     ]
@@ -134651,7 +134651,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1035241386 51.248376912 144.42)",
+      "value": "POINT Z (7.1035241386 51.248376912 144.42)",
       "type": "label"
      }
     ]
@@ -134674,7 +134674,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1035968156 51.248318492 144.29)",
+      "value": "POINT Z (7.1035968156 51.248318492 144.29)",
       "type": "label"
      }
     ]
@@ -134697,7 +134697,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0610963516 51.2323829466 199.1)",
+      "value": "POINT Z (7.0610963516 51.2323829466 199.1)",
       "type": "label"
      }
     ]
@@ -134720,7 +134720,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1345022733 51.207673567 301.44)",
+      "value": "POINT Z (7.1345022733 51.207673567 301.44)",
       "type": "label"
      }
     ]
@@ -134743,7 +134743,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1403234833 51.2111212323 298.26)",
+      "value": "POINT Z (7.1403234833 51.2111212323 298.26)",
       "type": "label"
      }
     ]
@@ -134766,7 +134766,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1470496057 51.2153932463 299.55)",
+      "value": "POINT Z (7.1470496057 51.2153932463 299.55)",
       "type": "label"
      }
     ]
@@ -134789,7 +134789,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1505553569 51.2177898784 309.36)",
+      "value": "POINT Z (7.1505553569 51.2177898784 309.36)",
       "type": "label"
      }
     ]
@@ -134812,7 +134812,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.150317048 51.2174862922 306.89)",
+      "value": "POINT Z (7.150317048 51.2174862922 306.89)",
       "type": "label"
      }
     ]
@@ -134835,7 +134835,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1521813475 51.2205220773 325.39)",
+      "value": "POINT Z (7.1521813475 51.2205220773 325.39)",
       "type": "label"
      }
     ]
@@ -134858,7 +134858,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1521343026 51.2213776272 326.03)",
+      "value": "POINT Z (7.1521343026 51.2213776272 326.03)",
       "type": "label"
      }
     ]
@@ -134881,7 +134881,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520063965 51.2234309444 327.99)",
+      "value": "POINT Z (7.1520063965 51.2234309444 327.99)",
       "type": "label"
      }
     ]
@@ -134904,7 +134904,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520090037 51.2233381483 327.85)",
+      "value": "POINT Z (7.1520090037 51.2233381483 327.85)",
       "type": "label"
      }
     ]
@@ -134927,7 +134927,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1503473616 51.228203321 334.12)",
+      "value": "POINT Z (7.1503473616 51.228203321 334.12)",
       "type": "label"
      }
     ]
@@ -134950,7 +134950,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1505604753 51.227606117 332.53)",
+      "value": "POINT Z (7.1505604753 51.227606117 332.53)",
       "type": "label"
      }
     ]
@@ -134973,7 +134973,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1503769798 51.2281360771 333.9)",
+      "value": "POINT Z (7.1503769798 51.2281360771 333.9)",
       "type": "label"
      }
     ]
@@ -134996,7 +134996,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1502043023 51.2262970535 329.89)",
+      "value": "POINT Z (7.1502043023 51.2262970535 329.89)",
       "type": "label"
      }
     ]
@@ -135019,7 +135019,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1494867828 51.2261836387 328.05)",
+      "value": "POINT Z (7.1494867828 51.2261836387 328.05)",
       "type": "label"
      }
     ]
@@ -135042,7 +135042,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313840993 51.2024846941 276.83)",
+      "value": "POINT Z (7.1313840993 51.2024846941 276.83)",
       "type": "label"
      }
     ]
@@ -135065,7 +135065,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313749493 51.2025843906 277.37)",
+      "value": "POINT Z (7.1313749493 51.2025843906 277.37)",
       "type": "label"
      }
     ]
@@ -135088,7 +135088,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1320843805 51.2038305838 284.34)",
+      "value": "POINT Z (7.1320843805 51.2038305838 284.34)",
       "type": "label"
      }
     ]
@@ -135111,7 +135111,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1324995022 51.2041736457 285.88)",
+      "value": "POINT Z (7.1324995022 51.2041736457 285.88)",
       "type": "label"
      }
     ]
@@ -135134,7 +135134,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313778714 51.1993374557 262.95)",
+      "value": "POINT Z (7.1313778714 51.1993374557 262.95)",
       "type": "label"
      }
     ]
@@ -135157,7 +135157,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1314453087 51.1996529312 263.63)",
+      "value": "POINT Z (7.1314453087 51.1996529312 263.63)",
       "type": "label"
      }
     ]
@@ -135180,7 +135180,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1312117853 51.1970949824 260.1)",
+      "value": "POINT Z (7.1312117853 51.1970949824 260.1)",
       "type": "label"
      }
     ]
@@ -135203,7 +135203,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1234652765 51.2045070563 282.6)",
+      "value": "POINT Z (7.1234652765 51.2045070563 282.6)",
       "type": "label"
      }
     ]
@@ -135226,7 +135226,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1227520474 51.2043571327 280.95)",
+      "value": "POINT Z (7.1227520474 51.2043571327 280.95)",
       "type": "label"
      }
     ]
@@ -135249,7 +135249,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1138414382 51.200275464 224.72)",
+      "value": "POINT Z (7.1138414382 51.200275464 224.72)",
       "type": "label"
      }
     ]
@@ -135272,7 +135272,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1165910096 51.2019104959 248.39)",
+      "value": "POINT Z (7.1165910096 51.2019104959 248.39)",
       "type": "label"
      }
     ]
@@ -135295,7 +135295,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.109545362 51.1939388161 115.06)",
+      "value": "POINT Z (7.109545362 51.1939388161 115.06)",
       "type": "label"
      }
     ]
@@ -135318,7 +135318,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.109813482 51.1936407529 115.35)",
+      "value": "POINT Z (7.109813482 51.1936407529 115.35)",
       "type": "label"
      }
     ]
@@ -135341,7 +135341,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1554569987 51.2395601616 269.3)",
+      "value": "POINT Z (7.1554569987 51.2395601616 269.3)",
       "type": "label"
      }
     ]
@@ -135364,7 +135364,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0705662165 51.2476785322 198.63)",
+      "value": "POINT Z (7.0705662165 51.2476785322 198.63)",
       "type": "label"
      }
     ]
@@ -135387,7 +135387,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0706105501 51.247933255 198.53)",
+      "value": "POINT Z (7.0706105501 51.247933255 198.53)",
       "type": "label"
      }
     ]
@@ -135410,7 +135410,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0427275179 51.2161216135 179.16)",
+      "value": "POINT Z (7.0427275179 51.2161216135 179.16)",
       "type": "label"
      }
     ]
@@ -135433,7 +135433,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0991032726 51.2650122647 244.56)",
+      "value": "POINT Z (7.0991032726 51.2650122647 244.56)",
       "type": "label"
      }
     ]
@@ -135456,7 +135456,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0990946376 51.2653914829 244.42)",
+      "value": "POINT Z (7.0990946376 51.2653914829 244.42)",
       "type": "label"
      }
     ]
@@ -135479,7 +135479,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1060179835 51.2694088228 242.59)",
+      "value": "POINT Z (7.1060179835 51.2694088228 242.59)",
       "type": "label"
      }
     ]
@@ -135502,7 +135502,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1068040112 51.2698012009 241.17)",
+      "value": "POINT Z (7.1068040112 51.2698012009 241.17)",
       "type": "label"
      }
     ]
@@ -135525,7 +135525,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0911477711 51.2597456458 230.15)",
+      "value": "POINT Z (7.0911477711 51.2597456458 230.15)",
       "type": "label"
      }
     ]
@@ -135548,7 +135548,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1994402177 51.2238716915 267.47)",
+      "value": "POINT Z (7.1994402177 51.2238716915 267.47)",
       "type": "label"
      }
     ]
@@ -135571,7 +135571,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.19490098 51.2367115179 346.08)",
+      "value": "POINT Z (7.19490098 51.2367115179 346.08)",
       "type": "label"
      }
     ]
@@ -135594,7 +135594,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1912939434 51.242538942 341.45)",
+      "value": "POINT Z (7.1912939434 51.242538942 341.45)",
       "type": "label"
      }
     ]
@@ -135617,7 +135617,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.179368655 51.2430628941 321.56)",
+      "value": "POINT Z (7.179368655 51.2430628941 321.56)",
       "type": "label"
      }
     ]
@@ -135640,7 +135640,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2001118886 51.2197709454 260.71)",
+      "value": "POINT Z (7.2001118886 51.2197709454 260.71)",
       "type": "label"
      }
     ]
@@ -135663,7 +135663,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2006578106 51.2194768232 259.33)",
+      "value": "POINT Z (7.2006578106 51.2194768232 259.33)",
       "type": "label"
      }
     ]
@@ -135686,7 +135686,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.205721051 51.2164123702 251.79)",
+      "value": "POINT Z (7.205721051 51.2164123702 251.79)",
       "type": "label"
      }
     ]
@@ -135709,7 +135709,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2051908195 51.2166758642 252.44)",
+      "value": "POINT Z (7.2051908195 51.2166758642 252.44)",
       "type": "label"
      }
     ]
@@ -135732,7 +135732,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2312482176 51.2601227277 180.87)",
+      "value": "POINT Z (7.2312482176 51.2601227277 180.87)",
       "type": "label"
      }
     ]
@@ -135755,7 +135755,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2297600522 51.2584307445 180.7)",
+      "value": "POINT Z (7.2297600522 51.2584307445 180.7)",
       "type": "label"
      }
     ]
@@ -135778,7 +135778,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2305422257 51.2554522433 174.89)",
+      "value": "POINT Z (7.2305422257 51.2554522433 174.89)",
       "type": "label"
      }
     ]
@@ -135801,7 +135801,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2310781383 51.2565748455 174.05)",
+      "value": "POINT Z (7.2310781383 51.2565748455 174.05)",
       "type": "label"
      }
     ]
@@ -135824,7 +135824,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2270304056 51.2531111702 195.27)",
+      "value": "POINT Z (7.2270304056 51.2531111702 195.27)",
       "type": "label"
      }
     ]
@@ -135847,7 +135847,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.226638778 51.2526942133 198.4)",
+      "value": "POINT Z (7.226638778 51.2526942133 198.4)",
       "type": "label"
      }
     ]
@@ -135870,7 +135870,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2287833972 51.244118844 255.86)",
+      "value": "POINT Z (7.2287833972 51.244118844 255.86)",
       "type": "label"
      }
     ]
@@ -135893,7 +135893,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2292747788 51.2434831309 260.38)",
+      "value": "POINT Z (7.2292747788 51.2434831309 260.38)",
       "type": "label"
      }
     ]
@@ -135916,7 +135916,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2328373141 51.241006637 288.37)",
+      "value": "POINT Z (7.2328373141 51.241006637 288.37)",
       "type": "label"
      }
     ]
@@ -135939,7 +135939,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.232848352 51.2416564786 284.81)",
+      "value": "POINT Z (7.232848352 51.2416564786 284.81)",
       "type": "label"
      }
     ]
@@ -135962,7 +135962,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2354841177 51.238565189 290.03)",
+      "value": "POINT Z (7.2354841177 51.238565189 290.03)",
       "type": "label"
      }
     ]
@@ -135985,7 +135985,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2349506995 51.2390862944 291.11)",
+      "value": "POINT Z (7.2349506995 51.2390862944 291.11)",
       "type": "label"
      }
     ]
@@ -136008,7 +136008,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2359675766 51.2349133467 301.75)",
+      "value": "POINT Z (7.2359675766 51.2349133467 301.75)",
       "type": "label"
      }
     ]
@@ -136031,7 +136031,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2359817604 51.2346278125 301.68)",
+      "value": "POINT Z (7.2359817604 51.2346278125 301.68)",
       "type": "label"
      }
     ]
@@ -136054,7 +136054,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2354328897 51.2311174856 299.81)",
+      "value": "POINT Z (7.2354328897 51.2311174856 299.81)",
       "type": "label"
      }
     ]
@@ -136077,7 +136077,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2353549208 51.2308132463 299.9)",
+      "value": "POINT Z (7.2353549208 51.2308132463 299.9)",
       "type": "label"
      }
     ]
@@ -136100,7 +136100,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2055729693 51.2371752936 335.25)",
+      "value": "POINT Z (7.2055729693 51.2371752936 335.25)",
       "type": "label"
      }
     ]
@@ -136123,7 +136123,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.214692654 51.2745705983 158.16)",
+      "value": "POINT Z (7.214692654 51.2745705983 158.16)",
       "type": "label"
      }
     ]
@@ -136146,7 +136146,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2141324826 51.2744679104 158.39)",
+      "value": "POINT Z (7.2141324826 51.2744679104 158.39)",
       "type": "label"
      }
     ]
@@ -136169,7 +136169,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2191342419 51.2752046148 160.57)",
+      "value": "POINT Z (7.2191342419 51.2752046148 160.57)",
       "type": "label"
      }
     ]
@@ -136192,7 +136192,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2171127244 51.2750910816 159.47)",
+      "value": "POINT Z (7.2171127244 51.2750910816 159.47)",
       "type": "label"
      }
     ]
@@ -136215,7 +136215,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2178039662 51.2757750244 161.11)",
+      "value": "POINT Z (7.2178039662 51.2757750244 161.11)",
       "type": "label"
      }
     ]
@@ -136238,7 +136238,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2215240009 51.2753397908 161.6)",
+      "value": "POINT Z (7.2215240009 51.2753397908 161.6)",
       "type": "label"
      }
     ]
@@ -136261,7 +136261,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2220612375 51.2753659312 161.94)",
+      "value": "POINT Z (7.2220612375 51.2753659312 161.94)",
       "type": "label"
      }
     ]
@@ -136284,7 +136284,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.25016363 51.2997137276 253.86)",
+      "value": "POINT Z (7.25016363 51.2997137276 253.86)",
       "type": "label"
      }
     ]
@@ -136307,7 +136307,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2498997021 51.2995479706 253.13)",
+      "value": "POINT Z (7.2498997021 51.2995479706 253.13)",
       "type": "label"
      }
     ]
@@ -136330,7 +136330,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2522556043 51.3078367011 300.12)",
+      "value": "POINT Z (7.2522556043 51.3078367011 300.12)",
       "type": "label"
      }
     ]
@@ -136353,7 +136353,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2522986182 51.307698137 299.21)",
+      "value": "POINT Z (7.2522986182 51.307698137 299.21)",
       "type": "label"
      }
     ]
@@ -136376,7 +136376,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.249065522 51.3111552552 319.68)",
+      "value": "POINT Z (7.249065522 51.3111552552 319.68)",
       "type": "label"
      }
     ]
@@ -136399,7 +136399,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2489506497 51.3127523233 320.7)",
+      "value": "POINT Z (7.2489506497 51.3127523233 320.7)",
       "type": "label"
      }
     ]
@@ -136422,7 +136422,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2490363491 51.3112355035 319.83)",
+      "value": "POINT Z (7.2490363491 51.3112355035 319.83)",
       "type": "label"
      }
     ]
@@ -136445,7 +136445,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2309257646 51.2759867376 165.34)",
+      "value": "POINT Z (7.2309257646 51.2759867376 165.34)",
       "type": "label"
      }
     ]
@@ -136468,7 +136468,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2318974835 51.2760343747 165.68)",
+      "value": "POINT Z (7.2318974835 51.2760343747 165.68)",
       "type": "label"
      }
     ]
@@ -136491,7 +136491,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2347920473 51.2769544945 167.61)",
+      "value": "POINT Z (7.2347920473 51.2769544945 167.61)",
       "type": "label"
      }
     ]
@@ -136514,7 +136514,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2360909164 51.2773016744 168.54)",
+      "value": "POINT Z (7.2360909164 51.2773016744 168.54)",
       "type": "label"
      }
     ]
@@ -136537,7 +136537,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2379457595 51.2792715962 172.08)",
+      "value": "POINT Z (7.2379457595 51.2792715962 172.08)",
       "type": "label"
      }
     ]
@@ -136560,7 +136560,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2374386456 51.2786021213 171.51)",
+      "value": "POINT Z (7.2374386456 51.2786021213 171.51)",
       "type": "label"
      }
     ]
@@ -136583,7 +136583,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2420744472 51.2810136916 174.54)",
+      "value": "POINT Z (7.2420744472 51.2810136916 174.54)",
       "type": "label"
      }
     ]
@@ -136606,7 +136606,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2456249391 51.280928781 176.14)",
+      "value": "POINT Z (7.2456249391 51.280928781 176.14)",
       "type": "label"
      }
     ]
@@ -136629,7 +136629,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2440041787 51.281490304 175.46)",
+      "value": "POINT Z (7.2440041787 51.281490304 175.46)",
       "type": "label"
      }
     ]
@@ -136652,7 +136652,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2284877405 51.2733815683 172.28)",
+      "value": "POINT Z (7.2284877405 51.2733815683 172.28)",
       "type": "label"
      }
     ]
@@ -136675,7 +136675,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2288701326 51.2732355639 174.22)",
+      "value": "POINT Z (7.2288701326 51.2732355639 174.22)",
       "type": "label"
      }
     ]
@@ -136698,7 +136698,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.237293183 51.2736601013 198.68)",
+      "value": "POINT Z (7.237293183 51.2736601013 198.68)",
       "type": "label"
      }
     ]
@@ -136721,7 +136721,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2374035153 51.2736812479 198.81)",
+      "value": "POINT Z (7.2374035153 51.2736812479 198.81)",
       "type": "label"
      }
     ]
@@ -136744,7 +136744,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2364353813 51.2670911283 165.77)",
+      "value": "POINT Z (7.2364353813 51.2670911283 165.77)",
       "type": "label"
      }
     ]
@@ -136767,7 +136767,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2367555427 51.266645037 166.15)",
+      "value": "POINT Z (7.2367555427 51.266645037 166.15)",
       "type": "label"
      }
     ]
@@ -136790,7 +136790,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2367780363 51.2636747245 168.92)",
+      "value": "POINT Z (7.2367780363 51.2636747245 168.92)",
       "type": "label"
      }
     ]
@@ -136813,7 +136813,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.236263374 51.2629652973 169.11)",
+      "value": "POINT Z (7.236263374 51.2629652973 169.11)",
       "type": "label"
      }
     ]
@@ -136836,7 +136836,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2332010463 51.2570211149 170.6)",
+      "value": "POINT Z (7.2332010463 51.2570211149 170.6)",
       "type": "label"
      }
     ]
@@ -136859,7 +136859,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2327700126 51.2576768328 170.28)",
+      "value": "POINT Z (7.2327700126 51.2576768328 170.28)",
       "type": "label"
      }
     ]
@@ -136882,7 +136882,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2432828435 51.2544072717 172.88)",
+      "value": "POINT Z (7.2432828435 51.2544072717 172.88)",
       "type": "label"
      }
     ]
@@ -136905,7 +136905,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2448087002 51.2544682008 173.51)",
+      "value": "POINT Z (7.2448087002 51.2544682008 173.51)",
       "type": "label"
      }
     ]
@@ -136928,7 +136928,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2508370622 51.2555398506 176.32)",
+      "value": "POINT Z (7.2508370622 51.2555398506 176.32)",
       "type": "label"
      }
     ]
@@ -136951,7 +136951,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2512618862 51.2556035961 176.48)",
+      "value": "POINT Z (7.2512618862 51.2556035961 176.48)",
       "type": "label"
      }
     ]
@@ -136974,7 +136974,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2555282238 51.2556578467 177.73)",
+      "value": "POINT Z (7.2555282238 51.2556578467 177.73)",
       "type": "label"
      }
     ]
@@ -136997,7 +136997,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2553339299 51.2556506571 177.68)",
+      "value": "POINT Z (7.2553339299 51.2556506571 177.68)",
       "type": "label"
      }
     ]
@@ -137020,7 +137020,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2609660239 51.2557976176 178.37)",
+      "value": "POINT Z (7.2609660239 51.2557976176 178.37)",
       "type": "label"
      }
     ]
@@ -137043,7 +137043,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2626750923 51.2554559514 178.59)",
+      "value": "POINT Z (7.2626750923 51.2554559514 178.59)",
       "type": "label"
      }
     ]
@@ -137066,7 +137066,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2689644712 51.2540717619 180.65)",
+      "value": "POINT Z (7.2689644712 51.2540717619 180.65)",
       "type": "label"
      }
     ]
@@ -137089,7 +137089,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2681557989 51.2540042186 180.47)",
+      "value": "POINT Z (7.2681557989 51.2540042186 180.47)",
       "type": "label"
      }
     ]
@@ -137112,7 +137112,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2899116698 51.2500792475 189.52)",
+      "value": "POINT Z (7.2899116698 51.2500792475 189.52)",
       "type": "label"
      }
     ]
@@ -137135,7 +137135,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2319573596 51.2698362443 163.28)",
+      "value": "POINT Z (7.2319573596 51.2698362443 163.28)",
       "type": "label"
      }
     ]
@@ -137158,7 +137158,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2318733111 51.2686028873 163.72)",
+      "value": "POINT Z (7.2318733111 51.2686028873 163.72)",
       "type": "label"
      }
     ]
@@ -137181,7 +137181,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2335973204 51.2678640178 164.13)",
+      "value": "POINT Z (7.2335973204 51.2678640178 164.13)",
       "type": "label"
      }
     ]
@@ -137204,7 +137204,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2332789948 51.2670121723 164.67)",
+      "value": "POINT Z (7.2332789948 51.2670121723 164.67)",
       "type": "label"
      }
     ]
@@ -137227,7 +137227,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2476904778 51.2754408757 201.32)",
+      "value": "POINT Z (7.2476904778 51.2754408757 201.32)",
       "type": "label"
      }
     ]
@@ -137250,7 +137250,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2471012804 51.2753741371 201.6)",
+      "value": "POINT Z (7.2471012804 51.2753741371 201.6)",
       "type": "label"
      }
     ]
@@ -137273,7 +137273,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.270700372 51.278553378 220.86)",
+      "value": "POINT Z (7.270700372 51.278553378 220.86)",
       "type": "label"
      }
     ]
@@ -137296,7 +137296,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0836333993 51.2812726151 193.29)",
+      "value": "POINT Z (7.0836333993 51.2812726151 193.29)",
       "type": "label"
      }
     ]
@@ -137319,7 +137319,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0842527858 51.2814982041 193.41)",
+      "value": "POINT Z (7.0842527858 51.2814982041 193.41)",
       "type": "label"
      }
     ]
@@ -137342,7 +137342,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0880959683 51.2833447648 194.9)",
+      "value": "POINT Z (7.0880959683 51.2833447648 194.9)",
       "type": "label"
      }
     ]
@@ -137365,7 +137365,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.059771946 51.2539119558 180.09)",
+      "value": "POINT Z (7.059771946 51.2539119558 180.09)",
       "type": "label"
      }
     ]
@@ -137388,7 +137388,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0599754248 51.2537789893 179.77)",
+      "value": "POINT Z (7.0599754248 51.2537789893 179.77)",
       "type": "label"
      }
     ]
@@ -137411,7 +137411,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0729659224 51.2608127478 217.19)",
+      "value": "POINT Z (7.0729659224 51.2608127478 217.19)",
       "type": "label"
      }
     ]
@@ -137434,7 +137434,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0727454142 51.2613605506 218.37)",
+      "value": "POINT Z (7.0727454142 51.2613605506 218.37)",
       "type": "label"
      }
     ]
@@ -137457,7 +137457,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0711398525 51.2738478023 165.2)",
+      "value": "POINT Z (7.0711398525 51.2738478023 165.2)",
       "type": "label"
      }
     ]
@@ -137480,7 +137480,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0710704013 51.2737774732 165.2)",
+      "value": "POINT Z (7.0710704013 51.2737774732 165.2)",
       "type": "label"
      }
     ]
@@ -137503,7 +137503,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1325283639 51.306250657 244.91)",
+      "value": "POINT Z (7.1325283639 51.306250657 244.91)",
       "type": "label"
      }
     ]
@@ -137526,7 +137526,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1330530362 51.3064544325 247.58)",
+      "value": "POINT Z (7.1330530362 51.3064544325 247.58)",
       "type": "label"
      }
     ]
@@ -137549,7 +137549,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1460554964 51.3051876983 304.49)",
+      "value": "POINT Z (7.1460554964 51.3051876983 304.49)",
       "type": "label"
      }
     ]
@@ -137572,7 +137572,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1458771745 51.3052385233 304.37)",
+      "value": "POINT Z (7.1458771745 51.3052385233 304.37)",
       "type": "label"
      }
     ]
@@ -137595,7 +137595,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1620431262 51.3002648807 301.15)",
+      "value": "POINT Z (7.1620431262 51.3002648807 301.15)",
       "type": "label"
      }
     ]
@@ -137618,7 +137618,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1617570989 51.3003953431 300.02)",
+      "value": "POINT Z (7.1617570989 51.3003953431 300.02)",
       "type": "label"
      }
     ]
@@ -137641,7 +137641,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1022714263 51.2912254695 226.26)",
+      "value": "POINT Z (7.1022714263 51.2912254695 226.26)",
       "type": "label"
      }
     ]
@@ -137664,7 +137664,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1019568724 51.2913277286 225.68)",
+      "value": "POINT Z (7.1019568724 51.2913277286 225.68)",
       "type": "label"
      }
     ]
@@ -137687,7 +137687,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1103933635 51.2867063925 251.25)",
+      "value": "POINT Z (7.1103933635 51.2867063925 251.25)",
       "type": "label"
      }
     ]
@@ -137710,7 +137710,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1099484457 51.287488638 252.46)",
+      "value": "POINT Z (7.1099484457 51.287488638 252.46)",
       "type": "label"
      }
     ]
@@ -137733,7 +137733,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1123466655 51.2450066407 188.4)",
+      "value": "POINT Z (7.1123466655 51.2450066407 188.4)",
       "type": "label"
      }
     ]
@@ -137756,7 +137756,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1302944735 51.2749279413 271.81)",
+      "value": "POINT Z (7.1302944735 51.2749279413 271.81)",
       "type": "label"
      }
     ]
@@ -137779,7 +137779,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.063805278 51.2343773917 203.66)",
+      "value": "POINT Z (7.063805278 51.2343773917 203.66)",
       "type": "label"
      }
     ]
@@ -137802,7 +137802,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1060496938 51.2555753373 162.64)",
+      "value": "POINT Z (7.1060496938 51.2555753373 162.64)",
       "type": "label"
      }
     ]
@@ -137825,7 +137825,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.140504694 51.2113938949 298.46)",
+      "value": "POINT Z (7.140504694 51.2113938949 298.46)",
       "type": "label"
      }
     ]
@@ -137848,7 +137848,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2070523321 51.236754393 333.66)",
+      "value": "POINT Z (7.2070523321 51.236754393 333.66)",
       "type": "label"
      }
     ]
@@ -137871,7 +137871,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2536350857 51.1895275527 335)",
+      "value": "POINT Z (7.2536350857 51.1895275527 335)",
       "type": "label"
      }
     ]
@@ -137894,7 +137894,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1429296079 51.2556947044 143.17)",
+      "value": "POINT Z (7.1429296079 51.2556947044 143.17)",
       "type": "label"
      }
     ]
@@ -137917,7 +137917,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461698614 51.2584254918 144.66)",
+      "value": "POINT Z (7.1461698614 51.2584254918 144.66)",
       "type": "label"
      }
     ]
@@ -137940,7 +137940,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145623651 51.2642109011 158.87)",
+      "value": "POINT Z (7.145623651 51.2642109011 158.87)",
       "type": "label"
      }
     ]
@@ -137963,7 +137963,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1458424582 51.2631794415 161.43)",
+      "value": "POINT Z (7.1458424582 51.2631794415 161.43)",
       "type": "label"
      }
     ]
@@ -137986,7 +137986,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1563652673 51.2577747753 145.91)",
+      "value": "POINT Z (7.1563652673 51.2577747753 145.91)",
       "type": "label"
      }
     ]
@@ -138009,7 +138009,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1550396915 51.2413202467 267.43)",
+      "value": "POINT Z (7.1550396915 51.2413202467 267.43)",
       "type": "label"
      }
     ]
@@ -138032,7 +138032,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0913218518 51.2384945102 134.66)",
+      "value": "POINT Z (7.0913218518 51.2384945102 134.66)",
       "type": "label"
      }
     ]
@@ -138055,7 +138055,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1092439772 51.2580313415 171.6)",
+      "value": "POINT Z (7.1092439772 51.2580313415 171.6)",
       "type": "label"
      }
     ]
@@ -138078,7 +138078,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1086754299 51.248238623 137.14)",
+      "value": "POINT Z (7.1086754299 51.248238623 137.14)",
       "type": "label"
      }
     ]
@@ -138101,7 +138101,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1266385095 51.2503597639 140.1)",
+      "value": "POINT Z (7.1266385095 51.2503597639 140.1)",
       "type": "label"
      }
     ]
@@ -138124,7 +138124,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.15992905 51.2752506785 212.91)",
+      "value": "POINT Z (7.15992905 51.2752506785 212.91)",
       "type": "label"
      }
     ]
@@ -138147,7 +138147,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1645071823 51.277527213 200.2)",
+      "value": "POINT Z (7.1645071823 51.277527213 200.2)",
       "type": "label"
      }
     ]
@@ -138170,7 +138170,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1707955164 51.2812866456 207.79)",
+      "value": "POINT Z (7.1707955164 51.2812866456 207.79)",
       "type": "label"
      }
     ]
@@ -138193,7 +138193,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0677144265 51.2266168403 199.88)",
+      "value": "POINT Z (7.0677144265 51.2266168403 199.88)",
       "type": "label"
      }
     ]
@@ -138216,7 +138216,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0740948256 51.2531329827 186.15)",
+      "value": "POINT Z (7.0740948256 51.2531329827 186.15)",
       "type": "label"
      }
     ]
@@ -138239,7 +138239,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0903698742 51.2449157743 151.42)",
+      "value": "POINT Z (7.0903698742 51.2449157743 151.42)",
       "type": "label"
      }
     ]
@@ -138262,7 +138262,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0898360992 51.2487711616 163.86)",
+      "value": "POINT Z (7.0898360992 51.2487711616 163.86)",
       "type": "label"
      }
     ]
@@ -138285,7 +138285,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1385669253 51.2542032111 141.85)",
+      "value": "POINT Z (7.1385669253 51.2542032111 141.85)",
       "type": "label"
      }
     ]
@@ -138308,7 +138308,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0564926094 51.2123576476 235.36)",
+      "value": "POINT Z (7.0564926094 51.2123576476 235.36)",
       "type": "label"
      }
     ]
@@ -138331,7 +138331,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.144612693 51.2288609195 325.16)",
+      "value": "POINT Z (7.144612693 51.2288609195 325.16)",
       "type": "label"
      }
     ]
@@ -138354,7 +138354,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1513722803 51.2253602423 330.12)",
+      "value": "POINT Z (7.1513722803 51.2253602423 330.12)",
       "type": "label"
      }
     ]
@@ -138377,7 +138377,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1384656676 51.2098670056 298.86)",
+      "value": "POINT Z (7.1384656676 51.2098670056 298.86)",
       "type": "label"
      }
     ]
@@ -138400,7 +138400,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1872476793 51.2669752626 152.13)",
+      "value": "POINT Z (7.1872476793 51.2669752626 152.13)",
       "type": "label"
      }
     ]
@@ -138423,7 +138423,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1919393532 51.2686564908 152.1)",
+      "value": "POINT Z (7.1919393532 51.2686564908 152.1)",
       "type": "label"
      }
     ]
@@ -138446,7 +138446,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1745492189 51.2638616457 150.12)",
+      "value": "POINT Z (7.1745492189 51.2638616457 150.12)",
       "type": "label"
      }
     ]
@@ -138469,7 +138469,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1893554887 51.2794957214 194.96)",
+      "value": "POINT Z (7.1893554887 51.2794957214 194.96)",
       "type": "label"
      }
     ]
@@ -138492,7 +138492,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1815477489 51.243119768 329.87)",
+      "value": "POINT Z (7.1815477489 51.243119768 329.87)",
       "type": "label"
      }
     ]
@@ -138515,7 +138515,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1895769486 51.2423844027 333.59)",
+      "value": "POINT Z (7.1895769486 51.2423844027 333.59)",
       "type": "label"
      }
     ]
@@ -138538,7 +138538,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2119212111 51.274283822 157.35)",
+      "value": "POINT Z (7.2119212111 51.274283822 157.35)",
       "type": "label"
      }
     ]
@@ -138561,7 +138561,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2092455959 51.2740050585 156.94)",
+      "value": "POINT Z (7.2092455959 51.2740050585 156.94)",
       "type": "label"
      }
     ]
@@ -138584,7 +138584,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2359079497 51.2358302635 299.67)",
+      "value": "POINT Z (7.2359079497 51.2358302635 299.67)",
       "type": "label"
      }
     ]
@@ -138607,7 +138607,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1185396671 51.2491916342 138.66)",
+      "value": "POINT Z (7.1185396671 51.2491916342 138.66)",
       "type": "label"
      }
     ]
@@ -138630,7 +138630,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0882320347 51.2363555776 136.6)",
+      "value": "POINT Z (7.0882320347 51.2363555776 136.6)",
       "type": "label"
      }
     ]
@@ -138653,7 +138653,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0489744235 51.219385987 174.8)",
+      "value": "POINT Z (7.0489744235 51.219385987 174.8)",
       "type": "label"
      }
     ]
@@ -138676,7 +138676,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520192039 51.2230774242 327.57)",
+      "value": "POINT Z (7.1520192039 51.2230774242 327.57)",
       "type": "label"
      }
     ]
@@ -138699,7 +138699,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2482677638 51.2754904634 201.06)",
+      "value": "POINT Z (7.2482677638 51.2754904634 201.06)",
       "type": "label"
      }
     ]
@@ -138722,7 +138722,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2041349671 51.2712238862 155.24)",
+      "value": "POINT Z (7.2041349671 51.2712238862 155.24)",
       "type": "label"
      }
     ]
@@ -138745,7 +138745,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2027279985 51.2766508335 167.47)",
+      "value": "POINT Z (7.2027279985 51.2766508335 167.47)",
       "type": "label"
      }
     ]
@@ -138768,7 +138768,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1124889805 51.2494351723 137.74)",
+      "value": "POINT Z (7.1124889805 51.2494351723 137.74)",
       "type": "label"
      }
     ]
@@ -138791,7 +138791,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2490076954 51.3129753171 320.28)",
+      "value": "POINT Z (7.2490076954 51.3129753171 320.28)",
       "type": "label"
      }
     ]
@@ -138814,7 +138814,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2488787398 51.311802704 321.1)",
+      "value": "POINT Z (7.2488787398 51.311802704 321.1)",
       "type": "label"
      }
     ]
@@ -138837,7 +138837,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2057905525 51.2371368725 335.1)",
+      "value": "POINT Z (7.2057905525 51.2371368725 335.1)",
       "type": "label"
      }
     ]
@@ -138860,7 +138860,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1029326217 51.240739261 138.03)",
+      "value": "POINT Z (7.1029326217 51.240739261 138.03)",
       "type": "label"
      }
     ]
@@ -138883,7 +138883,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1585325643 51.2522630857 193.21)",
+      "value": "POINT Z (7.1585325643 51.2522630857 193.21)",
       "type": "label"
      }
     ]
@@ -138906,7 +138906,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2351704379 51.2389092468 290.62)",
+      "value": "POINT Z (7.2351704379 51.2389092468 290.62)",
       "type": "label"
      }
     ]
@@ -138929,7 +138929,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1246578364 51.2494351032 139.9)",
+      "value": "POINT Z (7.1246578364 51.2494351032 139.9)",
       "type": "label"
      }
     ]
@@ -138952,7 +138952,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1290356725 51.2514862859 140.42)",
+      "value": "POINT Z (7.1290356725 51.2514862859 140.42)",
       "type": "label"
      }
     ]
@@ -138975,7 +138975,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.168731901 51.2804144191 204.21)",
+      "value": "POINT Z (7.168731901 51.2804144191 204.21)",
       "type": "label"
      }
     ]
@@ -138998,7 +138998,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1105493575 51.2864643976 251.2)",
+      "value": "POINT Z (7.1105493575 51.2864643976 251.2)",
       "type": "label"
      }
     ]
@@ -139021,7 +139021,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.236813171 51.3252735319 243.97)",
+      "value": "POINT Z (7.236813171 51.3252735319 243.97)",
       "type": "label"
      }
     ]
@@ -139044,7 +139044,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1679769052 51.2390286139 320.63)",
+      "value": "POINT Z (7.1679769052 51.2390286139 320.63)",
       "type": "label"
      }
     ]
@@ -139067,7 +139067,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1911628135 51.2416841659 341.48)",
+      "value": "POINT Z (7.1911628135 51.2416841659 341.48)",
       "type": "label"
      }
     ]
@@ -139090,7 +139090,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1934197443 51.2392012004 345.55)",
+      "value": "POINT Z (7.1934197443 51.2392012004 345.55)",
       "type": "label"
      }
     ]
@@ -139113,7 +139113,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1881120756 51.2430538323 337.87)",
+      "value": "POINT Z (7.1881120756 51.2430538323 337.87)",
       "type": "label"
      }
     ]
@@ -139136,7 +139136,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1829797164 51.2429053134 331.47)",
+      "value": "POINT Z (7.1829797164 51.2429053134 331.47)",
       "type": "label"
      }
     ]
@@ -139159,7 +139159,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1862149045 51.2435227185 335.34)",
+      "value": "POINT Z (7.1862149045 51.2435227185 335.34)",
       "type": "label"
      }
     ]
@@ -139182,7 +139182,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1893391964 51.2439444618 341.94)",
+      "value": "POINT Z (7.1893391964 51.2439444618 341.94)",
       "type": "label"
      }
     ]
@@ -139205,7 +139205,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1663880031 51.239809925 325.08)",
+      "value": "POINT Z (7.1663880031 51.239809925 325.08)",
       "type": "label"
      }
     ]
@@ -139228,7 +139228,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1634443719 51.2388130921 327.32)",
+      "value": "POINT Z (7.1634443719 51.2388130921 327.32)",
       "type": "label"
      }
     ]
@@ -139251,7 +139251,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1308128152 51.2739867526 260.73)",
+      "value": "POINT Z (7.1308128152 51.2739867526 260.73)",
       "type": "label"
      }
     ]
@@ -139274,7 +139274,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.106724999 51.2211835207 143.23)",
+      "value": "POINT Z (7.106724999 51.2211835207 143.23)",
       "type": "label"
      }
     ]
@@ -139297,7 +139297,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1057470294 51.2153404859 131.54)",
+      "value": "POINT Z (7.1057470294 51.2153404859 131.54)",
       "type": "label"
      }
     ]
@@ -139320,7 +139320,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.107112401 51.2095028111 121.67)",
+      "value": "POINT Z (7.107112401 51.2095028111 121.67)",
       "type": "label"
      }
     ]
@@ -139343,7 +139343,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1076219028 51.2036482414 120.79)",
+      "value": "POINT Z (7.1076219028 51.2036482414 120.79)",
       "type": "label"
      }
     ]
@@ -139366,7 +139366,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1080312034 51.1958352537 115.44)",
+      "value": "POINT Z (7.1080312034 51.1958352537 115.44)",
       "type": "label"
      }
     ]
@@ -139389,7 +139389,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1027184735 51.2910789894 227.11)",
+      "value": "POINT Z (7.1027184735 51.2910789894 227.11)",
       "type": "label"
      }
     ]
@@ -139412,7 +139412,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1314109251 51.1994907011 263.27)",
+      "value": "POINT Z (7.1314109251 51.1994907011 263.27)",
       "type": "label"
      }
     ]
@@ -139435,7 +139435,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2155343199 51.2747316091 158.58)",
+      "value": "POINT Z (7.2155343199 51.2747316091 158.58)",
       "type": "label"
      }
     ]
@@ -139458,7 +139458,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2196077709 51.2752317837 160.69)",
+      "value": "POINT Z (7.2196077709 51.2752317837 160.69)",
       "type": "label"
      }
     ]
@@ -139481,7 +139481,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2211313304 51.2753191841 161.39)",
+      "value": "POINT Z (7.2211313304 51.2753191841 161.39)",
       "type": "label"
      }
     ]
@@ -139504,7 +139504,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2312833396 51.2760048889 165.53)",
+      "value": "POINT Z (7.2312833396 51.2760048889 165.53)",
       "type": "label"
      }
     ]
@@ -139527,7 +139527,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2376166242 51.2788787106 171.83)",
+      "value": "POINT Z (7.2376166242 51.2788787106 171.83)",
       "type": "label"
      }
     ]
@@ -139550,7 +139550,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2514812336 51.3087913921 306.16)",
+      "value": "POINT Z (7.2514812336 51.3087913921 306.16)",
       "type": "label"
      }
     ]
@@ -139573,7 +139573,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2520143743 51.3082603263 302.55)",
+      "value": "POINT Z (7.2520143743 51.3082603263 302.55)",
       "type": "label"
      }
     ]
@@ -139596,7 +139596,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1087234863 51.2586693226 176.29)",
+      "value": "POINT Z (7.1087234863 51.2586693226 176.29)",
       "type": "label"
      }
     ]
@@ -139619,7 +139619,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2407891256 51.3027329138 243.2)",
+      "value": "POINT Z (7.2407891256 51.3027329138 243.2)",
       "type": "label"
      }
     ]
@@ -139642,7 +139642,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1324626895 51.1704475678 119.56)",
+      "value": "POINT Z (7.1324626895 51.1704475678 119.56)",
       "type": "label"
      }
     ]
@@ -139665,7 +139665,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.130596917 51.1729700411 128.88)",
+      "value": "POINT Z (7.130596917 51.1729700411 128.88)",
       "type": "label"
      }
     ]
@@ -139688,7 +139688,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1265961864 51.1754623386 127.01)",
+      "value": "POINT Z (7.1265961864 51.1754623386 127.01)",
       "type": "label"
      }
     ]
@@ -139711,7 +139711,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1243475457 51.177922131 137.45)",
+      "value": "POINT Z (7.1243475457 51.177922131 137.45)",
       "type": "label"
      }
     ]
@@ -139734,7 +139734,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.126410389 51.1805195711 137.75)",
+      "value": "POINT Z (7.126410389 51.1805195711 137.75)",
       "type": "label"
      }
     ]
@@ -139757,7 +139757,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1260705559 51.183046246 125.1)",
+      "value": "POINT Z (7.1260705559 51.183046246 125.1)",
       "type": "label"
      }
     ]
@@ -139780,7 +139780,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1120803276 51.1868735681 129.69)",
+      "value": "POINT Z (7.1120803276 51.1868735681 129.69)",
       "type": "label"
      }
     ]
@@ -139803,7 +139803,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1073153565 51.1896360799 129.97)",
+      "value": "POINT Z (7.1073153565 51.1896360799 129.97)",
       "type": "label"
      }
     ]
@@ -139826,7 +139826,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1069495085 51.1957331651 115.23)",
+      "value": "POINT Z (7.1069495085 51.1957331651 115.23)",
       "type": "label"
      }
     ]
@@ -139849,7 +139849,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0472385156 51.2178629887 187.6)",
+      "value": "POINT Z (7.0472385156 51.2178629887 187.6)",
       "type": "label"
      }
     ]
@@ -139872,7 +139872,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0344834693 51.2089743657 197.58)",
+      "value": "POINT Z (7.0344834693 51.2089743657 197.58)",
       "type": "label"
      }
     ]
@@ -139895,7 +139895,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0422712391 51.2119837216 200.12)",
+      "value": "POINT Z (7.0422712391 51.2119837216 200.12)",
       "type": "label"
      }
     ]
@@ -139918,7 +139918,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0415622667 51.2137757628 197.05)",
+      "value": "POINT Z (7.0415622667 51.2137757628 197.05)",
       "type": "label"
      }
     ]
@@ -139941,7 +139941,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0431354721 51.21534676 193.53)",
+      "value": "POINT Z (7.0431354721 51.21534676 193.53)",
       "type": "label"
      }
     ]
@@ -139964,7 +139964,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0828609511 51.2456510452 174.65)",
+      "value": "POINT Z (7.0828609511 51.2456510452 174.65)",
       "type": "label"
      }
     ]
@@ -139987,7 +139987,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0583973593 51.2422625582 170.55)",
+      "value": "POINT Z (7.0583973593 51.2422625582 170.55)",
       "type": "label"
      }
     ]
@@ -140010,7 +140010,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1035100581 51.2560468623 176.58)",
+      "value": "POINT Z (7.1035100581 51.2560468623 176.58)",
       "type": "label"
      }
     ]
@@ -140033,7 +140033,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1906457665 51.272437548 181.31)",
+      "value": "POINT Z (7.1906457665 51.272437548 181.31)",
       "type": "label"
      }
     ]
@@ -140056,7 +140056,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.3113295501 51.2205226401 222)",
+      "value": "POINT Z (7.3113295501 51.2205226401 222)",
       "type": "label"
      }
     ]
@@ -140079,7 +140079,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1665437848 51.2153378299 196.73)",
+      "value": "POINT Z (7.1665437848 51.2153378299 196.73)",
       "type": "label"
      }
     ]
@@ -140102,7 +140102,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1626637362 51.2093931517 180.41)",
+      "value": "POINT Z (7.1626637362 51.2093931517 180.41)",
       "type": "label"
      }
     ]
@@ -140125,7 +140125,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1665015746 51.2020621844 162.21)",
+      "value": "POINT Z (7.1665015746 51.2020621844 162.21)",
       "type": "label"
      }
     ]
@@ -140148,7 +140148,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1971125255 51.199731011 200.13)",
+      "value": "POINT Z (7.1971125255 51.199731011 200.13)",
       "type": "label"
      }
     ]
@@ -140171,7 +140171,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.215648133 51.2081072377 230.28)",
+      "value": "POINT Z (7.215648133 51.2081072377 230.28)",
       "type": "label"
      }
     ]
@@ -140194,7 +140194,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2213818349 51.2176494076 256.25)",
+      "value": "POINT Z (7.2213818349 51.2176494076 256.25)",
       "type": "label"
      }
     ]
@@ -140217,7 +140217,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0995085887 51.2371610488 136.8)",
+      "value": "POINT Z (7.0995085887 51.2371610488 136.8)",
       "type": "label"
      }
     ]
@@ -140240,7 +140240,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1120998023 51.2450282932 188.5)",
+      "value": "POINT Z (7.1120998023 51.2450282932 188.5)",
       "type": "label"
      }
     ]
@@ -140263,7 +140263,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.237466168 51.3172081542 241.53)",
+      "value": "POINT Z (7.237466168 51.3172081542 241.53)",
       "type": "label"
      }
     ]
@@ -140286,7 +140286,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0672688 51.2084295244 209.54)",
+      "value": "POINT Z (7.0672688 51.2084295244 209.54)",
       "type": "label"
      }
     ]
@@ -140309,7 +140309,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.198623051 51.2750570492 182.5)",
+      "value": "POINT Z (7.198623051 51.2750570492 182.5)",
       "type": "label"
      }
     ]
@@ -140332,7 +140332,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2656926384 51.1641436011 345)",
+      "value": "POINT Z (7.2656926384 51.1641436011 345)",
       "type": "label"
      }
     ]
@@ -140355,7 +140355,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2501642961 51.1807777903 342)",
+      "value": "POINT Z (7.2501642961 51.1807777903 342)",
       "type": "label"
      }
     ]
@@ -140378,7 +140378,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1241141936 51.1743758013 160)",
+      "value": "POINT Z (7.1241141936 51.1743758013 160)",
       "type": "label"
      }
     ]
@@ -140401,7 +140401,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0926089073 51.1716870844 200.31)",
+      "value": "POINT Z (7.0926089073 51.1716870844 200.31)",
       "type": "label"
      }
     ]
@@ -140424,7 +140424,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1094551852 51.1712754927 212)",
+      "value": "POINT Z (7.1094551852 51.1712754927 212)",
       "type": "label"
      }
     ]
@@ -140447,7 +140447,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0823987473 51.164686469 203.9)",
+      "value": "POINT Z (7.0823987473 51.164686469 203.9)",
       "type": "label"
      }
     ]
@@ -140470,7 +140470,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0564889913 51.1860412972 210)",
+      "value": "POINT Z (7.0564889913 51.1860412972 210)",
       "type": "label"
      }
     ]
@@ -140493,7 +140493,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0494561104 51.2088309754 209.64)",
+      "value": "POINT Z (7.0494561104 51.2088309754 209.64)",
       "type": "label"
      }
     ]
@@ -140516,7 +140516,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0314955845 51.2376170712 170.6)",
+      "value": "POINT Z (7.0314955845 51.2376170712 170.6)",
       "type": "label"
      }
     ]
@@ -140539,7 +140539,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0791723048 51.2805236684 180.1)",
+      "value": "POINT Z (7.0791723048 51.2805236684 180.1)",
       "type": "label"
      }
     ]
@@ -140562,7 +140562,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0559468248 51.2879767135 212.1)",
+      "value": "POINT Z (7.0559468248 51.2879767135 212.1)",
       "type": "label"
      }
     ]
@@ -140585,7 +140585,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0711300079 51.285849334 188.9)",
+      "value": "POINT Z (7.0711300079 51.285849334 188.9)",
       "type": "label"
      }
     ]
@@ -140608,7 +140608,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0507381282 51.2868596429 207)",
+      "value": "POINT Z (7.0507381282 51.2868596429 207)",
       "type": "label"
      }
     ]
@@ -140631,7 +140631,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0637966004 51.3022607622 262.5)",
+      "value": "POINT Z (7.0637966004 51.3022607622 262.5)",
       "type": "label"
      }
     ]
@@ -140654,7 +140654,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0217047775 51.2931051622 155)",
+      "value": "POINT Z (7.0217047775 51.2931051622 155)",
       "type": "label"
      }
     ]
@@ -140677,7 +140677,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0064267036 51.3038009491 144.5)",
+      "value": "POINT Z (7.0064267036 51.3038009491 144.5)",
       "type": "label"
      }
     ]
@@ -140700,7 +140700,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2277095677 51.2389783468 295.7)",
+      "value": "POINT Z (7.2277095677 51.2389783468 295.7)",
       "type": "label"
      }
     ]
@@ -140723,7 +140723,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2321916615 51.2397160857 291.85)",
+      "value": "POINT Z (7.2321916615 51.2397160857 291.85)",
       "type": "label"
      }
     ]
@@ -140746,7 +140746,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2387880683 51.2954361129 231)",
+      "value": "POINT Z (7.2387880683 51.2954361129 231)",
       "type": "label"
      }
     ]
@@ -140769,7 +140769,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2392871426 51.2950387737 230.5)",
+      "value": "POINT Z (7.2392871426 51.2950387737 230.5)",
       "type": "label"
      }
     ]
@@ -140792,7 +140792,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1604629559 51.2674630581 180.02)",
+      "value": "POINT Z (7.1604629559 51.2674630581 180.02)",
       "type": "label"
      }
     ]
@@ -140815,7 +140815,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1610140578 51.2676263745 180.03)",
+      "value": "POINT Z (7.1610140578 51.2676263745 180.03)",
       "type": "label"
      }
     ]
@@ -140838,7 +140838,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1946881279 51.2728814535 181.83)",
+      "value": "POINT Z (7.1946881279 51.2728814535 181.83)",
       "type": "label"
      }
     ]
@@ -140861,7 +140861,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2028066806 51.2776413531 183.1)",
+      "value": "POINT Z (7.2028066806 51.2776413531 183.1)",
       "type": "label"
      }
     ]
@@ -140884,7 +140884,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2037886164 51.2779064668 183.52)",
+      "value": "POINT Z (7.2037886164 51.2779064668 183.52)",
       "type": "label"
      }
     ]
@@ -140907,7 +140907,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2085784599 51.2785429213 185.1)",
+      "value": "POINT Z (7.2085784599 51.2785429213 185.1)",
       "type": "label"
      }
     ]
@@ -140930,7 +140930,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2112441312 51.2777896595 185.4)",
+      "value": "POINT Z (7.2112441312 51.2777896595 185.4)",
       "type": "label"
      }
     ]
@@ -140953,7 +140953,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2165072038 51.2776249111 188.3)",
+      "value": "POINT Z (7.2165072038 51.2776249111 188.3)",
       "type": "label"
      }
     ]
@@ -140976,7 +140976,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2189461136 51.2779154697 188.3)",
+      "value": "POINT Z (7.2189461136 51.2779154697 188.3)",
       "type": "label"
      }
     ]
@@ -140999,7 +140999,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2080421997 51.2786473154 178.11)",
+      "value": "POINT Z (7.2080421997 51.2786473154 178.11)",
       "type": "label"
      }
     ]
@@ -141022,7 +141022,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2067981923 51.278515401 184.61)",
+      "value": "POINT Z (7.2067981923 51.278515401 184.61)",
       "type": "label"
      }
     ]
@@ -141045,7 +141045,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1993522503 51.2226556709 265.3)",
+      "value": "POINT Z (7.1993522503 51.2226556709 265.3)",
       "type": "label"
      }
     ]
@@ -141068,7 +141068,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1324445808 51.1663416869 125.1)",
+      "value": "POINT Z (7.1324445808 51.1663416869 125.1)",
       "type": "label"
      }
     ]
@@ -141091,7 +141091,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.101317467 51.2371115536 138.6)",
+      "value": "POINT Z (7.101317467 51.2371115536 138.6)",
       "type": "label"
      }
     ]
@@ -141114,7 +141114,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0729233757 51.2540353682 188.5)",
+      "value": "POINT Z (7.0729233757 51.2540353682 188.5)",
       "type": "label"
      }
     ]
@@ -141137,7 +141137,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1348804755 51.2803159284 293.8)",
+      "value": "POINT Z (7.1348804755 51.2803159284 293.8)",
       "type": "label"
      }
     ]
@@ -141160,7 +141160,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1305651288 51.2690606556 231.1)",
+      "value": "POINT Z (7.1305651288 51.2690606556 231.1)",
       "type": "label"
      }
     ]
@@ -141183,7 +141183,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0442823227 51.2306527524 200.8)",
+      "value": "POINT Z (7.0442823227 51.2306527524 200.8)",
       "type": "label"
      }
     ]
@@ -141206,7 +141206,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.055167394 51.2339611437 206.14)",
+      "value": "POINT Z (7.055167394 51.2339611437 206.14)",
       "type": "label"
      }
     ]
@@ -141229,7 +141229,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1067646447 51.2466929842 136.93)",
+      "value": "POINT Z (7.1067646447 51.2466929842 136.93)",
       "type": "label"
      }
     ]
@@ -141252,7 +141252,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1065843468 51.2465930576 137.02)",
+      "value": "POINT Z (7.1065843468 51.2465930576 137.02)",
       "type": "label"
      }
     ]
@@ -141275,7 +141275,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1051006312 51.2466573658 139.85)",
+      "value": "POINT Z (7.1051006312 51.2466573658 139.85)",
       "type": "label"
      }
     ]
@@ -141298,7 +141298,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0869270591 51.2470018221 154.43)",
+      "value": "POINT Z (7.0869270591 51.2470018221 154.43)",
       "type": "label"
      }
     ]
@@ -141321,7 +141321,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0865291564 51.2468808814 154.91)",
+      "value": "POINT Z (7.0865291564 51.2468808814 154.91)",
       "type": "label"
      }
     ]
@@ -141344,7 +141344,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0385122619 51.2147182189 186.44)",
+      "value": "POINT Z (7.0385122619 51.2147182189 186.44)",
       "type": "label"
      }
     ]
@@ -141367,7 +141367,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0476584924 51.218629882 178.12)",
+      "value": "POINT Z (7.0476584924 51.218629882 178.12)",
       "type": "label"
      }
     ]
@@ -141390,7 +141390,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2075091979 51.2151573355 248.8)",
+      "value": "POINT Z (7.2075091979 51.2151573355 248.8)",
       "type": "label"
      }
     ]
@@ -141413,7 +141413,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2207129166 51.2193454008 275.88)",
+      "value": "POINT Z (7.2207129166 51.2193454008 275.88)",
       "type": "label"
      }
     ]
@@ -141436,7 +141436,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2354200873 51.2247565494 299.85)",
+      "value": "POINT Z (7.2354200873 51.2247565494 299.85)",
       "type": "label"
      }
     ]
@@ -141459,7 +141459,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2351691885 51.2251431292 300.25)",
+      "value": "POINT Z (7.2351691885 51.2251431292 300.25)",
       "type": "label"
      }
     ]
@@ -141482,7 +141482,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.3190549612 51.2214386511 232.5)",
+      "value": "POINT Z (7.3190549612 51.2214386511 232.5)",
       "type": "label"
      }
     ]
@@ -141505,7 +141505,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.3073569459 51.2404191327 200.35)",
+      "value": "POINT Z (7.3073569459 51.2404191327 200.35)",
       "type": "label"
      }
     ]
@@ -141528,7 +141528,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2994136398 51.2466901554 206.39)",
+      "value": "POINT Z (7.2994136398 51.2466901554 206.39)",
       "type": "label"
      }
     ]
@@ -141551,7 +141551,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0742445752 51.1998516199 216)",
+      "value": "POINT Z (7.0742445752 51.1998516199 216)",
       "type": "label"
      }
     ]
@@ -141574,7 +141574,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0279798282 51.2058374511 175.94)",
+      "value": "POINT Z (7.0279798282 51.2058374511 175.94)",
       "type": "label"
      }
     ]
@@ -141597,7 +141597,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0382489519 51.2146081891 186.75)",
+      "value": "POINT Z (7.0382489519 51.2146081891 186.75)",
       "type": "label"
      }
     ]
@@ -141620,7 +141620,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0384053332 51.2299679837 189.68)",
+      "value": "POINT Z (7.0384053332 51.2299679837 189.68)",
       "type": "label"
      }
     ]
@@ -141643,7 +141643,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0420285047 51.2144739212 195.44)",
+      "value": "POINT Z (7.0420285047 51.2144739212 195.44)",
       "type": "label"
      }
     ]
@@ -141666,7 +141666,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0465377693 51.210478105 211.77)",
+      "value": "POINT Z (7.0465377693 51.210478105 211.77)",
       "type": "label"
      }
     ]
@@ -141689,7 +141689,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0456287903 51.2486441832 142.97)",
+      "value": "POINT Z (7.0456287903 51.2486441832 142.97)",
       "type": "label"
      }
     ]
@@ -141712,7 +141712,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0471288371 51.25036561 154.8)",
+      "value": "POINT Z (7.0471288371 51.25036561 154.8)",
       "type": "label"
      }
     ]
@@ -141735,7 +141735,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.049113616 51.2194987888 174.88)",
+      "value": "POINT Z (7.049113616 51.2194987888 174.88)",
       "type": "label"
      }
     ]
@@ -141758,7 +141758,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.051329871 51.2102149175 222.45)",
+      "value": "POINT Z (7.051329871 51.2102149175 222.45)",
       "type": "label"
      }
     ]
@@ -141781,7 +141781,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0540002989 51.2108359856 227.67)",
+      "value": "POINT Z (7.0540002989 51.2108359856 227.67)",
       "type": "label"
      }
     ]
@@ -141804,7 +141804,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0536603156 51.2220343318 176.01)",
+      "value": "POINT Z (7.0536603156 51.2220343318 176.01)",
       "type": "label"
      }
     ]
@@ -141827,7 +141827,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0533894198 51.2529250817 180.25)",
+      "value": "POINT Z (7.0533894198 51.2529250817 180.25)",
       "type": "label"
      }
     ]
@@ -141850,7 +141850,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.054256141 51.2338748586 204.77)",
+      "value": "POINT Z (7.054256141 51.2338748586 204.77)",
       "type": "label"
      }
     ]
@@ -141873,7 +141873,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0550448348 51.2232740876 176.77)",
+      "value": "POINT Z (7.0550448348 51.2232740876 176.77)",
       "type": "label"
      }
     ]
@@ -141896,7 +141896,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0556123657 51.2340483056 206.73)",
+      "value": "POINT Z (7.0556123657 51.2340483056 206.73)",
       "type": "label"
      }
     ]
@@ -141919,7 +141919,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0573384547 51.2107957456 224.4)",
+      "value": "POINT Z (7.0573384547 51.2107957456 224.4)",
       "type": "label"
      }
     ]
@@ -141942,7 +141942,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0568686845 51.2342841492 208.43)",
+      "value": "POINT Z (7.0568686845 51.2342841492 208.43)",
       "type": "label"
      }
     ]
@@ -141965,7 +141965,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0564643915 51.2539670089 183.23)",
+      "value": "POINT Z (7.0564643915 51.2539670089 183.23)",
       "type": "label"
      }
     ]
@@ -141988,7 +141988,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0594591704 51.2142191015 246.93)",
+      "value": "POINT Z (7.0594591704 51.2142191015 246.93)",
       "type": "label"
      }
     ]
@@ -142011,7 +142011,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0593628424 51.2177771328 235.27)",
+      "value": "POINT Z (7.0593628424 51.2177771328 235.27)",
       "type": "label"
      }
     ]
@@ -142034,7 +142034,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0597405372 51.2219667883 212.4)",
+      "value": "POINT Z (7.0597405372 51.2219667883 212.4)",
       "type": "label"
      }
     ]
@@ -142057,7 +142057,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0601713095 51.2195960168 222.91)",
+      "value": "POINT Z (7.0601713095 51.2195960168 222.91)",
       "type": "label"
      }
     ]
@@ -142080,7 +142080,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0595683125 51.2348875993 211)",
+      "value": "POINT Z (7.0595683125 51.2348875993 211)",
       "type": "label"
      }
     ]
@@ -142103,7 +142103,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0600576615 51.2340446512 209.46)",
+      "value": "POINT Z (7.0600576615 51.2340446512 209.46)",
       "type": "label"
      }
     ]
@@ -142126,7 +142126,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0594137818 51.2540787533 180.66)",
+      "value": "POINT Z (7.0594137818 51.2540787533 180.66)",
       "type": "label"
      }
     ]
@@ -142149,7 +142149,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.060373293 51.2334116404 206.13)",
+      "value": "POINT Z (7.060373293 51.2334116404 206.13)",
       "type": "label"
      }
     ]
@@ -142172,7 +142172,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0606244956 51.2349451905 211.71)",
+      "value": "POINT Z (7.0606244956 51.2349451905 211.71)",
       "type": "label"
      }
     ]
@@ -142195,7 +142195,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0607592898 51.2327146272 201.56)",
+      "value": "POINT Z (7.0607592898 51.2327146272 201.56)",
       "type": "label"
      }
     ]
@@ -142218,7 +142218,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0601470307 51.2513605404 170.69)",
+      "value": "POINT Z (7.0601470307 51.2513605404 170.69)",
       "type": "label"
      }
     ]
@@ -142241,7 +142241,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0617136613 51.2244090452 202.56)",
+      "value": "POINT Z (7.0617136613 51.2244090452 202.56)",
       "type": "label"
      }
     ]
@@ -142264,7 +142264,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0616310792 51.2320235321 195.93)",
+      "value": "POINT Z (7.0616310792 51.2320235321 195.93)",
       "type": "label"
      }
     ]
@@ -142287,7 +142287,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0615356987 51.2347997886 211.83)",
+      "value": "POINT Z (7.0615356987 51.2347997886 211.83)",
       "type": "label"
      }
     ]
@@ -142310,7 +142310,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0618508439 51.2303765283 185.75)",
+      "value": "POINT Z (7.0618508439 51.2303765283 185.75)",
       "type": "label"
      }
     ]
@@ -142333,7 +142333,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0622950452 51.231727853 191.65)",
+      "value": "POINT Z (7.0622950452 51.231727853 191.65)",
       "type": "label"
      }
     ]
@@ -142356,7 +142356,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0627110169 51.2247673557 201.93)",
+      "value": "POINT Z (7.0627110169 51.2247673557 201.93)",
       "type": "label"
      }
     ]
@@ -142379,7 +142379,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0625121589 51.2345922405 209.52)",
+      "value": "POINT Z (7.0625121589 51.2345922405 209.52)",
       "type": "label"
      }
     ]
@@ -142402,7 +142402,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0629259816 51.2248794843 201.86)",
+      "value": "POINT Z (7.0629259816 51.2248794843 201.86)",
       "type": "label"
      }
     ]
@@ -142425,7 +142425,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0634092182 51.2309016953 184.45)",
+      "value": "POINT Z (7.0634092182 51.2309016953 184.45)",
       "type": "label"
      }
     ]
@@ -142448,7 +142448,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0634729979 51.234433455 205.39)",
+      "value": "POINT Z (7.0634729979 51.234433455 205.39)",
       "type": "label"
      }
     ]
@@ -142471,7 +142471,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0648245905 51.2255891953 201.1)",
+      "value": "POINT Z (7.0648245905 51.2255891953 201.1)",
       "type": "label"
      }
     ]
@@ -142494,7 +142494,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0644925789 51.234301364 200.36)",
+      "value": "POINT Z (7.0644925789 51.234301364 200.36)",
       "type": "label"
      }
     ]
@@ -142517,7 +142517,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0656190344 51.2317355198 185.04)",
+      "value": "POINT Z (7.0656190344 51.2317355198 185.04)",
       "type": "label"
      }
     ]
@@ -142540,7 +142540,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0659193506 51.2259812813 200.96)",
+      "value": "POINT Z (7.0659193506 51.2259812813 200.96)",
       "type": "label"
      }
     ]
@@ -142563,7 +142563,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0661855441 51.2337731788 194.73)",
+      "value": "POINT Z (7.0661855441 51.2337731788 194.73)",
       "type": "label"
      }
     ]
@@ -142586,7 +142586,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.068132564 51.2333125747 186.4)",
+      "value": "POINT Z (7.068132564 51.2333125747 186.4)",
       "type": "label"
      }
     ]
@@ -142609,7 +142609,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0683859965 51.2353012516 177.13)",
+      "value": "POINT Z (7.0683859965 51.2353012516 177.13)",
       "type": "label"
      }
     ]
@@ -142632,7 +142632,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0687786509 51.2077750126 207.69)",
+      "value": "POINT Z (7.0687786509 51.2077750126 207.69)",
       "type": "label"
      }
     ]
@@ -142655,7 +142655,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0695182387 51.2265798333 198.56)",
+      "value": "POINT Z (7.0695182387 51.2265798333 198.56)",
       "type": "label"
      }
     ]
@@ -142678,7 +142678,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0696600721 51.2349793442 179.09)",
+      "value": "POINT Z (7.0696600721 51.2349793442 179.09)",
       "type": "label"
      }
     ]
@@ -142701,7 +142701,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0664299981 51.3133230854 263.1)",
+      "value": "POINT Z (7.0664299981 51.3133230854 263.1)",
       "type": "label"
      }
     ]
@@ -142724,7 +142724,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0701059114 51.2401175017 207.28)",
+      "value": "POINT Z (7.0701059114 51.2401175017 207.28)",
       "type": "label"
      }
     ]
@@ -142747,7 +142747,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0702095686 51.2407542266 208.45)",
+      "value": "POINT Z (7.0702095686 51.2407542266 208.45)",
       "type": "label"
      }
     ]
@@ -142770,7 +142770,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0704123925 51.2417014384 208.64)",
+      "value": "POINT Z (7.0704123925 51.2417014384 208.64)",
       "type": "label"
      }
     ]
@@ -142793,7 +142793,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0705410703 51.2423378884 206.74)",
+      "value": "POINT Z (7.0705410703 51.2423378884 206.74)",
       "type": "label"
      }
     ]
@@ -142816,7 +142816,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0706188166 51.242854974 204.53)",
+      "value": "POINT Z (7.0706188166 51.242854974 204.53)",
       "type": "label"
      }
     ]
@@ -142839,7 +142839,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.070604115 51.2468266504 199.12)",
+      "value": "POINT Z (7.070604115 51.2468266504 199.12)",
       "type": "label"
      }
     ]
@@ -142862,7 +142862,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0707802565 51.2434903692 202.98)",
+      "value": "POINT Z (7.0707802565 51.2434903692 202.98)",
       "type": "label"
      }
     ]
@@ -142885,7 +142885,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0707174733 51.2463581624 198.71)",
+      "value": "POINT Z (7.0707174733 51.2463581624 198.71)",
       "type": "label"
      }
     ]
@@ -142908,7 +142908,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0706493651 51.248142087 198.47)",
+      "value": "POINT Z (7.0706493651 51.248142087 198.47)",
       "type": "label"
      }
     ]
@@ -142931,7 +142931,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0709851244 51.2443963199 203.25)",
+      "value": "POINT Z (7.0709851244 51.2443963199 203.25)",
       "type": "label"
      }
     ]
@@ -142954,7 +142954,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0722308478 51.226644381 195.63)",
+      "value": "POINT Z (7.0722308478 51.226644381 195.63)",
       "type": "label"
      }
     ]
@@ -142977,7 +142977,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0723284746 51.2275839794 193.61)",
+      "value": "POINT Z (7.0723284746 51.2275839794 193.61)",
       "type": "label"
      }
     ]
@@ -143000,7 +143000,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0723923559 51.2354935423 180.48)",
+      "value": "POINT Z (7.0723923559 51.2354935423 180.48)",
       "type": "label"
      }
     ]
@@ -143023,7 +143023,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.072035535 51.2510097473 186.54)",
+      "value": "POINT Z (7.072035535 51.2510097473 186.54)",
       "type": "label"
      }
     ]
@@ -143046,7 +143046,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0723585824 51.2515498054 184.52)",
+      "value": "POINT Z (7.0723585824 51.2515498054 184.52)",
       "type": "label"
      }
     ]
@@ -143069,7 +143069,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0731091648 51.2529692262 184.83)",
+      "value": "POINT Z (7.0731091648 51.2529692262 184.83)",
       "type": "label"
      }
     ]
@@ -143092,7 +143092,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0727996487 51.2611040351 218.25)",
+      "value": "POINT Z (7.0727996487 51.2611040351 218.25)",
       "type": "label"
      }
     ]
@@ -143115,7 +143115,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0724257853 51.2719068599 160.63)",
+      "value": "POINT Z (7.0724257853 51.2719068599 160.63)",
       "type": "label"
      }
     ]
@@ -143138,7 +143138,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0725390644 51.2709511315 162.87)",
+      "value": "POINT Z (7.0725390644 51.2709511315 162.87)",
       "type": "label"
      }
     ]
@@ -143161,7 +143161,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0727480261 51.2695813342 170.44)",
+      "value": "POINT Z (7.0727480261 51.2695813342 170.44)",
       "type": "label"
      }
     ]
@@ -143184,7 +143184,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0731722225 51.2665670704 183.78)",
+      "value": "POINT Z (7.0731722225 51.2665670704 183.78)",
       "type": "label"
      }
     ]
@@ -143207,7 +143207,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0732338499 51.2668019142 183)",
+      "value": "POINT Z (7.0732338499 51.2668019142 183)",
       "type": "label"
      }
     ]
@@ -143230,7 +143230,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0733146705 51.2655760342 186.48)",
+      "value": "POINT Z (7.0733146705 51.2655760342 186.48)",
       "type": "label"
      }
     ]
@@ -143253,7 +143253,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0737296429 51.2530612012 185.36)",
+      "value": "POINT Z (7.0737296429 51.2530612012 185.36)",
       "type": "label"
      }
     ]
@@ -143276,7 +143276,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0755027593 51.2308938059 174.16)",
+      "value": "POINT Z (7.0755027593 51.2308938059 174.16)",
       "type": "label"
      }
     ]
@@ -143299,7 +143299,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0734837163 51.2797580245 167.48)",
+      "value": "POINT Z (7.0734837163 51.2797580245 167.48)",
       "type": "label"
      }
     ]
@@ -143322,7 +143322,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.075820368 51.2422660958 171.12)",
+      "value": "POINT Z (7.075820368 51.2422660958 171.12)",
       "type": "label"
      }
     ]
@@ -143345,7 +143345,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0766483313 51.2536159507 193.73)",
+      "value": "POINT Z (7.0766483313 51.2536159507 193.73)",
       "type": "label"
      }
     ]
@@ -143368,7 +143368,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0770672335 51.2455811832 187.33)",
+      "value": "POINT Z (7.0770672335 51.2455811832 187.33)",
       "type": "label"
      }
     ]
@@ -143391,7 +143391,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0760755558 51.2802453306 172.82)",
+      "value": "POINT Z (7.0760755558 51.2802453306 172.82)",
       "type": "label"
      }
     ]
@@ -143414,7 +143414,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0782287765 51.2316955168 167.34)",
+      "value": "POINT Z (7.0782287765 51.2316955168 167.34)",
       "type": "label"
      }
     ]
@@ -143437,7 +143437,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0806676788 51.1807538503 221)",
+      "value": "POINT Z (7.0806676788 51.1807538503 221)",
       "type": "label"
      }
     ]
@@ -143460,7 +143460,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0830832228 51.2328242298 156.7)",
+      "value": "POINT Z (7.0830832228 51.2328242298 156.7)",
       "type": "label"
      }
     ]
@@ -143483,7 +143483,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0846632108 51.2336455673 150.68)",
+      "value": "POINT Z (7.0846632108 51.2336455673 150.68)",
       "type": "label"
      }
     ]
@@ -143506,7 +143506,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0858930198 51.2354049473 139.56)",
+      "value": "POINT Z (7.0858930198 51.2354049473 139.56)",
       "type": "label"
      }
     ]
@@ -143529,7 +143529,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0852445044 51.2564898175 198.15)",
+      "value": "POINT Z (7.0852445044 51.2564898175 198.15)",
       "type": "label"
      }
     ]
@@ -143552,7 +143552,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0862549454 51.2344476364 149.57)",
+      "value": "POINT Z (7.0862549454 51.2344476364 149.57)",
       "type": "label"
      }
     ]
@@ -143575,7 +143575,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0862595985 51.2344500471 149.57)",
+      "value": "POINT Z (7.0862595985 51.2344500471 149.57)",
       "type": "label"
      }
     ]
@@ -143598,7 +143598,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0858864654 51.2465912808 157.31)",
+      "value": "POINT Z (7.0858864654 51.2465912808 157.31)",
       "type": "label"
      }
     ]
@@ -143621,7 +143621,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0845275665 51.2815982804 193.72)",
+      "value": "POINT Z (7.0845275665 51.2815982804 193.72)",
       "type": "label"
      }
     ]
@@ -143644,7 +143644,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0862042043 51.2467821136 155.59)",
+      "value": "POINT Z (7.0862042043 51.2467821136 155.59)",
       "type": "label"
      }
     ]
@@ -143667,7 +143667,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.086106514 51.2565895307 198.22)",
+      "value": "POINT Z (7.086106514 51.2565895307 198.22)",
       "type": "label"
      }
     ]
@@ -143690,7 +143690,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0878076915 51.2352589459 143.01)",
+      "value": "POINT Z (7.0878076915 51.2352589459 143.01)",
       "type": "label"
      }
     ]
@@ -143713,7 +143713,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0882929657 51.2363803404 136.47)",
+      "value": "POINT Z (7.0882929657 51.2363803404 136.47)",
       "type": "label"
      }
     ]
@@ -143736,7 +143736,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0883828809 51.2468516338 153.83)",
+      "value": "POINT Z (7.0883828809 51.2468516338 153.83)",
       "type": "label"
      }
     ]
@@ -143759,7 +143759,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0880129242 51.2566437075 201.44)",
+      "value": "POINT Z (7.0880129242 51.2566437075 201.44)",
       "type": "label"
      }
     ]
@@ -143782,7 +143782,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0889696373 51.235866347 137.86)",
+      "value": "POINT Z (7.0889696373 51.235866347 137.86)",
       "type": "label"
      }
     ]
@@ -143805,7 +143805,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.088455946 51.2566035858 201.97)",
+      "value": "POINT Z (7.088455946 51.2566035858 201.97)",
       "type": "label"
      }
     ]
@@ -143828,7 +143828,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0893794992 51.2360983904 136.95)",
+      "value": "POINT Z (7.0893794992 51.2360983904 136.95)",
       "type": "label"
      }
     ]
@@ -143851,7 +143851,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.089953447 51.2364139932 136.93)",
+      "value": "POINT Z (7.089953447 51.2364139932 136.93)",
       "type": "label"
      }
     ]
@@ -143874,7 +143874,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0885245994 51.2835545346 195.15)",
+      "value": "POINT Z (7.0885245994 51.2835545346 195.15)",
       "type": "label"
      }
     ]
@@ -143897,7 +143897,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0908071019 51.2369790883 139.78)",
+      "value": "POINT Z (7.0908071019 51.2369790883 139.78)",
       "type": "label"
      }
     ]
@@ -143920,7 +143920,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0911402458 51.2374953702 132.46)",
+      "value": "POINT Z (7.0911402458 51.2374953702 132.46)",
       "type": "label"
      }
     ]
@@ -143943,7 +143943,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0911273421 51.2389414858 138.56)",
+      "value": "POINT Z (7.0911273421 51.2389414858 138.56)",
       "type": "label"
      }
     ]
@@ -143966,7 +143966,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0904482988 51.2572683311 211.26)",
+      "value": "POINT Z (7.0904482988 51.2572683311 211.26)",
       "type": "label"
      }
     ]
@@ -143989,7 +143989,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0904653221 51.2579873025 214.83)",
+      "value": "POINT Z (7.0904653221 51.2579873025 214.83)",
       "type": "label"
      }
     ]
@@ -144012,7 +144012,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0906108381 51.2586870978 219.24)",
+      "value": "POINT Z (7.0906108381 51.2586870978 219.24)",
       "type": "label"
      }
     ]
@@ -144035,7 +144035,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0908660642 51.2561587021 200.26)",
+      "value": "POINT Z (7.0908660642 51.2561587021 200.26)",
       "type": "label"
      }
     ]
@@ -144058,7 +144058,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0908696663 51.2593318848 226.03)",
+      "value": "POINT Z (7.0908696663 51.2593318848 226.03)",
       "type": "label"
      }
     ]
@@ -144081,7 +144081,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0915608091 51.2600805143 233.98)",
+      "value": "POINT Z (7.0915608091 51.2600805143 233.98)",
       "type": "label"
      }
     ]
@@ -144104,7 +144104,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.09255925 51.2394459434 134.31)",
+      "value": "POINT Z (7.09255925 51.2394459434 134.31)",
       "type": "label"
      }
     ]
@@ -144127,7 +144127,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0936469179 51.2925094548 208.49)",
+      "value": "POINT Z (7.0936469179 51.2925094548 208.49)",
       "type": "label"
      }
     ]
@@ -144150,7 +144150,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.097301571 51.236521 136.35)",
+      "value": "POINT Z (7.097301571 51.236521 136.35)",
       "type": "label"
      }
     ]
@@ -144173,7 +144173,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0975331396 51.2367211751 136.7)",
+      "value": "POINT Z (7.0975331396 51.2367211751 136.7)",
       "type": "label"
      }
     ]
@@ -144196,7 +144196,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0977772699 51.2372083965 136.03)",
+      "value": "POINT Z (7.0977772699 51.2372083965 136.03)",
       "type": "label"
      }
     ]
@@ -144219,7 +144219,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0983612622 51.2312292327 130.53)",
+      "value": "POINT Z (7.0983612622 51.2312292327 130.53)",
       "type": "label"
      }
     ]
@@ -144242,7 +144242,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0958555493 51.2922970675 206.58)",
+      "value": "POINT Z (7.0958555493 51.2922970675 206.58)",
       "type": "label"
      }
     ]
@@ -144265,7 +144265,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0971274508 51.2628241569 252.29)",
+      "value": "POINT Z (7.0971274508 51.2628241569 252.29)",
       "type": "label"
      }
     ]
@@ -144288,7 +144288,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0988295723 51.2531091079 174.83)",
+      "value": "POINT Z (7.0988295723 51.2531091079 174.83)",
       "type": "label"
      }
     ]
@@ -144311,7 +144311,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0984157131 51.2631852058 248.64)",
+      "value": "POINT Z (7.0984157131 51.2631852058 248.64)",
       "type": "label"
      }
     ]
@@ -144334,7 +144334,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0972084069 51.2958949498 197.28)",
+      "value": "POINT Z (7.0972084069 51.2958949498 197.28)",
       "type": "label"
      }
     ]
@@ -144357,7 +144357,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0986855229 51.263276966 247.31)",
+      "value": "POINT Z (7.0986855229 51.263276966 247.31)",
       "type": "label"
      }
     ]
@@ -144380,7 +144380,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0977898186 51.2952671445 200.34)",
+      "value": "POINT Z (7.0977898186 51.2952671445 200.34)",
       "type": "label"
      }
     ]
@@ -144403,7 +144403,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0991107358 51.2651847929 244.52)",
+      "value": "POINT Z (7.0991107358 51.2651847929 244.52)",
       "type": "label"
      }
     ]
@@ -144426,7 +144426,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0994506161 51.2934901502 212.23)",
+      "value": "POINT Z (7.0994506161 51.2934901502 212.23)",
       "type": "label"
      }
     ]
@@ -144449,7 +144449,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.100188116 51.2917562168 220.7)",
+      "value": "POINT Z (7.100188116 51.2917562168 220.7)",
       "type": "label"
      }
     ]
@@ -144472,7 +144472,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1024484265 51.2376442899 139.73)",
+      "value": "POINT Z (7.1024484265 51.2376442899 139.73)",
       "type": "label"
      }
     ]
@@ -144495,7 +144495,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1020672007 51.2542791566 161.94)",
+      "value": "POINT Z (7.1020672007 51.2542791566 161.94)",
       "type": "label"
      }
     ]
@@ -144518,7 +144518,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.102943685 51.2388676533 139.18)",
+      "value": "POINT Z (7.102943685 51.2388676533 139.18)",
       "type": "label"
      }
     ]
@@ -144541,7 +144541,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1029295404 51.240633015 138.05)",
+      "value": "POINT Z (7.1029295404 51.240633015 138.05)",
       "type": "label"
      }
     ]
@@ -144564,7 +144564,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.102945077 51.2415863983 137.71)",
+      "value": "POINT Z (7.102945077 51.2415863983 137.71)",
       "type": "label"
      }
     ]
@@ -144587,7 +144587,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1019835287 51.2675875999 237.25)",
+      "value": "POINT Z (7.1019835287 51.2675875999 237.25)",
       "type": "label"
      }
     ]
@@ -144610,7 +144610,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.103106974 51.2426953981 137.82)",
+      "value": "POINT Z (7.103106974 51.2426953981 137.82)",
       "type": "label"
      }
     ]
@@ -144633,7 +144633,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1029849755 51.2488111283 145.38)",
+      "value": "POINT Z (7.1029849755 51.2488111283 145.38)",
       "type": "label"
      }
     ]
@@ -144656,7 +144656,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.10380322 51.2292002685 131.79)",
+      "value": "POINT Z (7.10380322 51.2292002685 131.79)",
       "type": "label"
      }
     ]
@@ -144679,7 +144679,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1033242072 51.2485376254 144.72)",
+      "value": "POINT Z (7.1033242072 51.2485376254 144.72)",
       "type": "label"
      }
     ]
@@ -144702,7 +144702,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1037487457 51.2440062585 137.47)",
+      "value": "POINT Z (7.1037487457 51.2440062585 137.47)",
       "type": "label"
      }
     ]
@@ -144725,7 +144725,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1038623294 51.2480899252 143.96)",
+      "value": "POINT Z (7.1038623294 51.2480899252 143.96)",
       "type": "label"
      }
     ]
@@ -144748,7 +144748,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1051721178 51.2287344049 130.14)",
+      "value": "POINT Z (7.1051721178 51.2287344049 130.14)",
       "type": "label"
      }
     ]
@@ -144771,7 +144771,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1044024698 51.2531555929 156.48)",
+      "value": "POINT Z (7.1044024698 51.2531555929 156.48)",
       "type": "label"
      }
     ]
@@ -144794,7 +144794,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1029248632 51.2910113624 227.46)",
+      "value": "POINT Z (7.1029248632 51.2910113624 227.46)",
       "type": "label"
      }
     ]
@@ -144817,7 +144817,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1045265199 51.2535499518 157.2)",
+      "value": "POINT Z (7.1045265199 51.2535499518 157.2)",
       "type": "label"
      }
     ]
@@ -144840,7 +144840,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1048202795 51.2472726508 142.38)",
+      "value": "POINT Z (7.1048202795 51.2472726508 142.38)",
       "type": "label"
      }
     ]
@@ -144863,7 +144863,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1057524325 51.2459213103 136.79)",
+      "value": "POINT Z (7.1057524325 51.2459213103 136.79)",
       "type": "label"
      }
     ]
@@ -144886,7 +144886,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1057516758 51.2552068454 161.44)",
+      "value": "POINT Z (7.1057516758 51.2552068454 161.44)",
       "type": "label"
      }
     ]
@@ -144909,7 +144909,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.106209754 51.2462747276 136.89)",
+      "value": "POINT Z (7.106209754 51.2462747276 136.89)",
       "type": "label"
      }
     ]
@@ -144932,7 +144932,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1059724914 51.255502084 162.43)",
+      "value": "POINT Z (7.1059724914 51.255502084 162.43)",
       "type": "label"
      }
     ]
@@ -144955,7 +144955,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1065395919 51.2465599868 137.05)",
+      "value": "POINT Z (7.1065395919 51.2465599868 137.05)",
       "type": "label"
      }
     ]
@@ -144978,7 +144978,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1052272774 51.2901925313 234.38)",
+      "value": "POINT Z (7.1052272774 51.2901925313 234.38)",
       "type": "label"
      }
     ]
@@ -145001,7 +145001,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1068569384 51.2563412742 165.23)",
+      "value": "POINT Z (7.1068569384 51.2563412742 165.23)",
       "type": "label"
      }
     ]
@@ -145024,7 +145024,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1084917725 51.2286653338 135.63)",
+      "value": "POINT Z (7.1084917725 51.2286653338 135.63)",
       "type": "label"
      }
     ]
@@ -145047,7 +145047,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1101983093 51.1934413179 116.13)",
+      "value": "POINT Z (7.1101983093 51.1934413179 116.13)",
       "type": "label"
      }
     ]
@@ -145070,7 +145070,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1074591832 51.2702251542 241.24)",
+      "value": "POINT Z (7.1074591832 51.2702251542 241.24)",
       "type": "label"
      }
     ]
@@ -145093,7 +145093,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1090158304 51.2359249105 229.3)",
+      "value": "POINT Z (7.1090158304 51.2359249105 229.3)",
       "type": "label"
      }
     ]
@@ -145116,7 +145116,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1081009924 51.2633770338 194.77)",
+      "value": "POINT Z (7.1081009924 51.2633770338 194.77)",
       "type": "label"
      }
     ]
@@ -145139,7 +145139,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1119904129 51.1941973427 126.42)",
+      "value": "POINT Z (7.1119904129 51.1941973427 126.42)",
       "type": "label"
      }
     ]
@@ -145162,7 +145162,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1092503355 51.2626210689 199.12)",
+      "value": "POINT Z (7.1092503355 51.2626210689 199.12)",
       "type": "label"
      }
     ]
@@ -145185,7 +145185,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1103129205 51.2622519362 202.77)",
+      "value": "POINT Z (7.1103129205 51.2622519362 202.77)",
       "type": "label"
      }
     ]
@@ -145208,7 +145208,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1096027653 51.2880774434 253.4)",
+      "value": "POINT Z (7.1096027653 51.2880774434 253.4)",
       "type": "label"
      }
     ]
@@ -145231,7 +145231,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1106690667 51.2622616252 203.17)",
+      "value": "POINT Z (7.1106690667 51.2622616252 203.17)",
       "type": "label"
      }
     ]
@@ -145254,7 +145254,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1136277391 51.1939926767 152.46)",
+      "value": "POINT Z (7.1136277391 51.1939926767 152.46)",
       "type": "label"
      }
     ]
@@ -145277,7 +145277,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1097991701 51.2877464084 252.91)",
+      "value": "POINT Z (7.1097991701 51.2877464084 252.91)",
       "type": "label"
      }
     ]
@@ -145300,7 +145300,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1109446021 51.2618487728 199.74)",
+      "value": "POINT Z (7.1109446021 51.2618487728 199.74)",
       "type": "label"
      }
     ]
@@ -145323,7 +145323,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1105023964 51.2865400091 251.17)",
+      "value": "POINT Z (7.1105023964 51.2865400091 251.17)",
       "type": "label"
      }
     ]
@@ -145346,7 +145346,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1117590374 51.2623801813 204.34)",
+      "value": "POINT Z (7.1117590374 51.2623801813 204.34)",
       "type": "label"
      }
     ]
@@ -145369,7 +145369,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1109281397 51.2858545221 252.4)",
+      "value": "POINT Z (7.1109281397 51.2858545221 252.4)",
       "type": "label"
      }
     ]
@@ -145392,7 +145392,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1116186151 51.2850334822 257.19)",
+      "value": "POINT Z (7.1116186151 51.2850334822 257.19)",
       "type": "label"
      }
     ]
@@ -145415,7 +145415,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1175174465 51.2024349906 255.34)",
+      "value": "POINT Z (7.1175174465 51.2024349906 255.34)",
       "type": "label"
      }
     ]
@@ -145438,7 +145438,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1157309573 51.2495061995 138.11)",
+      "value": "POINT Z (7.1157309573 51.2495061995 138.11)",
       "type": "label"
      }
     ]
@@ -145461,7 +145461,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1146938903 51.2835927279 268.65)",
+      "value": "POINT Z (7.1146938903 51.2835927279 268.65)",
       "type": "label"
      }
     ]
@@ -145484,7 +145484,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1162640496 51.262220203 209.93)",
+      "value": "POINT Z (7.1162640496 51.262220203 209.93)",
       "type": "label"
      }
     ]
@@ -145507,7 +145507,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1171755322 51.262033843 211.74)",
+      "value": "POINT Z (7.1171755322 51.262033843 211.74)",
       "type": "label"
      }
     ]
@@ -145530,7 +145530,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1202625629 51.2038427017 272)",
+      "value": "POINT Z (7.1202625629 51.2038427017 272)",
       "type": "label"
      }
     ]
@@ -145553,7 +145553,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1170456461 51.2827801855 272.58)",
+      "value": "POINT Z (7.1170456461 51.2827801855 272.58)",
       "type": "label"
      }
     ]
@@ -145576,7 +145576,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1180356055 51.2614595043 210.29)",
+      "value": "POINT Z (7.1180356055 51.2614595043 210.29)",
       "type": "label"
      }
     ]
@@ -145599,7 +145599,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1194358187 51.2369402103 275.57)",
+      "value": "POINT Z (7.1194358187 51.2369402103 275.57)",
       "type": "label"
      }
     ]
@@ -145622,7 +145622,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1187247565 51.2819543618 280.36)",
+      "value": "POINT Z (7.1187247565 51.2819543618 280.36)",
       "type": "label"
      }
     ]
@@ -145645,7 +145645,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1221459673 51.2042266126 279.1)",
+      "value": "POINT Z (7.1221459673 51.2042266126 279.1)",
       "type": "label"
      }
     ]
@@ -145668,7 +145668,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1206795816 51.2489360508 139.26)",
+      "value": "POINT Z (7.1206795816 51.2489360508 139.26)",
       "type": "label"
      }
     ]
@@ -145691,7 +145691,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1209930831 51.2489001563 139.31)",
+      "value": "POINT Z (7.1209930831 51.2489001563 139.31)",
       "type": "label"
      }
     ]
@@ -145714,7 +145714,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1197513319 51.2811445845 285.62)",
+      "value": "POINT Z (7.1197513319 51.2811445845 285.62)",
       "type": "label"
      }
     ]
@@ -145737,7 +145737,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1229199504 51.2043932898 281.4)",
+      "value": "POINT Z (7.1229199504 51.2043932898 281.4)",
       "type": "label"
      }
     ]
@@ -145760,7 +145760,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1222298914 51.2487700563 139.38)",
+      "value": "POINT Z (7.1222298914 51.2487700563 139.38)",
       "type": "label"
      }
     ]
@@ -145783,7 +145783,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1220850153 51.2754029376 233.32)",
+      "value": "POINT Z (7.1220850153 51.2754029376 233.32)",
       "type": "label"
      }
     ]
@@ -145806,7 +145806,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1226371543 51.2772338925 245.25)",
+      "value": "POINT Z (7.1226371543 51.2772338925 245.25)",
       "type": "label"
      }
     ]
@@ -145829,7 +145829,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1248196651 51.2495126751 139.92)",
+      "value": "POINT Z (7.1248196651 51.2495126751 139.92)",
       "type": "label"
      }
     ]
@@ -145852,7 +145852,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1235832849 51.2807418391 272.82)",
+      "value": "POINT Z (7.1235832849 51.2807418391 272.82)",
       "type": "label"
      }
     ]
@@ -145875,7 +145875,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1268367148 51.2052103389 289.97)",
+      "value": "POINT Z (7.1268367148 51.2052103389 289.97)",
       "type": "label"
      }
     ]
@@ -145898,7 +145898,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1240880308 51.2785502907 254.98)",
+      "value": "POINT Z (7.1240880308 51.2785502907 254.98)",
       "type": "label"
      }
     ]
@@ -145921,7 +145921,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.125445244 51.2497983397 139.97)",
+      "value": "POINT Z (7.125445244 51.2497983397 139.97)",
       "type": "label"
      }
     ]
@@ -145944,7 +145944,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1237629342 51.3030826715 190.84)",
+      "value": "POINT Z (7.1237629342 51.3030826715 190.84)",
       "type": "label"
      }
     ]
@@ -145967,7 +145967,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.125019521 51.2797188548 263)",
+      "value": "POINT Z (7.125019521 51.2797188548 263)",
       "type": "label"
      }
     ]
@@ -145990,7 +145990,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1245745057 51.2977895251 201.56)",
+      "value": "POINT Z (7.1245745057 51.2977895251 201.56)",
       "type": "label"
      }
     ]
@@ -146013,7 +146013,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1257491443 51.3017773837 194.2)",
+      "value": "POINT Z (7.1257491443 51.3017773837 194.2)",
       "type": "label"
      }
     ]
@@ -146036,7 +146036,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1266459556 51.2960766004 207.5)",
+      "value": "POINT Z (7.1266459556 51.2960766004 207.5)",
       "type": "label"
      }
     ]
@@ -146059,7 +146059,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1276880459 51.2804213012 278.7)",
+      "value": "POINT Z (7.1276880459 51.2804213012 278.7)",
       "type": "label"
      }
     ]
@@ -146082,7 +146082,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.128912137 51.251429422 140.37)",
+      "value": "POINT Z (7.128912137 51.251429422 140.37)",
       "type": "label"
      }
     ]
@@ -146105,7 +146105,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1311938991 51.197914102 259.87)",
+      "value": "POINT Z (7.1311938991 51.197914102 259.87)",
       "type": "label"
      }
     ]
@@ -146128,7 +146128,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1311983035 51.1980938398 260.04)",
+      "value": "POINT Z (7.1311983035 51.1980938398 260.04)",
       "type": "label"
      }
     ]
@@ -146151,7 +146151,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1279745254 51.2790195087 290.06)",
+      "value": "POINT Z (7.1279745254 51.2790195087 290.06)",
       "type": "label"
      }
     ]
@@ -146174,7 +146174,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313153766 51.1987848522 261.83)",
+      "value": "POINT Z (7.1313153766 51.1987848522 261.83)",
       "type": "label"
      }
     ]
@@ -146197,7 +146197,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.128125873 51.2783908854 294.81)",
+      "value": "POINT Z (7.128125873 51.2783908854 294.81)",
       "type": "label"
      }
     ]
@@ -146220,7 +146220,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1314332036 51.1995939906 263.5)",
+      "value": "POINT Z (7.1314332036 51.1995939906 263.5)",
       "type": "label"
      }
     ]
@@ -146243,7 +146243,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313464722 51.2028947051 279.13)",
+      "value": "POINT Z (7.1313464722 51.2028947051 279.13)",
       "type": "label"
      }
     ]
@@ -146266,7 +146266,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1313641234 51.2032884148 281.6)",
+      "value": "POINT Z (7.1313641234 51.2032884148 281.6)",
       "type": "label"
      }
     ]
@@ -146289,7 +146289,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1314898981 51.201237164 269.89)",
+      "value": "POINT Z (7.1314898981 51.201237164 269.89)",
       "type": "label"
      }
     ]
@@ -146312,7 +146312,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1314824241 51.2015158954 271.48)",
+      "value": "POINT Z (7.1314824241 51.2015158954 271.48)",
       "type": "label"
      }
     ]
@@ -146335,7 +146335,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1284014219 51.2776777728 292.56)",
+      "value": "POINT Z (7.1284014219 51.2776777728 292.56)",
       "type": "label"
      }
     ]
@@ -146358,7 +146358,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1315215766 51.2007784271 267.53)",
+      "value": "POINT Z (7.1315215766 51.2007784271 267.53)",
       "type": "label"
      }
     ]
@@ -146381,7 +146381,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1285808943 51.2774472479 290.56)",
+      "value": "POINT Z (7.1285808943 51.2774472479 290.56)",
       "type": "label"
      }
     ]
@@ -146404,7 +146404,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1317831348 51.2035816255 283.17)",
+      "value": "POINT Z (7.1317831348 51.2035816255 283.17)",
       "type": "label"
      }
     ]
@@ -146427,7 +146427,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1290984526 51.2769428487 286.29)",
+      "value": "POINT Z (7.1290984526 51.2769428487 286.29)",
       "type": "label"
      }
     ]
@@ -146450,7 +146450,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1291094602 51.276913664 286.08)",
+      "value": "POINT Z (7.1291094602 51.276913664 286.08)",
       "type": "label"
      }
     ]
@@ -146473,7 +146473,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1301221329 51.2534672058 146.59)",
+      "value": "POINT Z (7.1301221329 51.2534672058 146.59)",
       "type": "label"
      }
     ]
@@ -146496,7 +146496,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1301983547 51.2520193316 140.6)",
+      "value": "POINT Z (7.1301983547 51.2520193316 140.6)",
       "type": "label"
      }
     ]
@@ -146519,7 +146519,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1304476739 51.2521336886 140.64)",
+      "value": "POINT Z (7.1304476739 51.2521336886 140.64)",
       "type": "label"
      }
     ]
@@ -146542,7 +146542,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1294690645 51.2764941775 284.51)",
+      "value": "POINT Z (7.1294690645 51.2764941775 284.51)",
       "type": "label"
      }
     ]
@@ -146565,7 +146565,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1294805392 51.2764700039 284.47)",
+      "value": "POINT Z (7.1294805392 51.2764700039 284.47)",
       "type": "label"
      }
     ]
@@ -146588,7 +146588,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1296805123 51.2760965797 283.73)",
+      "value": "POINT Z (7.1296805123 51.2760965797 283.73)",
       "type": "label"
      }
     ]
@@ -146611,7 +146611,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.132652577 51.2043001479 286.5)",
+      "value": "POINT Z (7.132652577 51.2043001479 286.5)",
       "type": "label"
      }
     ]
@@ -146634,7 +146634,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1288274524 51.3042775893 224.14)",
+      "value": "POINT Z (7.1288274524 51.3042775893 224.14)",
       "type": "label"
      }
     ]
@@ -146657,7 +146657,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.130190513 51.2712587526 244.81)",
+      "value": "POINT Z (7.130190513 51.2712587526 244.81)",
       "type": "label"
      }
     ]
@@ -146680,7 +146680,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1302414613 51.2705720112 243.78)",
+      "value": "POINT Z (7.1302414613 51.2705720112 243.78)",
       "type": "label"
      }
     ]
@@ -146703,7 +146703,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1310273353 51.2524067336 140.65)",
+      "value": "POINT Z (7.1310273353 51.2524067336 140.65)",
       "type": "label"
      }
     ]
@@ -146726,7 +146726,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1303203612 51.2699049552 239.44)",
+      "value": "POINT Z (7.1303203612 51.2699049552 239.44)",
       "type": "label"
      }
     ]
@@ -146749,7 +146749,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1301600402 51.2751720333 274.73)",
+      "value": "POINT Z (7.1301600402 51.2751720333 274.73)",
       "type": "label"
      }
     ]
@@ -146772,7 +146772,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1308761776 51.2730825465 252.96)",
+      "value": "POINT Z (7.1308761776 51.2730825465 252.96)",
       "type": "label"
      }
     ]
@@ -146795,7 +146795,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1310598602 51.2735139466 256.47)",
+      "value": "POINT Z (7.1310598602 51.2735139466 256.47)",
       "type": "label"
      }
     ]
@@ -146818,7 +146818,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1338958774 51.2052306047 292.72)",
+      "value": "POINT Z (7.1338958774 51.2052306047 292.72)",
       "type": "label"
      }
     ]
@@ -146841,7 +146841,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1321139129 51.2529086009 140.76)",
+      "value": "POINT Z (7.1321139129 51.2529086009 140.76)",
       "type": "label"
      }
     ]
@@ -146864,7 +146864,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1357435355 51.1665005542 106.32)",
+      "value": "POINT Z (7.1357435355 51.1665005542 106.32)",
       "type": "label"
      }
     ]
@@ -146887,7 +146887,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1341655172 51.2074868818 300.45)",
+      "value": "POINT Z (7.1341655172 51.2074868818 300.45)",
       "type": "label"
      }
     ]
@@ -146910,7 +146910,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.131740049 51.2798571175 294.4)",
+      "value": "POINT Z (7.131740049 51.2798571175 294.4)",
       "type": "label"
      }
     ]
@@ -146933,7 +146933,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1347816198 51.2059244765 297.87)",
+      "value": "POINT Z (7.1347816198 51.2059244765 297.87)",
       "type": "label"
      }
     ]
@@ -146956,7 +146956,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1368803295 51.1663522717 108.13)",
+      "value": "POINT Z (7.1368803295 51.1663522717 108.13)",
       "type": "label"
      }
     ]
@@ -146979,7 +146979,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1338773416 51.2529724208 141.95)",
+      "value": "POINT Z (7.1338773416 51.2529724208 141.95)",
       "type": "label"
      }
     ]
@@ -147002,7 +147002,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1342185532 51.2530572951 142.28)",
+      "value": "POINT Z (7.1342185532 51.2530572951 142.28)",
       "type": "label"
      }
     ]
@@ -147025,7 +147025,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1345547495 51.2534034649 141.72)",
+      "value": "POINT Z (7.1345547495 51.2534034649 141.72)",
       "type": "label"
      }
     ]
@@ -147048,7 +147048,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1345300926 51.2552341436 143.06)",
+      "value": "POINT Z (7.1345300926 51.2552341436 143.06)",
       "type": "label"
      }
     ]
@@ -147071,7 +147071,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1366432944 51.206608697 297.99)",
+      "value": "POINT Z (7.1366432944 51.206608697 297.99)",
       "type": "label"
      }
     ]
@@ -147094,7 +147094,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1350844605 51.255366998 142.76)",
+      "value": "POINT Z (7.1350844605 51.255366998 142.76)",
       "type": "label"
      }
     ]
@@ -147117,7 +147117,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1372229664 51.2091817274 301.4)",
+      "value": "POINT Z (7.1372229664 51.2091817274 301.4)",
       "type": "label"
      }
     ]
@@ -147140,7 +147140,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1361521524 51.2559238256 143.32)",
+      "value": "POINT Z (7.1361521524 51.2559238256 143.32)",
       "type": "label"
      }
     ]
@@ -147163,7 +147163,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1364736819 51.2536932801 141.91)",
+      "value": "POINT Z (7.1364736819 51.2536932801 141.91)",
       "type": "label"
      }
     ]
@@ -147186,7 +147186,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1370999077 51.2564051245 142.89)",
+      "value": "POINT Z (7.1370999077 51.2564051245 142.89)",
       "type": "label"
      }
     ]
@@ -147209,7 +147209,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1395492266 51.2104645175 298.2)",
+      "value": "POINT Z (7.1395492266 51.2104645175 298.2)",
       "type": "label"
      }
     ]
@@ -147232,7 +147232,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1379537919 51.2567216724 143.48)",
+      "value": "POINT Z (7.1379537919 51.2567216724 143.48)",
       "type": "label"
      }
     ]
@@ -147255,7 +147255,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1381521574 51.2541065784 141.74)",
+      "value": "POINT Z (7.1381521574 51.2541065784 141.74)",
       "type": "label"
      }
     ]
@@ -147278,7 +147278,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1402142949 51.2109413738 298.14)",
+      "value": "POINT Z (7.1402142949 51.2109413738 298.14)",
       "type": "label"
      }
     ]
@@ -147301,7 +147301,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1384423775 51.2568928315 143.74)",
+      "value": "POINT Z (7.1384423775 51.2568928315 143.74)",
       "type": "label"
      }
     ]
@@ -147324,7 +147324,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1403336433 51.2111379673 298.28)",
+      "value": "POINT Z (7.1403336433 51.2111379673 298.28)",
       "type": "label"
      }
     ]
@@ -147347,7 +147347,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1391970801 51.2543500209 142.24)",
+      "value": "POINT Z (7.1391970801 51.2543500209 142.24)",
       "type": "label"
      }
     ]
@@ -147370,7 +147370,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.139172913 51.2571753343 144.63)",
+      "value": "POINT Z (7.139172913 51.2571753343 144.63)",
       "type": "label"
      }
     ]
@@ -147393,7 +147393,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1395638907 51.2572537481 144.42)",
+      "value": "POINT Z (7.1395638907 51.2572537481 144.42)",
       "type": "label"
      }
     ]
@@ -147416,7 +147416,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1411511517 51.2546365675 143.75)",
+      "value": "POINT Z (7.1411511517 51.2546365675 143.75)",
       "type": "label"
      }
     ]
@@ -147439,7 +147439,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1410749994 51.2576605987 143.53)",
+      "value": "POINT Z (7.1410749994 51.2576605987 143.53)",
       "type": "label"
      }
     ]
@@ -147462,7 +147462,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1414313356 51.2551650039 142.04)",
+      "value": "POINT Z (7.1414313356 51.2551650039 142.04)",
       "type": "label"
      }
     ]
@@ -147485,7 +147485,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1419749991 51.2554513751 142.46)",
+      "value": "POINT Z (7.1419749991 51.2554513751 142.46)",
       "type": "label"
      }
     ]
@@ -147508,7 +147508,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1408932744 51.2822533637 283.81)",
+      "value": "POINT Z (7.1408932744 51.2822533637 283.81)",
       "type": "label"
      }
     ]
@@ -147531,7 +147531,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.14399618 51.2260956015 305.35)",
+      "value": "POINT Z (7.14399618 51.2260956015 305.35)",
       "type": "label"
      }
     ]
@@ -147554,7 +147554,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1430018349 51.2546994662 144.78)",
+      "value": "POINT Z (7.1430018349 51.2546994662 144.78)",
       "type": "label"
      }
     ]
@@ -147577,7 +147577,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1419134296 51.2825754799 284.78)",
+      "value": "POINT Z (7.1419134296 51.2825754799 284.78)",
       "type": "label"
      }
     ]
@@ -147600,7 +147600,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1430746778 51.2583534129 145.53)",
+      "value": "POINT Z (7.1430746778 51.2583534129 145.53)",
       "type": "label"
      }
     ]
@@ -147623,7 +147623,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1432428011 51.2557745344 143.52)",
+      "value": "POINT Z (7.1432428011 51.2557745344 143.52)",
       "type": "label"
      }
     ]
@@ -147646,7 +147646,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1448329223 51.2298177683 327.28)",
+      "value": "POINT Z (7.1448329223 51.2298177683 327.28)",
       "type": "label"
      }
     ]
@@ -147669,7 +147669,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1438149385 51.2585842286 146.34)",
+      "value": "POINT Z (7.1438149385 51.2585842286 146.34)",
       "type": "label"
      }
     ]
@@ -147692,7 +147692,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1437330865 51.2662143389 172.33)",
+      "value": "POINT Z (7.1437330865 51.2662143389 172.33)",
       "type": "label"
      }
     ]
@@ -147715,7 +147715,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1442068953 51.255912482 143.3)",
+      "value": "POINT Z (7.1442068953 51.255912482 143.3)",
       "type": "label"
      }
     ]
@@ -147738,7 +147738,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461379728 51.2149284608 298.68)",
+      "value": "POINT Z (7.1461379728 51.2149284608 298.68)",
       "type": "label"
      }
     ]
@@ -147761,7 +147761,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1446283495 51.2544319258 146.98)",
+      "value": "POINT Z (7.1446283495 51.2544319258 146.98)",
       "type": "label"
      }
     ]
@@ -147784,7 +147784,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1446462299 51.254575574 147.24)",
+      "value": "POINT Z (7.1446462299 51.254575574 147.24)",
       "type": "label"
      }
     ]
@@ -147807,7 +147807,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145749544 51.2275256275 320.31)",
+      "value": "POINT Z (7.145749544 51.2275256275 320.31)",
       "type": "label"
      }
     ]
@@ -147830,7 +147830,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1444870453 51.2589169536 148.43)",
+      "value": "POINT Z (7.1444870453 51.2589169536 148.43)",
       "type": "label"
      }
     ]
@@ -147853,7 +147853,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1445395894 51.2662993071 172.28)",
+      "value": "POINT Z (7.1445395894 51.2662993071 172.28)",
       "type": "label"
      }
     ]
@@ -147876,7 +147876,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1452478862 51.2563018982 142.68)",
+      "value": "POINT Z (7.1452478862 51.2563018982 142.68)",
       "type": "label"
      }
     ]
@@ -147899,7 +147899,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1469917673 51.2153631582 299.51)",
+      "value": "POINT Z (7.1469917673 51.2153631582 299.51)",
       "type": "label"
      }
     ]
@@ -147922,7 +147922,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1454741071 51.2544596566 146.42)",
+      "value": "POINT Z (7.1454741071 51.2544596566 146.42)",
       "type": "label"
      }
     ]
@@ -147945,7 +147945,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1451539744 51.2663551478 171.27)",
+      "value": "POINT Z (7.1451539744 51.2663551478 171.27)",
       "type": "label"
      }
     ]
@@ -147968,7 +147968,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1453075278 51.2656165528 163.86)",
+      "value": "POINT Z (7.1453075278 51.2656165528 163.86)",
       "type": "label"
      }
     ]
@@ -147991,7 +147991,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1457097995 51.2564531807 142.45)",
+      "value": "POINT Z (7.1457097995 51.2564531807 142.45)",
       "type": "label"
      }
     ]
@@ -148014,7 +148014,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1454799588 51.2648841912 157.14)",
+      "value": "POINT Z (7.1454799588 51.2648841912 157.14)",
       "type": "label"
      }
     ]
@@ -148037,7 +148037,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1458533395 51.2587524927 145.39)",
+      "value": "POINT Z (7.1458533395 51.2587524927 145.39)",
       "type": "label"
      }
     ]
@@ -148060,7 +148060,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1470843527 51.2265006211 321.46)",
+      "value": "POINT Z (7.1470843527 51.2265006211 321.46)",
       "type": "label"
      }
     ]
@@ -148083,7 +148083,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1457479504 51.2636284559 161.11)",
+      "value": "POINT Z (7.1457479504 51.2636284559 161.11)",
       "type": "label"
      }
     ]
@@ -148106,7 +148106,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145866955 51.2630630558 161.52)",
+      "value": "POINT Z (7.145866955 51.2630630558 161.52)",
       "type": "label"
      }
     ]
@@ -148129,7 +148129,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461551461 51.2570686864 143.31)",
+      "value": "POINT Z (7.1461551461 51.2570686864 143.31)",
       "type": "label"
      }
     ]
@@ -148152,7 +148152,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.14616608 51.2576315716 143.62)",
+      "value": "POINT Z (7.14616608 51.2576315716 143.62)",
       "type": "label"
      }
     ]
@@ -148175,7 +148175,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1459628353 51.2625645254 160.67)",
+      "value": "POINT Z (7.1459628353 51.2625645254 160.67)",
       "type": "label"
      }
     ]
@@ -148198,7 +148198,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1462407896 51.2565577428 142.78)",
+      "value": "POINT Z (7.1462407896 51.2565577428 142.78)",
       "type": "label"
      }
     ]
@@ -148221,7 +148221,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1460404639 51.2621720628 158.46)",
+      "value": "POINT Z (7.1460404639 51.2621720628 158.46)",
       "type": "label"
      }
     ]
@@ -148244,7 +148244,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.146373373 51.2563149467 142.89)",
+      "value": "POINT Z (7.146373373 51.2563149467 142.89)",
       "type": "label"
      }
     ]
@@ -148267,7 +148267,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1461668936 51.2615109925 154.34)",
+      "value": "POINT Z (7.1461668936 51.2615109925 154.34)",
       "type": "label"
      }
     ]
@@ -148290,7 +148290,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1460199536 51.2666073462 169.53)",
+      "value": "POINT Z (7.1460199536 51.2666073462 169.53)",
       "type": "label"
      }
     ]
@@ -148313,7 +148313,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1462128755 51.2627436522 160.68)",
+      "value": "POINT Z (7.1462128755 51.2627436522 160.68)",
       "type": "label"
      }
     ]
@@ -148336,7 +148336,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1463979484 51.2581898517 144.35)",
+      "value": "POINT Z (7.1463979484 51.2581898517 144.35)",
       "type": "label"
      }
     ]
@@ -148359,7 +148359,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1464829855 51.2561041781 143.14)",
+      "value": "POINT Z (7.1464829855 51.2561041781 143.14)",
       "type": "label"
      }
     ]
@@ -148382,7 +148382,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1462976295 51.2610178908 151.73)",
+      "value": "POINT Z (7.1462976295 51.2610178908 151.73)",
       "type": "label"
      }
     ]
@@ -148405,7 +148405,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1465219628 51.2557208134 144.88)",
+      "value": "POINT Z (7.1465219628 51.2557208134 144.88)",
       "type": "label"
      }
     ]
@@ -148428,7 +148428,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.146538349 51.2553501562 144.86)",
+      "value": "POINT Z (7.146538349 51.2553501562 144.86)",
       "type": "label"
      }
     ]
@@ -148451,7 +148451,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1463829532 51.2604731705 150.56)",
+      "value": "POINT Z (7.1463829532 51.2604731705 150.56)",
       "type": "label"
      }
     ]
@@ -148474,7 +148474,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1477949631 51.2262113319 323.16)",
+      "value": "POINT Z (7.1477949631 51.2262113319 323.16)",
       "type": "label"
      }
     ]
@@ -148497,7 +148497,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145617321 51.2832765417 292.01)",
+      "value": "POINT Z (7.145617321 51.2832765417 292.01)",
       "type": "label"
      }
     ]
@@ -148520,7 +148520,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1466626103 51.2590411526 146.95)",
+      "value": "POINT Z (7.1466626103 51.2590411526 146.95)",
       "type": "label"
      }
     ]
@@ -148543,7 +148543,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1459249847 51.2832088987 291.94)",
+      "value": "POINT Z (7.1459249847 51.2832088987 291.94)",
       "type": "label"
      }
     ]
@@ -148566,7 +148566,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1467211563 51.2666515418 165.9)",
+      "value": "POINT Z (7.1467211563 51.2666515418 165.9)",
       "type": "label"
      }
     ]
@@ -148589,7 +148589,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1471291301 51.2567014871 143.03)",
+      "value": "POINT Z (7.1471291301 51.2567014871 143.03)",
       "type": "label"
      }
     ]
@@ -148612,7 +148612,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1452452349 51.3054199351 304.05)",
+      "value": "POINT Z (7.1452452349 51.3054199351 304.05)",
       "type": "label"
      }
     ]
@@ -148635,7 +148635,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1471372708 51.2591173911 146.06)",
+      "value": "POINT Z (7.1471372708 51.2591173911 146.06)",
       "type": "label"
      }
     ]
@@ -148658,7 +148658,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1472121508 51.2650045948 153.96)",
+      "value": "POINT Z (7.1472121508 51.2650045948 153.96)",
       "type": "label"
      }
     ]
@@ -148681,7 +148681,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.147603757 51.261672315 148.37)",
+      "value": "POINT Z (7.147603757 51.261672315 148.37)",
       "type": "label"
      }
     ]
@@ -148704,7 +148704,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1476259244 51.2637868785 151.84)",
+      "value": "POINT Z (7.1476259244 51.2637868785 151.84)",
       "type": "label"
      }
     ]
@@ -148727,7 +148727,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1477132063 51.2623158199 149.22)",
+      "value": "POINT Z (7.1477132063 51.2623158199 149.22)",
       "type": "label"
      }
     ]
@@ -148750,7 +148750,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1480038095 51.2568676512 143.54)",
+      "value": "POINT Z (7.1480038095 51.2568676512 143.54)",
       "type": "label"
      }
     ]
@@ -148773,7 +148773,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1477882729 51.2628857367 150.14)",
+      "value": "POINT Z (7.1477882729 51.2628857367 150.14)",
       "type": "label"
      }
     ]
@@ -148796,7 +148796,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.148155227 51.2591524569 145.03)",
+      "value": "POINT Z (7.148155227 51.2591524569 145.03)",
       "type": "label"
      }
     ]
@@ -148819,7 +148819,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1478673466 51.2667343255 159.85)",
+      "value": "POINT Z (7.1478673466 51.2667343255 159.85)",
       "type": "label"
      }
     ]
@@ -148842,7 +148842,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1498666731 51.2169503293 303.61)",
+      "value": "POINT Z (7.1498666731 51.2169503293 303.61)",
       "type": "label"
      }
     ]
@@ -148865,7 +148865,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1481491418 51.2567461662 143.86)",
+      "value": "POINT Z (7.1481491418 51.2567461662 143.86)",
       "type": "label"
      }
     ]
@@ -148888,7 +148888,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1485745326 51.2555279468 147.52)",
+      "value": "POINT Z (7.1485745326 51.2555279468 147.52)",
       "type": "label"
      }
     ]
@@ -148911,7 +148911,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1501370418 51.2172543659 305.18)",
+      "value": "POINT Z (7.1501370418 51.2172543659 305.18)",
       "type": "label"
      }
     ]
@@ -148934,7 +148934,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1504298371 51.2176316127 308.03)",
+      "value": "POINT Z (7.1504298371 51.2176316127 308.03)",
       "type": "label"
      }
     ]
@@ -148957,7 +148957,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.148811529 51.2591263549 145.11)",
+      "value": "POINT Z (7.148811529 51.2591263549 145.11)",
       "type": "label"
      }
     ]
@@ -148980,7 +148980,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1500441385 51.2286610954 335.68)",
+      "value": "POINT Z (7.1500441385 51.2286610954 335.68)",
       "type": "label"
      }
     ]
@@ -149003,7 +149003,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1492355688 51.2557196365 146)",
+      "value": "POINT Z (7.1492355688 51.2557196365 146)",
       "type": "label"
      }
     ]
@@ -149026,7 +149026,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1501194186 51.2308065563 331.1)",
+      "value": "POINT Z (7.1501194186 51.2308065563 331.1)",
       "type": "label"
      }
     ]
@@ -149049,7 +149049,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1491136582 51.257372414 143.4)",
+      "value": "POINT Z (7.1491136582 51.257372414 143.4)",
       "type": "label"
      }
     ]
@@ -149072,7 +149072,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1485888884 51.2713642865 168.37)",
+      "value": "POINT Z (7.1485888884 51.2713642865 168.37)",
       "type": "label"
      }
     ]
@@ -149095,7 +149095,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1503932623 51.2280991091 333.79)",
+      "value": "POINT Z (7.1503932623 51.2280991091 333.79)",
       "type": "label"
      }
     ]
@@ -149118,7 +149118,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1503371651 51.233264373 333.84)",
+      "value": "POINT Z (7.1503371651 51.233264373 333.84)",
       "type": "label"
      }
     ]
@@ -149141,7 +149141,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1509618114 51.2264228267 331.07)",
+      "value": "POINT Z (7.1509618114 51.2264228267 331.07)",
       "type": "label"
      }
     ]
@@ -149164,7 +149164,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1507668271 51.2318002288 330.29)",
+      "value": "POINT Z (7.1507668271 51.2318002288 330.29)",
       "type": "label"
      }
     ]
@@ -149187,7 +149187,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1511098249 51.2260438415 330.71)",
+      "value": "POINT Z (7.1511098249 51.2260438415 330.71)",
       "type": "label"
      }
     ]
@@ -149210,7 +149210,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.149257496 51.2728946362 172.3)",
+      "value": "POINT Z (7.149257496 51.2728946362 172.3)",
       "type": "label"
      }
     ]
@@ -149233,7 +149233,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1501058328 51.2590320803 145.93)",
+      "value": "POINT Z (7.1501058328 51.2590320803 145.93)",
       "type": "label"
      }
     ]
@@ -149256,7 +149256,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1497766088 51.2735995347 175.2)",
+      "value": "POINT Z (7.1497766088 51.2735995347 175.2)",
       "type": "label"
      }
     ]
@@ -149279,7 +149279,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1517818646 51.2242934057 329.02)",
+      "value": "POINT Z (7.1517818646 51.2242934057 329.02)",
       "type": "label"
      }
     ]
@@ -149302,7 +149302,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520125802 51.2196327765 323.64)",
+      "value": "POINT Z (7.1520125802 51.2196327765 323.64)",
       "type": "label"
      }
     ]
@@ -149325,7 +149325,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520125351 51.2232124105 327.71)",
+      "value": "POINT Z (7.1520125351 51.2232124105 327.71)",
       "type": "label"
      }
     ]
@@ -149348,7 +149348,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1520600693 51.2222501287 326.59)",
+      "value": "POINT Z (7.1520600693 51.2222501287 326.59)",
       "type": "label"
      }
     ]
@@ -149371,7 +149371,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1521174957 51.221683266 326.18)",
+      "value": "POINT Z (7.1521174957 51.221683266 326.18)",
       "type": "label"
      }
     ]
@@ -149394,7 +149394,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1507601353 51.2561877117 147.78)",
+      "value": "POINT Z (7.1507601353 51.2561877117 147.78)",
       "type": "label"
      }
     ]
@@ -149417,7 +149417,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1508447682 51.2589717422 146.41)",
+      "value": "POINT Z (7.1508447682 51.2589717422 146.41)",
       "type": "label"
      }
     ]
@@ -149440,7 +149440,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1512485377 51.2585379993 144.03)",
+      "value": "POINT Z (7.1512485377 51.2585379993 144.03)",
       "type": "label"
      }
     ]
@@ -149463,7 +149463,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1515723069 51.2588853274 146.57)",
+      "value": "POINT Z (7.1515723069 51.2588853274 146.57)",
       "type": "label"
      }
     ]
@@ -149486,7 +149486,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.152772332 51.2347022019 328.59)",
+      "value": "POINT Z (7.152772332 51.2347022019 328.59)",
       "type": "label"
      }
     ]
@@ -149509,7 +149509,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.151848776 51.2585687745 144.39)",
+      "value": "POINT Z (7.151848776 51.2585687745 144.39)",
       "type": "label"
      }
     ]
@@ -149532,7 +149532,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1519522987 51.2562637713 147.38)",
+      "value": "POINT Z (7.1519522987 51.2562637713 147.38)",
       "type": "label"
      }
     ]
@@ -149555,7 +149555,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1523018569 51.2588422596 146.19)",
+      "value": "POINT Z (7.1523018569 51.2588422596 146.19)",
       "type": "label"
      }
     ]
@@ -149578,7 +149578,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1535560672 51.2347461524 326.44)",
+      "value": "POINT Z (7.1535560672 51.2347461524 326.44)",
       "type": "label"
      }
     ]
@@ -149601,7 +149601,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1536233093 51.2348017245 326.4)",
+      "value": "POINT Z (7.1536233093 51.2348017245 326.4)",
       "type": "label"
      }
     ]
@@ -149624,7 +149624,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1530130508 51.2587812818 146.11)",
+      "value": "POINT Z (7.1530130508 51.2587812818 146.11)",
       "type": "label"
      }
     ]
@@ -149647,7 +149647,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1537123638 51.2427192021 265.99)",
+      "value": "POINT Z (7.1537123638 51.2427192021 265.99)",
       "type": "label"
      }
     ]
@@ -149670,7 +149670,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1535067399 51.2508288323 176.79)",
+      "value": "POINT Z (7.1535067399 51.2508288323 176.79)",
       "type": "label"
      }
     ]
@@ -149693,7 +149693,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1537549116 51.2562211081 145.88)",
+      "value": "POINT Z (7.1537549116 51.2562211081 145.88)",
       "type": "label"
      }
     ]
@@ -149716,7 +149716,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1536993083 51.2597608991 147.69)",
+      "value": "POINT Z (7.1536993083 51.2597608991 147.69)",
       "type": "label"
      }
     ]
@@ -149739,7 +149739,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1547620885 51.2392578531 270.39)",
+      "value": "POINT Z (7.1547620885 51.2392578531 270.39)",
       "type": "label"
      }
     ]
@@ -149762,7 +149762,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1546753568 51.2432137286 263.08)",
+      "value": "POINT Z (7.1546753568 51.2432137286 263.08)",
       "type": "label"
      }
     ]
@@ -149785,7 +149785,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1541336939 51.2581949123 145.96)",
+      "value": "POINT Z (7.1541336939 51.2581949123 145.96)",
       "type": "label"
      }
     ]
@@ -149808,7 +149808,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1555314719 51.235449341 325.13)",
+      "value": "POINT Z (7.1555314719 51.235449341 325.13)",
       "type": "label"
      }
     ]
@@ -149831,7 +149831,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1549499283 51.2511211844 178.12)",
+      "value": "POINT Z (7.1549499283 51.2511211844 178.12)",
       "type": "label"
      }
     ]
@@ -149854,7 +149854,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1547066702 51.2579795458 145.58)",
+      "value": "POINT Z (7.1547066702 51.2579795458 145.58)",
       "type": "label"
      }
     ]
@@ -149877,7 +149877,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1532635779 51.303946863 289.47)",
+      "value": "POINT Z (7.1532635779 51.303946863 289.47)",
       "type": "label"
      }
     ]
@@ -149900,7 +149900,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.156015219 51.2355510876 325.01)",
+      "value": "POINT Z (7.156015219 51.2355510876 325.01)",
       "type": "label"
      }
     ]
@@ -149923,7 +149923,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1558223992 51.2578365967 145.87)",
+      "value": "POINT Z (7.1558223992 51.2578365967 145.87)",
       "type": "label"
      }
     ]
@@ -149946,7 +149946,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1564559415 51.2514252235 184.07)",
+      "value": "POINT Z (7.1564559415 51.2514252235 184.07)",
       "type": "label"
      }
     ]
@@ -149969,7 +149969,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1566904685 51.2514801741 185.11)",
+      "value": "POINT Z (7.1566904685 51.2514801741 185.11)",
       "type": "label"
      }
     ]
@@ -149992,7 +149992,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1573417144 51.257578937 145.82)",
+      "value": "POINT Z (7.1573417144 51.257578937 145.82)",
       "type": "label"
      }
     ]
@@ -150015,7 +150015,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1585123173 51.231786865 283.43)",
+      "value": "POINT Z (7.1585123173 51.231786865 283.43)",
       "type": "label"
      }
     ]
@@ -150038,7 +150038,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1583330387 51.2370186248 323.27)",
+      "value": "POINT Z (7.1583330387 51.2370186248 323.27)",
       "type": "label"
      }
     ]
@@ -150061,7 +150061,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1579758441 51.2520354057 190.7)",
+      "value": "POINT Z (7.1579758441 51.2520354057 190.7)",
       "type": "label"
      }
     ]
@@ -150084,7 +150084,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1559767924 51.3027540829 280.59)",
+      "value": "POINT Z (7.1559767924 51.3027540829 280.59)",
       "type": "label"
      }
     ]
@@ -150107,7 +150107,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1584083962 51.2743594261 223.97)",
+      "value": "POINT Z (7.1584083962 51.2743594261 223.97)",
       "type": "label"
      }
     ]
@@ -150130,7 +150130,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1599905724 51.2574283111 146.41)",
+      "value": "POINT Z (7.1599905724 51.2574283111 146.41)",
       "type": "label"
      }
     ]
@@ -150153,7 +150153,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1603938774 51.2519539596 208.18)",
+      "value": "POINT Z (7.1603938774 51.2519539596 208.18)",
       "type": "label"
      }
     ]
@@ -150176,7 +150176,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1606347483 51.2510557035 214.75)",
+      "value": "POINT Z (7.1606347483 51.2510557035 214.75)",
       "type": "label"
      }
     ]
@@ -150199,7 +150199,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.160706756 51.2528829205 202.7)",
+      "value": "POINT Z (7.160706756 51.2528829205 202.7)",
       "type": "label"
      }
     ]
@@ -150222,7 +150222,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1607928457 51.2575611741 146.39)",
+      "value": "POINT Z (7.1607928457 51.2575611741 146.39)",
       "type": "label"
      }
     ]
@@ -150245,7 +150245,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1622539043 51.2217110243 222.71)",
+      "value": "POINT Z (7.1622539043 51.2217110243 222.71)",
       "type": "label"
      }
     ]
@@ -150268,7 +150268,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1614598955 51.2493310092 226.22)",
+      "value": "POINT Z (7.1614598955 51.2493310092 226.22)",
       "type": "label"
      }
     ]
@@ -150291,7 +150291,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1628653617 51.2230819084 221.56)",
+      "value": "POINT Z (7.1628653617 51.2230819084 221.56)",
       "type": "label"
      }
     ]
@@ -150314,7 +150314,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.163183749 51.2186935013 213.65)",
+      "value": "POINT Z (7.163183749 51.2186935013 213.65)",
       "type": "label"
      }
     ]
@@ -150337,7 +150337,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1619243207 51.2580395689 148)",
+      "value": "POINT Z (7.1619243207 51.2580395689 148)",
       "type": "label"
      }
     ]
@@ -150360,7 +150360,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1784718655 51.242476339 328.5)",
+      "value": "POINT Z (7.1784718655 51.242476339 328.5)",
       "type": "label"
      }
     ]
@@ -150383,7 +150383,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1806317238 51.2431803882 325.84)",
+      "value": "POINT Z (7.1806317238 51.2431803882 325.84)",
       "type": "label"
      }
     ]
@@ -150406,7 +150406,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2031930731 51.2375659469 338.04)",
+      "value": "POINT Z (7.2031930731 51.2375659469 338.04)",
       "type": "label"
      }
     ]
@@ -150429,7 +150429,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.161399078 51.2761469323 203.75)",
+      "value": "POINT Z (7.161399078 51.2761469323 203.75)",
       "type": "label"
      }
     ]
@@ -150452,7 +150452,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2190571895 51.2364005846 313.6)",
+      "value": "POINT Z (7.2190571895 51.2364005846 313.6)",
       "type": "label"
      }
     ]
@@ -150475,7 +150475,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2347025728 51.2392622263 291.62)",
+      "value": "POINT Z (7.2347025728 51.2392622263 291.62)",
       "type": "label"
      }
     ]
@@ -150498,7 +150498,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0756699282 51.2347672395 172.34)",
+      "value": "POINT Z (7.0756699282 51.2347672395 172.34)",
       "type": "label"
      }
     ]
@@ -150521,7 +150521,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0761955193 51.2535287415 191.86)",
+      "value": "POINT Z (7.0761955193 51.2535287415 191.86)",
       "type": "label"
      }
     ]
@@ -150544,7 +150544,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0755450969 51.2534177505 189.66)",
+      "value": "POINT Z (7.0755450969 51.2534177505 189.66)",
       "type": "label"
      }
     ]
@@ -150567,7 +150567,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.102750978 51.2381657893 139.79)",
+      "value": "POINT Z (7.102750978 51.2381657893 139.79)",
       "type": "label"
      }
     ]
@@ -150590,7 +150590,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2387656619 51.2712665118 189.94)",
+      "value": "POINT Z (7.2387656619 51.2712665118 189.94)",
       "type": "label"
      }
     ]
@@ -150613,7 +150613,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.195694733 51.2734470758 182.86)",
+      "value": "POINT Z (7.195694733 51.2734470758 182.86)",
       "type": "label"
      }
     ]
@@ -150636,7 +150636,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.065504786 51.2302197664 171.51)",
+      "value": "POINT Z (7.065504786 51.2302197664 171.51)",
       "type": "label"
      }
     ]
@@ -150659,7 +150659,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0523924074 51.2242666945 169.44)",
+      "value": "POINT Z (7.0523924074 51.2242666945 169.44)",
       "type": "label"
      }
     ]
@@ -150682,7 +150682,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0807197445 51.2372537916 170.2)",
+      "value": "POINT Z (7.0807197445 51.2372537916 170.2)",
       "type": "label"
      }
     ]
@@ -150705,7 +150705,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0799232562 51.2391668568 173.5)",
+      "value": "POINT Z (7.0799232562 51.2391668568 173.5)",
       "type": "label"
      }
     ]
@@ -150728,7 +150728,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0833751467 51.2459643973 174.84)",
+      "value": "POINT Z (7.0833751467 51.2459643973 174.84)",
       "type": "label"
      }
     ]
@@ -150751,7 +150751,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0836234805 51.2451873633 172.96)",
+      "value": "POINT Z (7.0836234805 51.2451873633 172.96)",
       "type": "label"
      }
     ]
@@ -150774,7 +150774,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0917780322 51.2498463449 177.01)",
+      "value": "POINT Z (7.0917780322 51.2498463449 177.01)",
       "type": "label"
      }
     ]
@@ -150797,7 +150797,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0916450933 51.2502090685 176.43)",
+      "value": "POINT Z (7.0916450933 51.2502090685 176.43)",
       "type": "label"
      }
     ]
@@ -150820,7 +150820,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0984602386 51.2535659204 176.55)",
+      "value": "POINT Z (7.0984602386 51.2535659204 176.55)",
       "type": "label"
      }
     ]
@@ -150843,7 +150843,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1052487313 51.2569100427 176.6)",
+      "value": "POINT Z (7.1052487313 51.2569100427 176.6)",
       "type": "label"
      }
     ]
@@ -150866,7 +150866,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1118562788 51.26022057 176.44)",
+      "value": "POINT Z (7.1118562788 51.26022057 176.44)",
       "type": "label"
      }
     ]
@@ -150889,7 +150889,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1123974754 51.2599248802 187.41)",
+      "value": "POINT Z (7.1123974754 51.2599248802 187.41)",
       "type": "label"
      }
     ]
@@ -150912,7 +150912,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0579207464 51.2277255871 170.18)",
+      "value": "POINT Z (7.0579207464 51.2277255871 170.18)",
       "type": "label"
      }
     ]
@@ -150935,7 +150935,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1140213827 51.2610946722 177.1)",
+      "value": "POINT Z (7.1140213827 51.2610946722 177.1)",
       "type": "label"
      }
     ]
@@ -150958,7 +150958,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1208253384 51.2620863965 176.48)",
+      "value": "POINT Z (7.1208253384 51.2620863965 176.48)",
       "type": "label"
      }
     ]
@@ -150981,7 +150981,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1231959616 51.262103258 176.56)",
+      "value": "POINT Z (7.1231959616 51.262103258 176.56)",
       "type": "label"
      }
     ]
@@ -151004,7 +151004,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1233682513 51.2617062786 181.74)",
+      "value": "POINT Z (7.1233682513 51.2617062786 181.74)",
       "type": "label"
      }
     ]
@@ -151027,7 +151027,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1296499168 51.2638962191 176.52)",
+      "value": "POINT Z (7.1296499168 51.2638962191 176.52)",
       "type": "label"
      }
     ]
@@ -151050,7 +151050,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.124420181 51.2621781798 176.62)",
+      "value": "POINT Z (7.124420181 51.2621781798 176.62)",
       "type": "label"
      }
     ]
@@ -151073,7 +151073,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1311613416 51.2642683947 181.29)",
+      "value": "POINT Z (7.1311613416 51.2642683947 181.29)",
       "type": "label"
      }
     ]
@@ -151096,7 +151096,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1318446863 51.2652042841 177.61)",
+      "value": "POINT Z (7.1318446863 51.2652042841 177.61)",
       "type": "label"
      }
     ]
@@ -151119,7 +151119,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1341561015 51.2657623436 176.98)",
+      "value": "POINT Z (7.1341561015 51.2657623436 176.98)",
       "type": "label"
      }
     ]
@@ -151142,7 +151142,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1387826586 51.2658111915 176.6)",
+      "value": "POINT Z (7.1387826586 51.2658111915 176.6)",
       "type": "label"
      }
     ]
@@ -151165,7 +151165,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1387696389 51.2659652541 176.37)",
+      "value": "POINT Z (7.1387696389 51.2659652541 176.37)",
       "type": "label"
      }
     ]
@@ -151188,7 +151188,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1638052647 51.2276262937 234.94)",
+      "value": "POINT Z (7.1638052647 51.2276262937 234.94)",
       "type": "label"
      }
     ]
@@ -151211,7 +151211,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1451566421 51.2670512224 176.55)",
+      "value": "POINT Z (7.1451566421 51.2670512224 176.55)",
       "type": "label"
      }
     ]
@@ -151234,7 +151234,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1454034232 51.2667229944 174.87)",
+      "value": "POINT Z (7.1454034232 51.2667229944 174.87)",
       "type": "label"
      }
     ]
@@ -151257,7 +151257,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1500993774 51.2684984936 176.53)",
+      "value": "POINT Z (7.1500993774 51.2684984936 176.53)",
       "type": "label"
      }
     ]
@@ -151280,7 +151280,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1533805596 51.2683337269 177.71)",
+      "value": "POINT Z (7.1533805596 51.2683337269 177.71)",
       "type": "label"
      }
     ]
@@ -151303,7 +151303,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.155541097 51.2675653349 178.55)",
+      "value": "POINT Z (7.155541097 51.2675653349 178.55)",
       "type": "label"
      }
     ]
@@ -151326,7 +151326,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1515828271 51.2682480147 183.58)",
+      "value": "POINT Z (7.1515828271 51.2682480147 183.58)",
       "type": "label"
      }
     ]
@@ -151349,7 +151349,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1583729108 51.2671781118 179.48)",
+      "value": "POINT Z (7.1583729108 51.2671781118 179.48)",
       "type": "label"
      }
     ]
@@ -151372,7 +151372,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.165178087 51.2687509873 181.05)",
+      "value": "POINT Z (7.165178087 51.2687509873 181.05)",
       "type": "label"
      }
     ]
@@ -151395,7 +151395,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1659073001 51.268851762 181.05)",
+      "value": "POINT Z (7.1659073001 51.268851762 181.05)",
       "type": "label"
      }
     ]
@@ -151418,7 +151418,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1653050453 51.268521135 180.81)",
+      "value": "POINT Z (7.1653050453 51.268521135 180.81)",
       "type": "label"
      }
     ]
@@ -151441,7 +151441,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1744169717 51.2693195046 180.96)",
+      "value": "POINT Z (7.1744169717 51.2693195046 180.96)",
       "type": "label"
      }
     ]
@@ -151464,7 +151464,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1828759779 51.270946887 181.15)",
+      "value": "POINT Z (7.1828759779 51.270946887 181.15)",
       "type": "label"
      }
     ]
@@ -151487,7 +151487,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1829417068 51.2708316758 180.56)",
+      "value": "POINT Z (7.1829417068 51.2708316758 180.56)",
       "type": "label"
      }
     ]
@@ -151510,7 +151510,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1848822008 51.2713990994 181.33)",
+      "value": "POINT Z (7.1848822008 51.2713990994 181.33)",
       "type": "label"
      }
     ]
@@ -151533,7 +151533,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1898533099 51.2724274508 181.36)",
+      "value": "POINT Z (7.1898533099 51.2724274508 181.36)",
       "type": "label"
      }
     ]
@@ -151556,7 +151556,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.190254795 51.2724340432 181.35)",
+      "value": "POINT Z (7.190254795 51.2724340432 181.35)",
       "type": "label"
      }
     ]
@@ -151579,7 +151579,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1958315475 51.2733475148 182.16)",
+      "value": "POINT Z (7.1958315475 51.2733475148 182.16)",
       "type": "label"
      }
     ]
@@ -151602,7 +151602,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1975822081 51.2742948215 182.34)",
+      "value": "POINT Z (7.1975822081 51.2742948215 182.34)",
       "type": "label"
      }
     ]
@@ -151625,7 +151625,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2046130646 51.2781070984 185.73)",
+      "value": "POINT Z (7.2046130646 51.2781070984 185.73)",
       "type": "label"
      }
     ]
@@ -151648,7 +151648,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2057845097 51.2783375289 184.33)",
+      "value": "POINT Z (7.2057845097 51.2783375289 184.33)",
       "type": "label"
      }
     ]
@@ -151671,7 +151671,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2131338529 51.2775402407 187.22)",
+      "value": "POINT Z (7.2131338529 51.2775402407 187.22)",
       "type": "label"
      }
     ]
@@ -151694,7 +151694,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.213101617 51.2774542699 187.29)",
+      "value": "POINT Z (7.213101617 51.2774542699 187.29)",
       "type": "label"
      }
     ]
@@ -151717,7 +151717,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2162083162 51.2775995315 188.27)",
+      "value": "POINT Z (7.2162083162 51.2775995315 188.27)",
       "type": "label"
      }
     ]
@@ -151740,7 +151740,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2147959159 51.2775273962 187.53)",
+      "value": "POINT Z (7.2147959159 51.2775273962 187.53)",
       "type": "label"
      }
     ]
@@ -151763,7 +151763,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2206523397 51.2784091058 188.64)",
+      "value": "POINT Z (7.2206523397 51.2784091058 188.64)",
       "type": "label"
      }
     ]
@@ -151786,7 +151786,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2207314702 51.2782457708 188.38)",
+      "value": "POINT Z (7.2207314702 51.2782457708 188.38)",
       "type": "label"
      }
     ]
@@ -151809,7 +151809,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2228212042 51.280713761 195.63)",
+      "value": "POINT Z (7.2228212042 51.280713761 195.63)",
       "type": "label"
      }
     ]
@@ -151832,7 +151832,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2238323947 51.2808915522 188.93)",
+      "value": "POINT Z (7.2238323947 51.2808915522 188.93)",
       "type": "label"
      }
     ]
@@ -151855,7 +151855,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2226869142 51.2791783806 188.8)",
+      "value": "POINT Z (7.2226869142 51.2791783806 188.8)",
       "type": "label"
      }
     ]
@@ -151878,7 +151878,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2238874251 51.2789999184 183.11)",
+      "value": "POINT Z (7.2238874251 51.2789999184 183.11)",
       "type": "label"
      }
     ]
@@ -151901,7 +151901,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2237091524 51.2795928757 188.68)",
+      "value": "POINT Z (7.2237091524 51.2795928757 188.68)",
       "type": "label"
      }
     ]
@@ -151924,7 +151924,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2233552168 51.2795724706 188.84)",
+      "value": "POINT Z (7.2233552168 51.2795724706 188.84)",
       "type": "label"
      }
     ]
@@ -151947,7 +151947,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2249088313 51.2825591341 189.56)",
+      "value": "POINT Z (7.2249088313 51.2825591341 189.56)",
       "type": "label"
      }
     ]
@@ -151970,7 +151970,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2255289969 51.2836283248 189.12)",
+      "value": "POINT Z (7.2255289969 51.2836283248 189.12)",
       "type": "label"
      }
     ]
@@ -151993,7 +151993,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2271429433 51.2853811706 191.81)",
+      "value": "POINT Z (7.2271429433 51.2853811706 191.81)",
       "type": "label"
      }
     ]
@@ -152016,7 +152016,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.227264576 51.2855935188 191.19)",
+      "value": "POINT Z (7.227264576 51.2855935188 191.19)",
       "type": "label"
      }
     ]
@@ -152039,7 +152039,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2332453114 51.2885272254 190.86)",
+      "value": "POINT Z (7.2332453114 51.2885272254 190.86)",
       "type": "label"
      }
     ]
@@ -152062,7 +152062,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.232026131 51.2886356693 192.92)",
+      "value": "POINT Z (7.232026131 51.2886356693 192.92)",
       "type": "label"
      }
     ]
@@ -152085,7 +152085,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2403824867 51.2847989427 196.61)",
+      "value": "POINT Z (7.2403824867 51.2847989427 196.61)",
       "type": "label"
      }
     ]
@@ -152108,7 +152108,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2404693529 51.2850822656 196.61)",
+      "value": "POINT Z (7.2404693529 51.2850822656 196.61)",
       "type": "label"
      }
     ]
@@ -152131,7 +152131,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2405907064 51.2835279353 196.67)",
+      "value": "POINT Z (7.2405907064 51.2835279353 196.67)",
       "type": "label"
      }
     ]
@@ -152154,7 +152154,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2415105692 51.2840347984 197.2)",
+      "value": "POINT Z (7.2415105692 51.2840347984 197.2)",
       "type": "label"
      }
     ]
@@ -152177,7 +152177,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2487724074 51.283254899 203.77)",
+      "value": "POINT Z (7.2487724074 51.283254899 203.77)",
       "type": "label"
      }
     ]
@@ -152200,7 +152200,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2496523416 51.2827317621 194.81)",
+      "value": "POINT Z (7.2496523416 51.2827317621 194.81)",
       "type": "label"
      }
     ]
@@ -152223,7 +152223,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2520349536 51.2904055023 216.29)",
+      "value": "POINT Z (7.2520349536 51.2904055023 216.29)",
       "type": "label"
      }
     ]
@@ -152246,7 +152246,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2411012977 51.3068592605 249.64)",
+      "value": "POINT Z (7.2411012977 51.3068592605 249.64)",
       "type": "label"
      }
     ]
@@ -152269,7 +152269,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2387301728 51.3132630895 250)",
+      "value": "POINT Z (7.2387301728 51.3132630895 250)",
       "type": "label"
      }
     ]
@@ -152292,7 +152292,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1122844308 51.2456080202 187.41)",
+      "value": "POINT Z (7.1122844308 51.2456080202 187.41)",
       "type": "label"
      }
     ]
@@ -152315,7 +152315,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1139932034 51.2417674539 198.41)",
+      "value": "POINT Z (7.1139932034 51.2417674539 198.41)",
       "type": "label"
      }
     ]
@@ -152338,7 +152338,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1103323869 51.2374826354 208.78)",
+      "value": "POINT Z (7.1103323869 51.2374826354 208.78)",
       "type": "label"
      }
     ]
@@ -152361,7 +152361,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1070754351 51.2350803766 218.87)",
+      "value": "POINT Z (7.1070754351 51.2350803766 218.87)",
       "type": "label"
      }
     ]
@@ -152384,7 +152384,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1182388797 51.2345780345 239.75)",
+      "value": "POINT Z (7.1182388797 51.2345780345 239.75)",
       "type": "label"
      }
     ]
@@ -152407,7 +152407,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1226525891 51.2305155814 259.42)",
+      "value": "POINT Z (7.1226525891 51.2305155814 259.42)",
       "type": "label"
      }
     ]
@@ -152430,7 +152430,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1242616957 51.2276598372 267.81)",
+      "value": "POINT Z (7.1242616957 51.2276598372 267.81)",
       "type": "label"
      }
     ]
@@ -152453,7 +152453,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1267839209 51.2249156951 277.64)",
+      "value": "POINT Z (7.1267839209 51.2249156951 277.64)",
       "type": "label"
      }
     ]
@@ -152476,7 +152476,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1354920238 51.2270339944 298.92)",
+      "value": "POINT Z (7.1354920238 51.2270339944 298.92)",
       "type": "label"
      }
     ]
@@ -152499,7 +152499,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1463316758 51.2252305617 299.09)",
+      "value": "POINT Z (7.1463316758 51.2252305617 299.09)",
       "type": "label"
      }
     ]
@@ -152522,7 +152522,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1422524651 51.2209670514 299.25)",
+      "value": "POINT Z (7.1422524651 51.2209670514 299.25)",
       "type": "label"
      }
     ]
@@ -152545,7 +152545,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1469277245 51.2154708569 299.14)",
+      "value": "POINT Z (7.1469277245 51.2154708569 299.14)",
       "type": "label"
      }
     ]
@@ -152568,7 +152568,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1428283156 51.2132545565 299.37)",
+      "value": "POINT Z (7.1428283156 51.2132545565 299.37)",
       "type": "label"
      }
     ]
@@ -152591,7 +152591,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1409458477 51.210430854 298.71)",
+      "value": "POINT Z (7.1409458477 51.210430854 298.71)",
       "type": "label"
      }
     ]
@@ -152614,7 +152614,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.161066824 51.3007383084 296.58)",
+      "value": "POINT Z (7.161066824 51.3007383084 296.58)",
       "type": "label"
      }
     ]
@@ -152637,7 +152637,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1623535212 51.2785002539 198.3)",
+      "value": "POINT Z (7.1623535212 51.2785002539 198.3)",
       "type": "label"
      }
     ]
@@ -152660,7 +152660,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1637822984 51.2455863698 246.53)",
+      "value": "POINT Z (7.1637822984 51.2455863698 246.53)",
       "type": "label"
      }
     ]
@@ -152683,7 +152683,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1638264804 51.2454870515 246.92)",
+      "value": "POINT Z (7.1638264804 51.2454870515 246.92)",
       "type": "label"
      }
     ]
@@ -152706,7 +152706,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.163358056 51.2587058184 148.9)",
+      "value": "POINT Z (7.163358056 51.2587058184 148.9)",
       "type": "label"
      }
     ]
@@ -152729,7 +152729,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1653209146 51.2111251753 184.35)",
+      "value": "POINT Z (7.1653209146 51.2111251753 184.35)",
       "type": "label"
      }
     ]
@@ -152752,7 +152752,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1641108529 51.2452233619 248.57)",
+      "value": "POINT Z (7.1641108529 51.2452233619 248.57)",
       "type": "label"
      }
     ]
@@ -152775,7 +152775,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1655169168 51.2115187302 184.15)",
+      "value": "POINT Z (7.1655169168 51.2115187302 184.15)",
       "type": "label"
      }
     ]
@@ -152798,7 +152798,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1631227723 51.2771635797 198.15)",
+      "value": "POINT Z (7.1631227723 51.2771635797 198.15)",
       "type": "label"
      }
     ]
@@ -152821,7 +152821,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1656997836 51.2153552263 198.34)",
+      "value": "POINT Z (7.1656997836 51.2153552263 198.34)",
       "type": "label"
      }
     ]
@@ -152844,7 +152844,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.16303781 51.2999136197 303.59)",
+      "value": "POINT Z (7.16303781 51.2999136197 303.59)",
       "type": "label"
      }
     ]
@@ -152867,7 +152867,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1637921855 51.2995746096 303.17)",
+      "value": "POINT Z (7.1637921855 51.2995746096 303.17)",
       "type": "label"
      }
     ]
@@ -152890,7 +152890,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1664683417 51.2397655024 325.2)",
+      "value": "POINT Z (7.1664683417 51.2397655024 325.2)",
       "type": "label"
      }
     ]
@@ -152913,7 +152913,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1672194192 51.2393199767 324.63)",
+      "value": "POINT Z (7.1672194192 51.2393199767 324.63)",
       "type": "label"
      }
     ]
@@ -152936,7 +152936,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1674946453 51.2391790779 323.26)",
+      "value": "POINT Z (7.1674946453 51.2391790779 323.26)",
       "type": "label"
      }
     ]
@@ -152959,7 +152959,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1668434199 51.2691588008 184.49)",
+      "value": "POINT Z (7.1668434199 51.2691588008 184.49)",
       "type": "label"
      }
     ]
@@ -152982,7 +152982,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1681870221 51.2802041267 203.35)",
+      "value": "POINT Z (7.1681870221 51.2802041267 203.35)",
       "type": "label"
      }
     ]
@@ -153005,7 +153005,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1682534991 51.2796396418 202.11)",
+      "value": "POINT Z (7.1682534991 51.2796396418 202.11)",
       "type": "label"
      }
     ]
@@ -153028,7 +153028,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1684617975 51.280300261 203.77)",
+      "value": "POINT Z (7.1684617975 51.280300261 203.77)",
       "type": "label"
      }
     ]
@@ -153051,7 +153051,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1695049334 51.2621321051 149.19)",
+      "value": "POINT Z (7.1695049334 51.2621321051 149.19)",
       "type": "label"
      }
     ]
@@ -153074,7 +153074,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1708832292 51.2430794921 283.59)",
+      "value": "POINT Z (7.1708832292 51.2430794921 283.59)",
       "type": "label"
      }
     ]
@@ -153097,7 +153097,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1694849929 51.2807327064 205.6)",
+      "value": "POINT Z (7.1694849929 51.2807327064 205.6)",
       "type": "label"
      }
     ]
@@ -153120,7 +153120,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1723698691 51.2629281206 150.4)",
+      "value": "POINT Z (7.1723698691 51.2629281206 150.4)",
       "type": "label"
      }
     ]
@@ -153143,7 +153143,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1717576171 51.2816920893 209.93)",
+      "value": "POINT Z (7.1717576171 51.2816920893 209.93)",
       "type": "label"
      }
     ]
@@ -153166,7 +153166,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1736975669 51.2422422872 320.92)",
+      "value": "POINT Z (7.1736975669 51.2422422872 320.92)",
       "type": "label"
      }
     ]
@@ -153189,7 +153189,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1731410061 51.263138363 150.25)",
+      "value": "POINT Z (7.1731410061 51.263138363 150.25)",
       "type": "label"
      }
     ]
@@ -153212,7 +153212,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1727154043 51.2829812574 214.29)",
+      "value": "POINT Z (7.1727154043 51.2829812574 214.29)",
       "type": "label"
      }
     ]
@@ -153235,7 +153235,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1770302839 51.2422765021 331.09)",
+      "value": "POINT Z (7.1770302839 51.2422765021 331.09)",
       "type": "label"
      }
     ]
@@ -153258,7 +153258,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1763406596 51.2647817458 151.2)",
+      "value": "POINT Z (7.1763406596 51.2647817458 151.2)",
       "type": "label"
      }
     ]
@@ -153281,7 +153281,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1774861852 51.2430856149 314.99)",
+      "value": "POINT Z (7.1774861852 51.2430856149 314.99)",
       "type": "label"
      }
     ]
@@ -153304,7 +153304,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1767997157 51.2650162265 151.4)",
+      "value": "POINT Z (7.1767997157 51.2650162265 151.4)",
       "type": "label"
      }
     ]
@@ -153327,7 +153327,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1775576598 51.2654249764 151.28)",
+      "value": "POINT Z (7.1775576598 51.2654249764 151.28)",
       "type": "label"
      }
     ]
@@ -153350,7 +153350,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1785162215 51.2653700195 150.79)",
+      "value": "POINT Z (7.1785162215 51.2653700195 150.79)",
       "type": "label"
      }
     ]
@@ -153373,7 +153373,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1785672138 51.2663378048 157.67)",
+      "value": "POINT Z (7.1785672138 51.2663378048 157.67)",
       "type": "label"
      }
     ]
@@ -153396,7 +153396,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1788414618 51.2669938228 159.89)",
+      "value": "POINT Z (7.1788414618 51.2669938228 159.89)",
       "type": "label"
      }
     ]
@@ -153419,7 +153419,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1799338598 51.2430694526 323.68)",
+      "value": "POINT Z (7.1799338598 51.2430694526 323.68)",
       "type": "label"
      }
     ]
@@ -153442,7 +153442,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1807253778 51.2426569969 325.1)",
+      "value": "POINT Z (7.1807253778 51.2426569969 325.1)",
       "type": "label"
      }
     ]
@@ -153465,7 +153465,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1807162762 51.2430558182 326.63)",
+      "value": "POINT Z (7.1807162762 51.2430558182 326.63)",
       "type": "label"
      }
     ]
@@ -153488,7 +153488,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1798524109 51.2677250427 155.51)",
+      "value": "POINT Z (7.1798524109 51.2677250427 155.51)",
       "type": "label"
      }
     ]
@@ -153511,7 +153511,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1803215784 51.2678553847 153.32)",
+      "value": "POINT Z (7.1803215784 51.2678553847 153.32)",
       "type": "label"
      }
     ]
@@ -153534,7 +153534,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1806654526 51.2896391287 277.91)",
+      "value": "POINT Z (7.1806654526 51.2896391287 277.91)",
       "type": "label"
      }
     ]
@@ -153557,7 +153557,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1810193724 51.2898731345 279.13)",
+      "value": "POINT Z (7.1810193724 51.2898731345 279.13)",
       "type": "label"
      }
     ]
@@ -153580,7 +153580,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1812077999 51.2870512026 264.45)",
+      "value": "POINT Z (7.1812077999 51.2870512026 264.45)",
       "type": "label"
      }
     ]
@@ -153603,7 +153603,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1842732434 51.2784249609 199.47)",
+      "value": "POINT Z (7.1842732434 51.2784249609 199.47)",
       "type": "label"
      }
     ]
@@ -153626,7 +153626,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1849467888 51.2667692999 152.51)",
+      "value": "POINT Z (7.1849467888 51.2667692999 152.51)",
       "type": "label"
      }
     ]
@@ -153649,7 +153649,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1865606817 51.2792203088 196.22)",
+      "value": "POINT Z (7.1865606817 51.2792203088 196.22)",
       "type": "label"
      }
     ]
@@ -153672,7 +153672,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1870769367 51.2792537246 196.48)",
+      "value": "POINT Z (7.1870769367 51.2792537246 196.48)",
       "type": "label"
      }
     ]
@@ -153695,7 +153695,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1874821304 51.2792926606 196.69)",
+      "value": "POINT Z (7.1874821304 51.2792926606 196.69)",
       "type": "label"
      }
     ]
@@ -153718,7 +153718,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.189529201 51.2274407115 318.24)",
+      "value": "POINT Z (7.189529201 51.2274407115 318.24)",
       "type": "label"
      }
     ]
@@ -153741,7 +153741,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1893043499 51.2438021762 341.24)",
+      "value": "POINT Z (7.1893043499 51.2438021762 341.24)",
       "type": "label"
      }
     ]
@@ -153764,7 +153764,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1905715442 51.2247705258 315.76)",
+      "value": "POINT Z (7.1905715442 51.2247705258 315.76)",
       "type": "label"
      }
     ]
@@ -153787,7 +153787,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1892598408 51.2672687564 152.7)",
+      "value": "POINT Z (7.1892598408 51.2672687564 152.7)",
       "type": "label"
      }
     ]
@@ -153810,7 +153810,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1910677868 51.2220429685 314.88)",
+      "value": "POINT Z (7.1910677868 51.2220429685 314.88)",
       "type": "label"
      }
     ]
@@ -153833,7 +153833,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1914705387 51.2212022578 308.34)",
+      "value": "POINT Z (7.1914705387 51.2212022578 308.34)",
       "type": "label"
      }
     ]
@@ -153856,7 +153856,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1906125292 51.2434770573 342.5)",
+      "value": "POINT Z (7.1906125292 51.2434770573 342.5)",
       "type": "label"
      }
     ]
@@ -153879,7 +153879,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1897361331 51.2674453105 152.03)",
+      "value": "POINT Z (7.1897361331 51.2674453105 152.03)",
       "type": "label"
      }
     ]
@@ -153902,7 +153902,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1915990427 51.2207691524 305.95)",
+      "value": "POINT Z (7.1915990427 51.2207691524 305.95)",
       "type": "label"
      }
     ]
@@ -153925,7 +153925,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1908285383 51.2432313839 342.2)",
+      "value": "POINT Z (7.1908285383 51.2432313839 342.2)",
       "type": "label"
      }
     ]
@@ -153948,7 +153948,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1911265435 51.2428124819 341.51)",
+      "value": "POINT Z (7.1911265435 51.2428124819 341.51)",
       "type": "label"
      }
     ]
@@ -153971,7 +153971,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1907391098 51.2680167814 151.58)",
+      "value": "POINT Z (7.1907391098 51.2680167814 151.58)",
       "type": "label"
      }
     ]
@@ -153994,7 +153994,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1921362095 51.234405197 328.88)",
+      "value": "POINT Z (7.1921362095 51.234405197 328.88)",
       "type": "label"
      }
     ]
@@ -154017,7 +154017,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1903754181 51.2795968486 190.38)",
+      "value": "POINT Z (7.1903754181 51.2795968486 190.38)",
       "type": "label"
      }
     ]
@@ -154040,7 +154040,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1923747602 51.2406872885 344.18)",
+      "value": "POINT Z (7.1923747602 51.2406872885 344.18)",
       "type": "label"
      }
     ]
@@ -154063,7 +154063,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1934243344 51.2393618349 345.04)",
+      "value": "POINT Z (7.1934243344 51.2393618349 345.04)",
       "type": "label"
      }
     ]
@@ -154086,7 +154086,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1924744548 51.2689416878 152.05)",
+      "value": "POINT Z (7.1924744548 51.2689416878 152.05)",
       "type": "label"
      }
     ]
@@ -154109,7 +154109,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.194275296 51.2355355487 339.59)",
+      "value": "POINT Z (7.194275296 51.2355355487 339.59)",
       "type": "label"
      }
     ]
@@ -154132,7 +154132,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1929898166 51.2684964335 153.12)",
+      "value": "POINT Z (7.1929898166 51.2684964335 153.12)",
       "type": "label"
      }
     ]
@@ -154155,7 +154155,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1945587084 51.2360526867 342.62)",
+      "value": "POINT Z (7.1945587084 51.2360526867 342.62)",
       "type": "label"
      }
     ]
@@ -154178,7 +154178,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1933686213 51.2693245788 152.39)",
+      "value": "POINT Z (7.1933686213 51.2693245788 152.39)",
       "type": "label"
      }
     ]
@@ -154201,7 +154201,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1958019346 51.2379334884 345.45)",
+      "value": "POINT Z (7.1958019346 51.2379334884 345.45)",
       "type": "label"
      }
     ]
@@ -154224,7 +154224,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1946809077 51.2692806322 153.27)",
+      "value": "POINT Z (7.1946809077 51.2692806322 153.27)",
       "type": "label"
      }
     ]
@@ -154247,7 +154247,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1954590926 51.2701575552 154.42)",
+      "value": "POINT Z (7.1954590926 51.2701575552 154.42)",
       "type": "label"
      }
     ]
@@ -154270,7 +154270,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1961385751 51.273364106 182.48)",
+      "value": "POINT Z (7.1961385751 51.273364106 182.48)",
       "type": "label"
      }
     ]
@@ -154293,7 +154293,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.198810984 51.2233084302 267.44)",
+      "value": "POINT Z (7.198810984 51.2233084302 267.44)",
       "type": "label"
      }
     ]
@@ -154316,7 +154316,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1996268116 51.2222033951 264.28)",
+      "value": "POINT Z (7.1996268116 51.2222033951 264.28)",
       "type": "label"
      }
     ]
@@ -154339,7 +154339,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1992059806 51.2374731159 342.5)",
+      "value": "POINT Z (7.1992059806 51.2374731159 342.5)",
       "type": "label"
      }
     ]
@@ -154362,7 +154362,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2002483315 51.2253203886 268.57)",
+      "value": "POINT Z (7.2002483315 51.2253203886 268.57)",
       "type": "label"
      }
     ]
@@ -154385,7 +154385,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1998359872 51.2375091909 341.8)",
+      "value": "POINT Z (7.1998359872 51.2375091909 341.8)",
       "type": "label"
      }
     ]
@@ -154408,7 +154408,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2006850869 51.2293056191 285.55)",
+      "value": "POINT Z (7.2006850869 51.2293056191 285.55)",
       "type": "label"
      }
     ]
@@ -154431,7 +154431,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.200896042 51.2264152726 271.6)",
+      "value": "POINT Z (7.200896042 51.2264152726 271.6)",
       "type": "label"
      }
     ]
@@ -154454,7 +154454,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2015949435 51.2318106553 301.07)",
+      "value": "POINT Z (7.2015949435 51.2318106553 301.07)",
       "type": "label"
      }
     ]
@@ -154477,7 +154477,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2018865539 51.2276186691 275.92)",
+      "value": "POINT Z (7.2018865539 51.2276186691 275.92)",
       "type": "label"
      }
     ]
@@ -154500,7 +154500,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2046873111 51.2169428075 253.36)",
+      "value": "POINT Z (7.2046873111 51.2169428075 253.36)",
       "type": "label"
      }
     ]
@@ -154523,7 +154523,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2027042531 51.2765193982 166.78)",
+      "value": "POINT Z (7.2027042531 51.2765193982 166.78)",
       "type": "label"
      }
     ]
@@ -154546,7 +154546,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2028104359 51.2761947407 165.44)",
+      "value": "POINT Z (7.2028104359 51.2761947407 165.44)",
       "type": "label"
      }
     ]
@@ -154569,7 +154569,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2053887095 51.2165709483 252.25)",
+      "value": "POINT Z (7.2053887095 51.2165709483 252.25)",
       "type": "label"
      }
     ]
@@ -154592,7 +154592,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2032681844 51.2778428431 171.78)",
+      "value": "POINT Z (7.2032681844 51.2778428431 171.78)",
       "type": "label"
      }
     ]
@@ -154615,7 +154615,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2057932405 51.216377244 251.66)",
+      "value": "POINT Z (7.2057932405 51.216377244 251.66)",
       "type": "label"
      }
     ]
@@ -154638,7 +154638,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2036045252 51.2744177911 157.4)",
+      "value": "POINT Z (7.2036045252 51.2744177911 157.4)",
       "type": "label"
      }
     ]
@@ -154661,7 +154661,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2039339841 51.27860229 175.13)",
+      "value": "POINT Z (7.2039339841 51.27860229 175.13)",
       "type": "label"
      }
     ]
@@ -154684,7 +154684,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2042972312 51.2712644837 155.52)",
+      "value": "POINT Z (7.2042972312 51.2712644837 155.52)",
       "type": "label"
      }
     ]
@@ -154707,7 +154707,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2051197577 51.2714720105 155.97)",
+      "value": "POINT Z (7.2051197577 51.2714720105 155.97)",
       "type": "label"
      }
     ]
@@ -154730,7 +154730,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2054450535 51.2736222865 155.36)",
+      "value": "POINT Z (7.2054450535 51.2736222865 155.36)",
       "type": "label"
      }
     ]
@@ -154753,7 +154753,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2077064682 51.2365682732 332.86)",
+      "value": "POINT Z (7.2077064682 51.2365682732 332.86)",
       "type": "label"
      }
     ]
@@ -154776,7 +154776,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2062642687 51.2806651618 187.33)",
+      "value": "POINT Z (7.2062642687 51.2806651618 187.33)",
       "type": "label"
      }
     ]
@@ -154799,7 +154799,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2066494263 51.2728473569 157.24)",
+      "value": "POINT Z (7.2066494263 51.2728473569 157.24)",
       "type": "label"
      }
     ]
@@ -154822,7 +154822,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.206825821 51.2730163271 157.18)",
+      "value": "POINT Z (7.206825821 51.2730163271 157.18)",
       "type": "label"
      }
     ]
@@ -154845,7 +154845,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2086480506 51.2738232246 156.71)",
+      "value": "POINT Z (7.2086480506 51.2738232246 156.71)",
       "type": "label"
      }
     ]
@@ -154868,7 +154868,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2124191081 51.2356846455 322.71)",
+      "value": "POINT Z (7.2124191081 51.2356846455 322.71)",
       "type": "label"
      }
     ]
@@ -154891,7 +154891,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2111047932 51.2742134322 157.1)",
+      "value": "POINT Z (7.2111047932 51.2742134322 157.1)",
       "type": "label"
      }
     ]
@@ -154914,7 +154914,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2114240781 51.2742409595 157.31)",
+      "value": "POINT Z (7.2114240781 51.2742409595 157.31)",
       "type": "label"
      }
     ]
@@ -154937,7 +154937,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2123055816 51.2743169627 157.6)",
+      "value": "POINT Z (7.2123055816 51.2743169627 157.6)",
       "type": "label"
      }
     ]
@@ -154960,7 +154960,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2132675166 51.2744012771 157.84)",
+      "value": "POINT Z (7.2132675166 51.2744012771 157.84)",
       "type": "label"
      }
     ]
@@ -154983,7 +154983,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2138860956 51.2744430955 158.19)",
+      "value": "POINT Z (7.2138860956 51.2744430955 158.19)",
       "type": "label"
      }
     ]
@@ -155006,7 +155006,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.214289868 51.2744837606 158.33)",
+      "value": "POINT Z (7.214289868 51.2744837606 158.33)",
       "type": "label"
      }
     ]
@@ -155029,7 +155029,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2754875664 51.2597933536 185.55)",
+      "value": "POINT Z (7.2754875664 51.2597933536 185.55)",
       "type": "label"
      }
     ]
@@ -155052,7 +155052,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2173887237 51.2214002281 298.51)",
+      "value": "POINT Z (7.2173887237 51.2214002281 298.51)",
       "type": "label"
      }
     ]
@@ -155075,7 +155075,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2157394743 51.2747772268 158.67)",
+      "value": "POINT Z (7.2157394743 51.2747772268 158.67)",
       "type": "label"
      }
     ]
@@ -155098,7 +155098,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2161149131 51.2748833662 158.91)",
+      "value": "POINT Z (7.2161149131 51.2748833662 158.91)",
       "type": "label"
      }
     ]
@@ -155121,7 +155121,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2166515564 51.2749999563 159.28)",
+      "value": "POINT Z (7.2166515564 51.2749999563 159.28)",
       "type": "label"
      }
     ]
@@ -155144,7 +155144,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2170001308 51.277881867 179.24)",
+      "value": "POINT Z (7.2170001308 51.277881867 179.24)",
       "type": "label"
      }
     ]
@@ -155167,7 +155167,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2178074186 51.2757214571 160.98)",
+      "value": "POINT Z (7.2178074186 51.2757214571 160.98)",
       "type": "label"
      }
     ]
@@ -155190,7 +155190,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.217862624 51.2751316471 159.87)",
+      "value": "POINT Z (7.217862624 51.2751316471 159.87)",
       "type": "label"
      }
     ]
@@ -155213,7 +155213,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2178367285 51.2765643339 164.4)",
+      "value": "POINT Z (7.2178367285 51.2765643339 164.4)",
       "type": "label"
      }
     ]
@@ -155236,7 +155236,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2213036619 51.2753290684 161.47)",
+      "value": "POINT Z (7.2213036619 51.2753290684 161.47)",
       "type": "label"
      }
     ]
@@ -155259,7 +155259,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2231687444 51.2754148454 162.4)",
+      "value": "POINT Z (7.2231687444 51.2754148454 162.4)",
       "type": "label"
      }
     ]
@@ -155282,7 +155282,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2267115278 51.2476997814 231.29)",
+      "value": "POINT Z (7.2267115278 51.2476997814 231.29)",
       "type": "label"
      }
     ]
@@ -155305,7 +155305,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2271319056 51.2388832513 296.11)",
+      "value": "POINT Z (7.2271319056 51.2388832513 296.11)",
       "type": "label"
      }
     ]
@@ -155328,7 +155328,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2268223725 51.2529312431 196.72)",
+      "value": "POINT Z (7.2268223725 51.2529312431 196.72)",
       "type": "label"
      }
     ]
@@ -155351,7 +155351,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2290843431 51.2435828949 259.5)",
+      "value": "POINT Z (7.2290843431 51.2435828949 259.5)",
       "type": "label"
      }
     ]
@@ -155374,7 +155374,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2281060929 51.2735320081 170.84)",
+      "value": "POINT Z (7.2281060929 51.2735320081 170.84)",
       "type": "label"
      }
     ]
@@ -155397,7 +155397,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2284520006 51.2755320448 172.04)",
+      "value": "POINT Z (7.2284520006 51.2755320448 172.04)",
       "type": "label"
      }
     ]
@@ -155420,7 +155420,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2301068598 51.2432185628 264.03)",
+      "value": "POINT Z (7.2301068598 51.2432185628 264.03)",
       "type": "label"
      }
     ]
@@ -155443,7 +155443,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2296658938 51.2548934398 179.44)",
+      "value": "POINT Z (7.2296658938 51.2548934398 179.44)",
       "type": "label"
      }
     ]
@@ -155466,7 +155466,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2297565885 51.2586017062 180.85)",
+      "value": "POINT Z (7.2297565885 51.2586017062 180.85)",
       "type": "label"
      }
     ]
@@ -155489,7 +155489,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2297372784 51.2758330845 167.31)",
+      "value": "POINT Z (7.2297372784 51.2758330845 167.31)",
       "type": "label"
      }
     ]
@@ -155512,7 +155512,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2306793006 51.2569589251 176.23)",
+      "value": "POINT Z (7.2306793006 51.2569589251 176.23)",
       "type": "label"
      }
     ]
@@ -155535,7 +155535,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2308793206 51.2598753512 180.88)",
+      "value": "POINT Z (7.2308793206 51.2598753512 180.88)",
       "type": "label"
      }
     ]
@@ -155558,7 +155558,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2303021993 51.2759716073 165.65)",
+      "value": "POINT Z (7.2303021993 51.2759716073 165.65)",
       "type": "label"
      }
     ]
@@ -155581,7 +155581,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2311585464 51.2558452351 172.58)",
+      "value": "POINT Z (7.2311585464 51.2558452351 172.58)",
       "type": "label"
      }
     ]
@@ -155604,7 +155604,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2306312334 51.2698434564 163.42)",
+      "value": "POINT Z (7.2306312334 51.2698434564 163.42)",
       "type": "label"
      }
     ]
@@ -155627,7 +155627,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2305547626 51.2759678723 165.24)",
+      "value": "POINT Z (7.2305547626 51.2759678723 165.24)",
       "type": "label"
      }
     ]
@@ -155650,7 +155650,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2313326131 51.2563297815 173.17)",
+      "value": "POINT Z (7.2313326131 51.2563297815 173.17)",
       "type": "label"
      }
     ]
@@ -155673,7 +155673,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2320663516 51.243397936 271.76)",
+      "value": "POINT Z (7.2320663516 51.243397936 271.76)",
       "type": "label"
      }
     ]
@@ -155696,7 +155696,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2311540914 51.270764602 163.24)",
+      "value": "POINT Z (7.2311540914 51.270764602 163.24)",
       "type": "label"
      }
     ]
@@ -155719,7 +155719,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2314957624 51.2728169826 185.1)",
+      "value": "POINT Z (7.2314957624 51.2728169826 185.1)",
       "type": "label"
      }
     ]
@@ -155742,7 +155742,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2316567479 51.2701955853 163.26)",
+      "value": "POINT Z (7.2316567479 51.2701955853 163.26)",
       "type": "label"
      }
     ]
@@ -155765,7 +155765,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2317610964 51.2687382545 163.65)",
+      "value": "POINT Z (7.2317610964 51.2687382545 163.65)",
       "type": "label"
      }
     ]
@@ -155788,7 +155788,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2318731486 51.272809243 186.61)",
+      "value": "POINT Z (7.2318731486 51.272809243 186.61)",
       "type": "label"
      }
     ]
@@ -155811,7 +155811,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2321517907 51.2696038242 163.53)",
+      "value": "POINT Z (7.2321517907 51.2696038242 163.53)",
       "type": "label"
      }
     ]
@@ -155834,7 +155834,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2333291823 51.2399032874 292.5)",
+      "value": "POINT Z (7.2333291823 51.2399032874 292.5)",
       "type": "label"
      }
     ]
@@ -155857,7 +155857,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2327460196 51.2584352993 169.82)",
+      "value": "POINT Z (7.2327460196 51.2584352993 169.82)",
       "type": "label"
      }
     ]
@@ -155880,7 +155880,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2328726713 51.2574508414 170.46)",
+      "value": "POINT Z (7.2328726713 51.2574508414 170.46)",
       "type": "label"
      }
     ]
@@ -155903,7 +155903,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2328127772 51.2586872855 169.64)",
+      "value": "POINT Z (7.2328127772 51.2586872855 169.64)",
       "type": "label"
      }
     ]
@@ -155926,7 +155926,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2326142352 51.2690258964 163.51)",
+      "value": "POINT Z (7.2326142352 51.2690258964 163.51)",
       "type": "label"
      }
     ]
@@ -155949,7 +155949,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2343133405 51.226518967 301.62)",
+      "value": "POINT Z (7.2343133405 51.226518967 301.62)",
       "type": "label"
      }
     ]
@@ -155972,7 +155972,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.23312816 51.2593302614 169.14)",
+      "value": "POINT Z (7.23312816 51.2593302614 169.14)",
       "type": "label"
      }
     ]
@@ -155995,7 +155995,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2344234138 51.2263241718 301.39)",
+      "value": "POINT Z (7.2344234138 51.2263241718 301.39)",
       "type": "label"
      }
     ]
@@ -156018,7 +156018,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2345540186 51.2278332473 299.65)",
+      "value": "POINT Z (7.2345540186 51.2278332473 299.65)",
       "type": "label"
      }
     ]
@@ -156041,7 +156041,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2328873989 51.2728075306 190.7)",
+      "value": "POINT Z (7.2328873989 51.2728075306 190.7)",
       "type": "label"
      }
     ]
@@ -156064,7 +156064,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2347020183 51.225839256 300.91)",
+      "value": "POINT Z (7.2347020183 51.225839256 300.91)",
       "type": "label"
      }
     ]
@@ -156087,7 +156087,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2346399828 51.2281279827 301.14)",
+      "value": "POINT Z (7.2346399828 51.2281279827 301.14)",
       "type": "label"
      }
     ]
@@ -156110,7 +156110,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2347427535 51.2284901533 300.93)",
+      "value": "POINT Z (7.2347427535 51.2284901533 300.93)",
       "type": "label"
      }
     ]
@@ -156133,7 +156133,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2336602882 51.2640673958 172.71)",
+      "value": "POINT Z (7.2336602882 51.2640673958 172.71)",
       "type": "label"
      }
     ]
@@ -156156,7 +156156,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2353276426 51.2249070121 300.02)",
+      "value": "POINT Z (7.2353276426 51.2249070121 300.02)",
       "type": "label"
      }
     ]
@@ -156179,7 +156179,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2340490174 51.2607345285 168.18)",
+      "value": "POINT Z (7.2340490174 51.2607345285 168.18)",
       "type": "label"
      }
     ]
@@ -156202,7 +156202,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2351004017 51.2389801493 290.85)",
+      "value": "POINT Z (7.2351004017 51.2389801493 290.85)",
       "type": "label"
      }
     ]
@@ -156225,7 +156225,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2340936279 51.266094165 165.27)",
+      "value": "POINT Z (7.2340936279 51.266094165 165.27)",
       "type": "label"
      }
     ]
@@ -156248,7 +156248,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2354538782 51.2312026741 299.77)",
+      "value": "POINT Z (7.2354538782 51.2312026741 299.77)",
       "type": "label"
      }
     ]
@@ -156271,7 +156271,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2341186189 51.2668296687 165.03)",
+      "value": "POINT Z (7.2341186189 51.2668296687 165.03)",
       "type": "label"
      }
     ]
@@ -156294,7 +156294,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2355355373 51.2384901278 289.99)",
+      "value": "POINT Z (7.2355355373 51.2384901278 289.99)",
       "type": "label"
      }
     ]
@@ -156317,7 +156317,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2358603149 51.2326980314 299.86)",
+      "value": "POINT Z (7.2358603149 51.2326980314 299.86)",
       "type": "label"
      }
     ]
@@ -156340,7 +156340,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2358039854 51.2372989603 293)",
+      "value": "POINT Z (7.2358039854 51.2372989603 293)",
       "type": "label"
      }
     ]
@@ -156363,7 +156363,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2359391209 51.2353898895 301.11)",
+      "value": "POINT Z (7.2359391209 51.2353898895 301.11)",
       "type": "label"
      }
     ]
@@ -156386,7 +156386,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2360355125 51.2337072088 300.85)",
+      "value": "POINT Z (7.2360355125 51.2337072088 300.85)",
       "type": "label"
      }
     ]
@@ -156409,7 +156409,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2353710561 51.2673781995 166.25)",
+      "value": "POINT Z (7.2353710561 51.2673781995 166.25)",
       "type": "label"
      }
     ]
@@ -156432,7 +156432,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2352040751 51.2770788088 167.92)",
+      "value": "POINT Z (7.2352040751 51.2770788088 167.92)",
       "type": "label"
      }
     ]
@@ -156455,7 +156455,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2355873012 51.273329084 197.46)",
+      "value": "POINT Z (7.2355873012 51.273329084 197.46)",
       "type": "label"
      }
     ]
@@ -156478,7 +156478,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2356677776 51.2733534928 197.54)",
+      "value": "POINT Z (7.2356677776 51.2733534928 197.54)",
       "type": "label"
      }
     ]
@@ -156501,7 +156501,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2359334606 51.2677887008 167.46)",
+      "value": "POINT Z (7.2359334606 51.2677887008 167.46)",
       "type": "label"
      }
     ]
@@ -156524,7 +156524,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2364472649 51.2632141693 169.26)",
+      "value": "POINT Z (7.2364472649 51.2632141693 169.26)",
       "type": "label"
      }
     ]
@@ -156547,7 +156547,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2366598731 51.2667791213 166.03)",
+      "value": "POINT Z (7.2366598731 51.2667791213 166.03)",
       "type": "label"
      }
     ]
@@ -156570,7 +156570,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.237037858 51.2643950209 168.14)",
+      "value": "POINT Z (7.237037858 51.2643950209 168.14)",
       "type": "label"
      }
     ]
@@ -156593,7 +156593,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2371578018 51.2655017349 167.03)",
+      "value": "POINT Z (7.2371578018 51.2655017349 167.03)",
       "type": "label"
      }
     ]
@@ -156616,7 +156616,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2368694539 51.2735788868 198.37)",
+      "value": "POINT Z (7.2368694539 51.2735788868 198.37)",
       "type": "label"
      }
     ]
@@ -156639,7 +156639,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2376857966 51.2789862092 171.82)",
+      "value": "POINT Z (7.2376857966 51.2789862092 171.82)",
       "type": "label"
      }
     ]
@@ -156662,7 +156662,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2379890364 51.2737934686 199.39)",
+      "value": "POINT Z (7.2379890364 51.2737934686 199.39)",
       "type": "label"
      }
     ]
@@ -156685,7 +156685,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2381466232 51.2701450524 192.78)",
+      "value": "POINT Z (7.2381466232 51.2701450524 192.78)",
       "type": "label"
      }
     ]
@@ -156708,7 +156708,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.238432739 51.2679064453 180.59)",
+      "value": "POINT Z (7.238432739 51.2679064453 180.59)",
       "type": "label"
      }
     ]
@@ -156731,7 +156731,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2384832722 51.2720313239 196.83)",
+      "value": "POINT Z (7.2384832722 51.2720313239 196.83)",
       "type": "label"
      }
     ]
@@ -156754,7 +156754,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2386952637 51.2673574774 173.04)",
+      "value": "POINT Z (7.2386952637 51.2673574774 173.04)",
       "type": "label"
      }
     ]
@@ -156777,7 +156777,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2405420076 51.2213878688 311.59)",
+      "value": "POINT Z (7.2405420076 51.2213878688 311.59)",
       "type": "label"
      }
     ]
@@ -156800,7 +156800,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2378868545 51.2980480396 235.33)",
+      "value": "POINT Z (7.2378868545 51.2980480396 235.33)",
       "type": "label"
      }
     ]
@@ -156823,7 +156823,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2402836665 51.2740503591 201.93)",
+      "value": "POINT Z (7.2402836665 51.2740503591 201.93)",
       "type": "label"
      }
     ]
@@ -156846,7 +156846,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2403998452 51.2777080726 178.97)",
+      "value": "POINT Z (7.2403998452 51.2777080726 178.97)",
       "type": "label"
      }
     ]
@@ -156869,7 +156869,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2427290493 51.2230670595 296.7)",
+      "value": "POINT Z (7.2427290493 51.2230670595 296.7)",
       "type": "label"
      }
     ]
@@ -156892,7 +156892,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2404656207 51.3027610286 243.8)",
+      "value": "POINT Z (7.2404656207 51.3027610286 243.8)",
       "type": "label"
      }
     ]
@@ -156915,7 +156915,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2418065863 51.2809741976 174.45)",
+      "value": "POINT Z (7.2418065863 51.2809741976 174.45)",
       "type": "label"
      }
     ]
@@ -156938,7 +156938,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2438039954 51.2289380857 259.76)",
+      "value": "POINT Z (7.2438039954 51.2289380857 259.76)",
       "type": "label"
      }
     ]
@@ -156961,7 +156961,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2438441881 51.2286623153 259.82)",
+      "value": "POINT Z (7.2438441881 51.2286623153 259.82)",
       "type": "label"
      }
     ]
@@ -156984,7 +156984,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.242368266 51.2939308638 227.24)",
+      "value": "POINT Z (7.242368266 51.2939308638 227.24)",
       "type": "label"
      }
     ]
@@ -157007,7 +157007,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2447279586 51.2380104788 233.12)",
+      "value": "POINT Z (7.2447279586 51.2380104788 233.12)",
       "type": "label"
      }
     ]
@@ -157030,7 +157030,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2452086515 51.2313453104 247.11)",
+      "value": "POINT Z (7.2452086515 51.2313453104 247.11)",
       "type": "label"
      }
     ]
@@ -157053,7 +157053,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2438814767 51.2818390897 177.74)",
+      "value": "POINT Z (7.2438814767 51.2818390897 177.74)",
       "type": "label"
      }
     ]
@@ -157076,7 +157076,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2441659638 51.2809743917 174.81)",
+      "value": "POINT Z (7.2441659638 51.2809743917 174.81)",
       "type": "label"
      }
     ]
@@ -157099,7 +157099,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2444941282 51.2833020113 187.77)",
+      "value": "POINT Z (7.2444941282 51.2833020113 187.77)",
       "type": "label"
      }
     ]
@@ -157122,7 +157122,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2468784106 51.2324912311 239.9)",
+      "value": "POINT Z (7.2468784106 51.2324912311 239.9)",
       "type": "label"
      }
     ]
@@ -157145,7 +157145,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2456885263 51.2750719753 200.36)",
+      "value": "POINT Z (7.2456885263 51.2750719753 200.36)",
       "type": "label"
      }
     ]
@@ -157168,7 +157168,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2452448793 51.2872658074 203.79)",
+      "value": "POINT Z (7.2452448793 51.2872658074 203.79)",
       "type": "label"
      }
     ]
@@ -157191,7 +157191,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2455668625 51.2939055737 221.55)",
+      "value": "POINT Z (7.2455668625 51.2939055737 221.55)",
       "type": "label"
      }
     ]
@@ -157214,7 +157214,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2472199038 51.2753995075 201.49)",
+      "value": "POINT Z (7.2472199038 51.2753995075 201.49)",
       "type": "label"
      }
     ]
@@ -157237,7 +157237,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2466050625 51.2967348717 230.92)",
+      "value": "POINT Z (7.2466050625 51.2967348717 230.92)",
       "type": "label"
      }
     ]
@@ -157260,7 +157260,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2474316656 51.2754186436 201.39)",
+      "value": "POINT Z (7.2474316656 51.2754186436 201.39)",
       "type": "label"
      }
     ]
@@ -157283,7 +157283,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2468808099 51.2952666815 221.44)",
+      "value": "POINT Z (7.2468808099 51.2952666815 221.44)",
       "type": "label"
      }
     ]
@@ -157306,7 +157306,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2484224039 51.2755037463 201.02)",
+      "value": "POINT Z (7.2484224039 51.2755037463 201.02)",
       "type": "label"
      }
     ]
@@ -157329,7 +157329,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.248599334 51.2755173193 200.95)",
+      "value": "POINT Z (7.248599334 51.2755173193 200.95)",
       "type": "label"
      }
     ]
@@ -157352,7 +157352,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2472386828 51.3122669047 317.67)",
+      "value": "POINT Z (7.2472386828 51.3122669047 317.67)",
       "type": "label"
      }
     ]
@@ -157375,7 +157375,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2480139148 51.298400124 245.45)",
+      "value": "POINT Z (7.2480139148 51.298400124 245.45)",
       "type": "label"
      }
     ]
@@ -157398,7 +157398,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2481106144 51.3122591463 319.66)",
+      "value": "POINT Z (7.2481106144 51.3122591463 319.66)",
       "type": "label"
      }
     ]
@@ -157421,7 +157421,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2506623866 51.2555026032 176.21)",
+      "value": "POINT Z (7.2506623866 51.2555026032 176.21)",
       "type": "label"
      }
     ]
@@ -157444,7 +157444,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2496202886 51.2845976463 205.23)",
+      "value": "POINT Z (7.2496202886 51.2845976463 205.23)",
       "type": "label"
      }
     ]
@@ -157467,7 +157467,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2487686626 51.31237167 321.94)",
+      "value": "POINT Z (7.2487686626 51.31237167 321.94)",
       "type": "label"
      }
     ]
@@ -157490,7 +157490,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2488517768 51.3119497776 321.27)",
+      "value": "POINT Z (7.2488517768 51.3119497776 321.27)",
       "type": "label"
      }
     ]
@@ -157513,7 +157513,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2489745361 51.3114055366 320.29)",
+      "value": "POINT Z (7.2489745361 51.3114055366 320.29)",
       "type": "label"
      }
     ]
@@ -157536,7 +157536,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2512291056 51.2556007312 176.48)",
+      "value": "POINT Z (7.2512291056 51.2556007312 176.48)",
       "type": "label"
      }
     ]
@@ -157559,7 +157559,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2516023874 51.2556333504 176.6)",
+      "value": "POINT Z (7.2516023874 51.2556333504 176.6)",
       "type": "label"
      }
     ]
@@ -157582,7 +157582,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2495588027 51.3142192436 317.04)",
+      "value": "POINT Z (7.2495588027 51.3142192436 317.04)",
       "type": "label"
      }
     ]
@@ -157605,7 +157605,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2497580262 51.3101014178 314.85)",
+      "value": "POINT Z (7.2497580262 51.3101014178 314.85)",
       "type": "label"
      }
     ]
@@ -157628,7 +157628,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2498060894 51.3146441258 315.82)",
+      "value": "POINT Z (7.2498060894 51.3146441258 315.82)",
       "type": "label"
      }
     ]
@@ -157651,7 +157651,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2504599713 51.3095377747 311.2)",
+      "value": "POINT Z (7.2504599713 51.3095377747 311.2)",
       "type": "label"
      }
     ]
@@ -157674,7 +157674,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.250858522 51.300240011 256.06)",
+      "value": "POINT Z (7.250858522 51.300240011 256.06)",
       "type": "label"
      }
     ]
@@ -157697,7 +157697,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2510211104 51.3091318242 308.62)",
+      "value": "POINT Z (7.2510211104 51.3091318242 308.62)",
       "type": "label"
      }
     ]
@@ -157720,7 +157720,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2545042163 51.2187811764 304.33)",
+      "value": "POINT Z (7.2545042163 51.2187811764 304.33)",
       "type": "label"
      }
     ]
@@ -157743,7 +157743,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2519066412 51.2903772954 216.23)",
+      "value": "POINT Z (7.2519066412 51.2903772954 216.23)",
       "type": "label"
      }
     ]
@@ -157766,7 +157766,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2536214565 51.2530903656 192.15)",
+      "value": "POINT Z (7.2536214565 51.2530903656 192.15)",
       "type": "label"
      }
     ]
@@ -157789,7 +157789,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2526739409 51.2862936086 201.39)",
+      "value": "POINT Z (7.2526739409 51.2862936086 201.39)",
       "type": "label"
      }
     ]
@@ -157812,7 +157812,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2524094529 51.3066415198 293.04)",
+      "value": "POINT Z (7.2524094529 51.3066415198 293.04)",
       "type": "label"
      }
     ]
@@ -157835,7 +157835,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2524027698 51.3072132971 296.41)",
+      "value": "POINT Z (7.2524027698 51.3072132971 296.41)",
       "type": "label"
      }
     ]
@@ -157858,7 +157858,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2533827355 51.2826595978 180.87)",
+      "value": "POINT Z (7.2533827355 51.2826595978 180.87)",
       "type": "label"
      }
     ]
@@ -157881,7 +157881,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2542283754 51.2829089506 180.42)",
+      "value": "POINT Z (7.2542283754 51.2829089506 180.42)",
       "type": "label"
      }
     ]
@@ -157904,7 +157904,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2546860833 51.2848037824 189.94)",
+      "value": "POINT Z (7.2546860833 51.2848037824 189.94)",
       "type": "label"
      }
     ]
@@ -157927,7 +157927,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2559654384 51.2556805233 177.81)",
+      "value": "POINT Z (7.2559654384 51.2556805233 177.81)",
       "type": "label"
      }
     ]
@@ -157950,7 +157950,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2553971094 51.2850130871 186.12)",
+      "value": "POINT Z (7.2553971094 51.2850130871 186.12)",
       "type": "label"
      }
     ]
@@ -157973,7 +157973,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2562050491 51.2836469456 180.83)",
+      "value": "POINT Z (7.2562050491 51.2836469456 180.83)",
       "type": "label"
      }
     ]
@@ -157996,7 +157996,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2562621959 51.2831706446 180.74)",
+      "value": "POINT Z (7.2562621959 51.2831706446 180.74)",
       "type": "label"
      }
     ]
@@ -158019,7 +158019,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2573887427 51.2832620162 181.25)",
+      "value": "POINT Z (7.2573887427 51.2832620162 181.25)",
       "type": "label"
      }
     ]
@@ -158042,7 +158042,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2610862319 51.2234920599 308.23)",
+      "value": "POINT Z (7.2610862319 51.2234920599 308.23)",
       "type": "label"
      }
     ]
@@ -158065,7 +158065,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2617273816 51.2270242482 310.53)",
+      "value": "POINT Z (7.2617273816 51.2270242482 310.53)",
       "type": "label"
      }
     ]
@@ -158088,7 +158088,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2596697315 51.2837584563 182.72)",
+      "value": "POINT Z (7.2596697315 51.2837584563 182.72)",
       "type": "label"
      }
     ]
@@ -158111,7 +158111,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2616595442 51.2330919297 286.88)",
+      "value": "POINT Z (7.2616595442 51.2330919297 286.88)",
       "type": "label"
      }
     ]
@@ -158134,7 +158134,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2606005578 51.2840869027 183.35)",
+      "value": "POINT Z (7.2606005578 51.2840869027 183.35)",
       "type": "label"
      }
     ]
@@ -158157,7 +158157,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2624333258 51.2555284555 178.61)",
+      "value": "POINT Z (7.2624333258 51.2555284555 178.61)",
       "type": "label"
      }
     ]
@@ -158180,7 +158180,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2614058771 51.2844699004 183.93)",
+      "value": "POINT Z (7.2614058771 51.2844699004 183.93)",
       "type": "label"
      }
     ]
@@ -158203,7 +158203,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2647706715 51.209906914 288.22)",
+      "value": "POINT Z (7.2647706715 51.209906914 288.22)",
       "type": "label"
      }
     ]
@@ -158226,7 +158226,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2635657091 51.2862261714 186.17)",
+      "value": "POINT Z (7.2635657091 51.2862261714 186.17)",
       "type": "label"
      }
     ]
@@ -158249,7 +158249,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2687265697 51.2540237266 180.64)",
+      "value": "POINT Z (7.2687265697 51.2540237266 180.64)",
       "type": "label"
      }
     ]
@@ -158272,7 +158272,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2683569781 51.2780479739 216.57)",
+      "value": "POINT Z (7.2683569781 51.2780479739 216.57)",
       "type": "label"
      }
     ]
@@ -158295,7 +158295,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2696237668 51.2783072032 218.52)",
+      "value": "POINT Z (7.2696237668 51.2783072032 218.52)",
       "type": "label"
      }
     ]
@@ -158318,7 +158318,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.270594213 51.2529957137 183.43)",
+      "value": "POINT Z (7.270594213 51.2529957137 183.43)",
       "type": "label"
      }
     ]
@@ -158341,7 +158341,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2710678994 51.2786353263 221.65)",
+      "value": "POINT Z (7.2710678994 51.2786353263 221.65)",
       "type": "label"
      }
     ]
@@ -158364,7 +158364,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2724951395 51.2789633808 223.51)",
+      "value": "POINT Z (7.2724951395 51.2789633808 223.51)",
       "type": "label"
      }
     ]
@@ -158387,7 +158387,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2748567148 51.2599645573 184.88)",
+      "value": "POINT Z (7.2748567148 51.2599645573 184.88)",
       "type": "label"
      }
     ]
@@ -158410,7 +158410,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.275086245 51.2575316116 198.21)",
+      "value": "POINT Z (7.275086245 51.2575316116 198.21)",
       "type": "label"
      }
     ]
@@ -158433,7 +158433,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2779646736 51.2120473482 322.71)",
+      "value": "POINT Z (7.2779646736 51.2120473482 322.71)",
       "type": "label"
      }
     ]
@@ -158456,7 +158456,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2767032125 51.2591984572 187.44)",
+      "value": "POINT Z (7.2767032125 51.2591984572 187.44)",
       "type": "label"
      }
     ]
@@ -158479,7 +158479,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2781249063 51.2538080854 204.62)",
+      "value": "POINT Z (7.2781249063 51.2538080854 204.62)",
       "type": "label"
      }
     ]
@@ -158502,7 +158502,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2882985602 51.2483373322 209.62)",
+      "value": "POINT Z (7.2882985602 51.2483373322 209.62)",
       "type": "label"
      }
     ]
@@ -158525,7 +158525,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2891624348 51.2501269555 189.2)",
+      "value": "POINT Z (7.2891624348 51.2501269555 189.2)",
       "type": "label"
      }
     ]
@@ -158548,7 +158548,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1308516843 51.2539530166 149.2)",
+      "value": "POINT Z (7.1308516843 51.2539530166 149.2)",
       "type": "label"
      }
     ]
@@ -158571,7 +158571,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2239084422 51.2781280255 188.7)",
+      "value": "POINT Z (7.2239084422 51.2781280255 188.7)",
       "type": "label"
      }
     ]
@@ -158594,7 +158594,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2258597333 51.2769747193 188.7)",
+      "value": "POINT Z (7.2258597333 51.2769747193 188.7)",
       "type": "label"
      }
     ]
@@ -158617,7 +158617,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.226446771 51.2768085712 188.9)",
+      "value": "POINT Z (7.226446771 51.2768085712 188.9)",
       "type": "label"
      }
     ]
@@ -158640,7 +158640,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.231030572 51.2777067149 188.6)",
+      "value": "POINT Z (7.231030572 51.2777067149 188.6)",
       "type": "label"
      }
     ]
@@ -158663,7 +158663,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2332597635 51.2800344497 187.3)",
+      "value": "POINT Z (7.2332597635 51.2800344497 187.3)",
       "type": "label"
      }
     ]
@@ -158686,7 +158686,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2370770769 51.2808462783 183.7)",
+      "value": "POINT Z (7.2370770769 51.2808462783 183.7)",
       "type": "label"
      }
     ]
@@ -158709,7 +158709,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2386387854 51.2805295877 182.5)",
+      "value": "POINT Z (7.2386387854 51.2805295877 182.5)",
       "type": "label"
      }
     ]
@@ -158732,7 +158732,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2408404177 51.2787375508 182)",
+      "value": "POINT Z (7.2408404177 51.2787375508 182)",
       "type": "label"
      }
     ]
@@ -158755,7 +158755,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.0801561298 51.2377935526 174.6)",
+      "value": "POINT Z (7.0801561298 51.2377935526 174.6)",
       "type": "label"
      }
     ]
@@ -158778,7 +158778,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.2265222504 51.276794522 188.9)",
+      "value": "POINT Z (7.2265222504 51.276794522 188.9)",
       "type": "label"
      }
     ]
@@ -158801,7 +158801,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.1960252855 51.2734527994 182.2)",
+      "value": "POINT Z (7.1960252855 51.2734527994 182.2)",
       "type": "label"
      }
     ]
@@ -158824,7 +158824,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145154 51.266355 172.28)",
+      "value": "POINT Z (7.145154 51.266355 172.28)",
       "type": "label"
      }
     ]
@@ -158847,7 +158847,7 @@ var vowlresult={
      {
       "identifier": "http://www.opengis.net/ont/geosparql#asWKT",
       "language": "undefined",
-      "value": "POINT (7.145207 51.2661 171.27)",
+      "value": "POINT Z (7.145207 51.2661 171.27)",
       "type": "label"
      }
     ]

@@ -39,66 +39,59 @@ var minivowlresult={
  "links": [
   {
    "source": 2,
-   "target": 4,
-   "valueTo": "geometrieKnoten",
+   "target": 2,
+   "valueTo": "beginntBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
-  },
-  {
-   "source": 3,
-   "target": 4,
-   "valueTo": "geometrieKnoten",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
   },
   {
    "source": 2,
-   "target": 4,
-   "valueTo": "hasGeometry",
+   "target": 3,
+   "valueTo": "beginntBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
   },
   {
    "source": 5,
-   "target": 4,
-   "valueTo": "hasGeometry",
+   "target": 2,
+   "valueTo": "beginntBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
   },
   {
-   "source": 3,
-   "target": 4,
-   "valueTo": "hasGeometry",
+   "source": 5,
+   "target": 3,
+   "valueTo": "beginntBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
   },
   {
    "source": 2,
    "target": 2,
-   "valueTo": "ankommenderStreckenabschnitt",
+   "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   },
   {
    "source": 2,
    "target": 5,
-   "valueTo": "ankommenderStreckenabschnitt",
+   "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   },
   {
    "source": 3,
    "target": 2,
-   "valueTo": "ankommenderStreckenabschnitt",
+   "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   },
   {
    "source": 3,
    "target": 5,
-   "valueTo": "ankommenderStreckenabschnitt",
+   "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
   },
   {
    "source": 2,
@@ -117,86 +110,93 @@ var minivowlresult={
   {
    "source": 2,
    "target": 2,
-   "valueTo": "beginntBeiKnoten",
+   "valueTo": "endetBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
   },
   {
    "source": 2,
    "target": 3,
-   "valueTo": "beginntBeiKnoten",
+   "valueTo": "endetBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
   },
   {
    "source": 5,
    "target": 2,
-   "valueTo": "beginntBeiKnoten",
+   "valueTo": "endetBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
   },
   {
    "source": 5,
    "target": 3,
-   "valueTo": "beginntBeiKnoten",
+   "valueTo": "endetBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
+  },
+  {
+   "source": 2,
+   "target": 4,
+   "valueTo": "geometrieKnoten",
+   "propertyTo": "class",
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
+  },
+  {
+   "source": 3,
+   "target": 4,
+   "valueTo": "geometrieKnoten",
+   "propertyTo": "class",
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
   },
   {
    "source": 2,
    "target": 2,
-   "valueTo": "abgehenderStreckenabschnitt",
+   "valueTo": "ankommenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
   },
   {
    "source": 2,
    "target": 5,
-   "valueTo": "abgehenderStreckenabschnitt",
+   "valueTo": "ankommenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
   },
   {
    "source": 3,
    "target": 2,
-   "valueTo": "abgehenderStreckenabschnitt",
+   "valueTo": "ankommenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
   },
   {
    "source": 3,
    "target": 5,
-   "valueTo": "abgehenderStreckenabschnitt",
+   "valueTo": "ankommenderStreckenabschnitt",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/ankommenderStreckenabschnitt"
   },
   {
    "source": 2,
-   "target": 2,
-   "valueTo": "endetBeiKnoten",
+   "target": 4,
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
-  },
-  {
-   "source": 2,
-   "target": 3,
-   "valueTo": "endetBeiKnoten",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
    "source": 5,
-   "target": 2,
-   "valueTo": "endetBeiKnoten",
+   "target": 4,
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
-   "source": 5,
-   "target": 3,
-   "valueTo": "endetBeiKnoten",
+   "source": 3,
+   "target": 4,
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/endetBeiKnoten"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   }
  ]
 }
