@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 geosparql:asWKT a owl:DatatypeProperty .
 
@@ -39,9 +40,9 @@ gdi:strecken-ID a owl:DatatypeProperty .
 
 gdi:Knoten rdfs:subClassOf geosparql:Feature .
 
-sf:LineString rdfs:subClassOf geosparql:Geometry .
+sf:LineString a owl:Class ; rdfs:subClassOf geosparql:Geometry .
 
-sf:Point rdfs:subClassOf geosparql:Geometry .
+sf:Point a owl:Class ; rdfs:subClassOf geosparql:Geometry .
 
 ex-nw:Knoten_Wuppertal_100420101 a 
         gdi:Knoten ;
