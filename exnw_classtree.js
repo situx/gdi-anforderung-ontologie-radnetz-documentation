@@ -11873,8 +11873,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":1181,
-       "http://www.w3.org/ns/adms#Asset":1181,
-       "http://rdfs.org/ns/void#Dataset":1181
+       "http://rdfs.org/ns/void#Dataset":1181,
+       "http://www.w3.org/ns/adms#Asset":1181
       },
       "http://www.opengis.net/ont/geosparql#hasGeometry":{
        "instancecount":1181,
@@ -23745,8 +23745,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":1181,
-       "http://www.w3.org/ns/adms#Asset":1181,
-       "http://rdfs.org/ns/void#Dataset":1181
+       "http://rdfs.org/ns/void#Dataset":1181,
+       "http://www.w3.org/ns/adms#Asset":1181
       },
       "http://www.opengis.net/ont/geosparql#asWKT":{
        "instancecount":1182
@@ -35129,8 +35129,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":1134,
-       "http://www.w3.org/ns/adms#Asset":1134,
-       "http://rdfs.org/ns/void#Dataset":1134
+       "http://rdfs.org/ns/void#Dataset":1134,
+       "http://www.w3.org/ns/adms#Asset":1134
       },
       "http://www.opengis.net/ont/geosparql#hasGeometry":{
        "instancecount":1134,
@@ -35160,14 +35160,14 @@ var tree={
       "https://registry.gdi-de.org/up3/ontology/quell-ID":{
        "instancecount":1134
       },
+      "https://registry.gdi-de.org/up3/ontology/richtung":{
+       "instancecount":557
+      },
       "https://registry.gdi-de.org/up3/ontology/steigung":{
        "instancecount":1134
       },
       "https://registry.gdi-de.org/up3/ontology/strecken-ID":{
        "instancecount":1134
-      },
-      "https://registry.gdi-de.org/up3/ontology/richtung":{
-       "instancecount":557
       }
      }
     }
@@ -46533,8 +46533,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":1134,
-       "http://www.w3.org/ns/adms#Asset":1134,
-       "http://rdfs.org/ns/void#Dataset":1134
+       "http://rdfs.org/ns/void#Dataset":1134,
+       "http://www.w3.org/ns/adms#Asset":1134
       },
       "http://www.opengis.net/ont/geosparql#asWKT":{
        "instancecount":1134
@@ -46577,8 +46577,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":2,
-       "http://www.w3.org/ns/adms#Asset":2,
-       "http://rdfs.org/ns/void#Dataset":2
+       "http://rdfs.org/ns/void#Dataset":2,
+       "http://www.w3.org/ns/adms#Asset":2
       },
       "http://www.w3.org/1999/02/22-rdf-syntax-ns#type":{
        "instancecount":2
@@ -46588,8 +46588,8 @@ var tree={
       },
       "http://www.w3.org/2000/01/rdf-schema#member":{
        "instancecount":2315,
-       "https://registry.gdi-de.org/up3/ontology/Knoten":1181,
-       "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134
+       "https://registry.gdi-de.org/up3/ontology/Streckenabschnitt_optional":1134,
+       "https://registry.gdi-de.org/up3/ontology/Knoten":1181
       }
      }
     }
@@ -46635,8 +46635,8 @@ var tree={
      "to":{
       "http://rdfs.org/ns/void#inDataset":{
        "instancecount":2,
-       "http://www.w3.org/ns/adms#Asset":2,
-       "http://rdfs.org/ns/void#Dataset":2
+       "http://rdfs.org/ns/void#Dataset":2,
+       "http://www.w3.org/ns/adms#Asset":2
       },
       "http://www.w3.org/1999/02/22-rdf-syntax-ns#type":{
        "instancecount":2

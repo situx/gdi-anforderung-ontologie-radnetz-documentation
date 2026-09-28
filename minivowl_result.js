@@ -53,43 +53,15 @@ var minivowlresult={
  ],
  "links": [
   {
-   "source": 8,
+   "source": 5,
    "target": 3,
-   "valueTo": "member",
+   "valueTo": "beginntBeiKnoten",
    "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 8,
-   "target": 6,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 8,
-   "target": 5,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 8,
-   "target": 4,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
   },
   {
    "source": 7,
    "target": 3,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 7,
-   "target": 6,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
@@ -103,17 +75,73 @@ var minivowlresult={
   },
   {
    "source": 7,
+   "target": 6,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 7,
    "target": 4,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 8,
+   "target": 3,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 8,
+   "target": 5,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 8,
+   "target": 6,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 8,
+   "target": 4,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 3,
+   "target": 6,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 3,
+   "target": 4,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
    "source": 5,
    "target": 6,
-   "valueTo": "geometrieAbschnitt",
+   "valueTo": "hasGeometry",
    "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt"
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+  },
+  {
+   "source": 5,
+   "target": 4,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   },
   {
    "source": 3,
@@ -124,31 +152,17 @@ var minivowlresult={
   },
   {
    "source": 3,
-   "target": 6,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 3,
    "target": 4,
-   "valueTo": "hasGeometry",
+   "valueTo": "geometrieKnoten",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
   },
   {
    "source": 5,
    "target": 6,
-   "valueTo": "hasGeometry",
+   "valueTo": "geometrieAbschnitt",
    "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 5,
-   "target": 4,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
+   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieAbschnitt"
   },
   {
    "source": 5,
@@ -163,20 +177,6 @@ var minivowlresult={
    "valueTo": "abgehenderStreckenabschnitt",
    "propertyTo": "class",
    "uriTo": "https://registry.gdi-de.org/up3/ontology/abgehenderStreckenabschnitt"
-  },
-  {
-   "source": 5,
-   "target": 3,
-   "valueTo": "beginntBeiKnoten",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/beginntBeiKnoten"
-  },
-  {
-   "source": 3,
-   "target": 4,
-   "valueTo": "geometrieKnoten",
-   "propertyTo": "class",
-   "uriTo": "https://registry.gdi-de.org/up3/ontology/geometrieKnoten"
   }
  ]
 }
